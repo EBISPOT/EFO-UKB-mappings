@@ -1,0 +1,1616 @@
+STUDY,BIOENTITY,PROPERTY_TYPE,PROPERTY_VALUE,SEMANTIC_TAG,ANNOTATOR,ANNOTATION_DATE
+,ukbiobank_1,disease,Vascular disorders of intestine,http://www.ebi.ac.uk/efo/EFO_0004264,efo,26/04/2019 00:00
+,ukbiobank_1,disease,Vascular disorders of intestine,http://www.ebi.ac.uk/efo/EFO_0009431,efo,26/04/2019 00:00
+,ukbiobank_2,disease,Gonarthrosis,http://www.ebi.ac.uk/efo/EFO_0004616,efo,26/04/2019 00:00
+,ukbiobank_3,disease,Psoriatic and enteropathic arthropathies,http://www.ebi.ac.uk/efo/EFO_0003778,efo,26/04/2019 00:00
+,ukbiobank_4,phenotype,Pain associated with micturition,http://www.ebi.ac.uk/efo/EFO_0003901,efo,26/04/2019 00:00
+,ukbiobank_5,disease,Other mood,http://www.ebi.ac.uk/efo/EFO_0004247,efo,26/04/2019 00:00
+,ukbiobank_6,phenotype,Preterm delivery,http://www.ebi.ac.uk/efo/EFO_0003917,efo,26/04/2019 00:00
+,ukbiobank_7,disease,Injury of nerves at forearm level,http://www.ebi.ac.uk/efo/EFO_0004143,efo,26/04/2019 00:00
+,ukbiobank_8,disease,Injury of nerves at wrist and hand level,http://www.ebi.ac.uk/efo/EFO_0004143,efo,26/04/2019 00:00
+,ukbiobank_9,disease,Gastritis and duodenitis,http://www.ebi.ac.uk/efo/EFO_0000217,efo,26/04/2019 00:00
+,ukbiobank_10,experimental process,Problems related to physical environment,http://www.ebi.ac.uk/efo/EFO_0000487,efo,26/04/2019 00:00
+,ukbiobank_11,disease,Pre existing hypertension complicating pregnancy childbirth and the puerperium,http://www.ebi.ac.uk/efo/EFO_0000537,efo,26/04/2019 00:00
+,ukbiobank_12,disease,Pre existing hypertensive disorder with superimposed proteinuria,http://www.ebi.ac.uk/efo/EFO_0000537,efo,26/04/2019 00:00
+,ukbiobank_13,disease,Injury of blood vessels at wrist and hand level,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_14,disease,Superficial injuries involving multiple body regions,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_15,disease,Open wounds involving multiple body regions,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_16,disease,Other injuries involving multiple body regions,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_17,disease,Effects of air pressure and water pressure,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_18,disease,Sequelae of injuries of neck and trunk,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_19,disease,Sequelae of injuries involving multiple and unspecified body regions,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_20,disease,Sequelae of other effects of external causes,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_20,disease,Sequelae of other effects of external causes,http://www.ebi.ac.uk/efo/EFO_0008546,efo,26/04/2019 00:00
+,ukbiobank_21,disease,Other injuries of spine and trunk level unspecified,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_22,disease,Personal history of malignant neoplasm,http://www.ebi.ac.uk/efo/EFO_0000616,efo,26/04/2019 00:00
+,ukbiobank_23,disease,Seropositive rheumatoid arthritis,http://www.ebi.ac.uk/efo/EFO_0000685,efo,26/04/2019 00:00
+,ukbiobank_24,disease,Hypertrophic disorders of skin,http://www.ebi.ac.uk/efo/EFO_0000701,efo,26/04/2019 00:00
+,ukbiobank_25,disease,Other infestations,http://www.ebi.ac.uk/efo/EFO_0001067,efo,26/04/2019 00:00
+,ukbiobank_26,disease,Fibrosis and cirrhosis of liver,http://www.ebi.ac.uk/efo/EFO_0001422,efo,26/04/2019 00:00
+,ukbiobank_27,disease,Polyarthrosis,http://www.ebi.ac.uk/efo/EFO_0002506,efo,26/04/2019 00:00
+,ukbiobank_28,biological process,Supervision of normal pregnancy,http://www.ebi.ac.uk/efo/EFO_0002950,efo,26/04/2019 00:00
+,ukbiobank_29,disease,Unspecified contracted kidney,http://www.ebi.ac.uk/efo/EFO_0003086,efo,26/04/2019 00:00
+,ukbiobank_30,disease,Infections of genitourinary tract in pregnancy,http://www.ebi.ac.uk/efo/EFO_0003103,efo,26/04/2019 00:00
+,ukbiobank_31,disease,Sequelae of cerebrovascular disease,http://www.ebi.ac.uk/efo/EFO_0003763,efo,26/04/2019 00:00
+,ukbiobank_32,disease,Other acute ischaemic heart diseases,http://www.ebi.ac.uk/efo/EFO_0003777,efo,26/04/2019 00:00
+,ukbiobank_33,disease,Complications and ill defined descriptions of heart disease,http://www.ebi.ac.uk/efo/EFO_0003777,efo,26/04/2019 00:00
+,ukbiobank_34,disease,Osteoporosis in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0003882,efo,26/04/2019 00:00
+,ukbiobank_35,disease,Mental and behavioural disorders due to use of sedatives or hypnotics,http://www.ebi.ac.uk/efo/EFO_0003890,efo,26/04/2019 00:00
+,ukbiobank_36,disease,Mental and behavioural disorders due to use of hallucinogens,http://www.ebi.ac.uk/efo/EFO_0003890,efo,26/04/2019 00:00
+,ukbiobank_37,disease,Mental and behavioural disorders due to use of volatile solvents,http://www.ebi.ac.uk/efo/EFO_0003890,efo,26/04/2019 00:00
+,ukbiobank_38,disease,Fracture of lumbar spine and pelvis,http://www.ebi.ac.uk/efo/EFO_0003902,efo,26/04/2019 00:00
+,ukbiobank_39,disease,Hereditary and idiopathic neuropathy,http://www.ebi.ac.uk/efo/EFO_0004149,efo,26/04/2019 00:00
+,ukbiobank_40,disease,Osteopathies in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0004260,efo,26/04/2019 00:00
+,ukbiobank_41,disease,Other extrapyramidal and movement disorders,http://www.ebi.ac.uk/efo/EFO_0004280,efo,26/04/2019 00:00
+,ukbiobank_42,disease,Other congenital musculoskeletal deformities,http://www.ebi.ac.uk/efo/EFO_0005541,efo,26/04/2019 00:00
+,ukbiobank_43,disease,Carrier of infectious disease,http://www.ebi.ac.uk/efo/EFO_0005741,efo,26/04/2019 00:00
+,ukbiobank_44,phenotype,Premature rupture of membranes,http://www.ebi.ac.uk/efo/EFO_0006917,efo,26/04/2019 00:00
+,ukbiobank_45,disease,Anogenital herpesviral infection,http://www.ebi.ac.uk/efo/EFO_0007282,efo,26/04/2019 00:00
+,ukbiobank_46,disease,Postinfective and reactive arthropathies in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0007460,efo,26/04/2019 00:00
+,ukbiobank_47,disease,Early syphilis,http://www.ebi.ac.uk/efo/EFO_0007504,efo,26/04/2019 00:00
+,ukbiobank_48,disease,Sequelae of toxic effects of substances chiefly nonmedicinal as to source,http://www.ebi.ac.uk/efo/EFO_0008546,efo,26/04/2019 00:00
+,ukbiobank_49,disease,Subclinical iodine deficiency hypothyroidism,http://www.ebi.ac.uk/efo/EFO_0008614,efo,26/04/2019 00:00
+,ukbiobank_50,disease,Disorders of vitreous body and globe in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0008624,efo,26/04/2019 00:00
+,ukbiobank_51,disease,Polyarteritis nodosa and related conditions,http://www.ebi.ac.uk/efo/EFO_0009012,efo,26/04/2019 00:00
+,ukbiobank_52,disease,Sequelae of inflammatory diseases of CNS,http://www.ebi.ac.uk/efo/EFO_0009386,efo,26/04/2019 00:00
+,ukbiobank_53,disease,Respiratory tuberculosis not confimed,http://www.ebi.ac.uk/efo/EFO_1000049,efo,26/04/2019 00:00
+,ukbiobank_54,disease,Disorders of conjunctiva in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_1000203,efo,26/04/2019 00:00
+,ukbiobank_55,disease,Congenital deformities of hip,http://www.ebi.ac.uk/efo/EFO_1000648,efo,26/04/2019 00:00
+,ukbiobank_56,disease,Neonatal jaundice from other causes,http://www.ebi.ac.uk/efo/EFO_1000739,efo,26/04/2019 00:00
+,ukbiobank_57,disease,Urethral stricture,http://www.ebi.ac.uk/efo/EFO_1000840,efo,26/04/2019 00:00
+,ukbiobank_58,disease,Other specific arthropathies,http://www.ebi.ac.uk/efo/EFO_1000999,efo,26/04/2019 00:00
+,ukbiobank_59,disease,Conductive and sensorineural hearing loss,http://www.ebi.ac.uk/efo/EFO_1001176,efo,26/04/2019 00:00
+,ukbiobank_60,disease,other injuries of shoulder and upper arm,http://www.ebi.ac.uk/efo/EFO_1001250,efo,26/04/2019 00:00
+,ukbiobank_61,phenotype,Effects of heat and light,http://www.ebi.ac.uk/efo/EFO_1001340,efo,26/04/2019 00:00
+,ukbiobank_62,disease,Other disorders of middle ear and mastoid,http://www.ebi.ac.uk/efo/EFO_1001455,efo,26/04/2019 00:00
+,ukbiobank_63,disease,Atypical virus infections of CNS,http://www.ebi.ac.uk/efo/EFO_1001456,efo,26/04/2019 00:00
+,ukbiobank_64,disease,Female genital prolapse,http://www.ebi.ac.uk/efo/EFO_1001864,efo,26/04/2019 00:00
+,ukbiobank_65,phenotype,Dentofacial anomalies,http://purl.obolibrary.org/obo/HP_0000153,efo,26/04/2019 00:00
+,ukbiobank_66,phenotype,Cleft palate with cleft lip,http://purl.obolibrary.org/obo/HP_0000202,efo,26/04/2019 00:00
+,ukbiobank_67,phenotype,Congenital malformations of nose,http://purl.obolibrary.org/obo/HP_0000366,efo,26/04/2019 00:00
+,ukbiobank_68,phenotype,Disorders of refraction and accommodation,http://purl.obolibrary.org/obo/HP_0000539,efo,26/04/2019 00:00
+,ukbiobank_69,phenotype,Congenital malformations of gallbladder bile ducts and liver,http://purl.obolibrary.org/obo/HP_0001392,efo,26/04/2019 00:00
+,ukbiobank_70,phenotype,Obstructed labour due to maternal pelvic abnormality,http://purl.obolibrary.org/obo/HP_0001438,efo,26/04/2019 00:00
+,ukbiobank_71,phenotype,Abnormal findings in specimens from respiratory organs and thorax,http://purl.obolibrary.org/obo/HP_0002086,efo,26/04/2019 00:00
+,ukbiobank_72,phenotype,Congenital malformations of lung,http://purl.obolibrary.org/obo/HP_0002088,efo,26/04/2019 00:00
+,ukbiobank_73,phenotype,Other congenital malformations of peripheral vascular system,http://purl.obolibrary.org/obo/HP_0002597,efo,26/04/2019 00:00
+,ukbiobank_74,phenotype,Varicose veins of lower extremities,http://purl.obolibrary.org/obo/HP_0002619,efo,26/04/2019 00:00
+,ukbiobank_75,phenotype,Varicose veins of other sites,http://purl.obolibrary.org/obo/HP_0002619,efo,26/04/2019 00:00
+,ukbiobank_76,phenotype,Acute lymphadenitis,http://purl.obolibrary.org/obo/HP_0002840,efo,26/04/2019 00:00
+,ukbiobank_77,phenotype,Other abnormal findings in urine,http://purl.obolibrary.org/obo/HP_0003110,efo,26/04/2019 00:00
+,ukbiobank_78,phenotype,Unspecified abdominal hernia,http://purl.obolibrary.org/obo/HP_0004299,efo,26/04/2019 00:00
+,ukbiobank_79,phenotype,Unspecified viral hepatitis,http://purl.obolibrary.org/obo/HP_0012115,efo,26/04/2019 00:00
+,ukbiobank_80,phenotype,Other congenital malformations of digestive system,http://purl.obolibrary.org/obo/HP_0025031,efo,26/04/2019 00:00
+,ukbiobank_81,phenotype,Other congenital malformations of circulatory system,http://purl.obolibrary.org/obo/HP_0030680,efo,26/04/2019 00:00
+,ukbiobank_82,disease,Other congenital malformations of skin,http://www.orpha.net/ORDO/Orphanet_139027,efo,26/04/2019 00:00
+,ukbiobank_83,disease,Pneumoconiosis due to other inorganic dusts,http://www.orpha.net/ORDO/Orphanet_182098,efo,26/04/2019 00:00
+,ukbiobank_84,disease,Corns and callosities,http://www.orpha.net/ORDO/Orphanet_79141,efo,26/04/2019 00:00
+,ukbiobank_85,disease,Disorders of lacrimal system and orbit in diseases classified elsewhere,http://www.orpha.net/ORDO/Orphanet_98602,efo,26/04/2019 00:00
+,ukbiobank_86,disease,Alzheimer s disease,http://www.ebi.ac.uk/efo/EFO_0000249,efo,26/04/2019 00:00
+,ukbiobank_87,disease,Endocarditis valve unspecified,http://www.ebi.ac.uk/efo/EFO_0000465,efo,26/04/2019 00:00
+,ukbiobank_88,factor,Family history of other conditions,http://www.ebi.ac.uk/efo/EFO_0000493,efo,26/04/2019 00:00
+,ukbiobank_89,disease,Unspecified maternal hypertension,http://www.ebi.ac.uk/efo/EFO_0000668,efo,26/04/2019 00:00
+,ukbiobank_90,disease,Stroke not specified as haemorrhage or infarction,http://www.ebi.ac.uk/efo/EFO_0000712,efo,26/04/2019 00:00
+,ukbiobank_91,disease,Subarachnoid haemorrhage,http://www.ebi.ac.uk/efo/EFO_0000713,efo,26/04/2019 00:00
+,ukbiobank_92,disease,Unspecified human immunodeficiency virus,http://www.ebi.ac.uk/efo/EFO_0000764,efo,26/04/2019 00:00
+,ukbiobank_93,disease,Other endocrine disorders,http://www.ebi.ac.uk/efo/EFO_0001379,efo,26/04/2019 00:00
+,ukbiobank_94,disease,Other diseases of liver,http://www.ebi.ac.uk/efo/EFO_0001421,efo,26/04/2019 00:00
+,ukbiobank_95,disease,Primary disorders of muscles,http://www.ebi.ac.uk/efo/EFO_0002970,efo,26/04/2019 00:00
+,ukbiobank_96,disease,Pervasive developmental disorders,http://www.ebi.ac.uk/efo/EFO_0003759,efo,26/04/2019 00:00
+,ukbiobank_97,disease,Other cerebrovascular diseases,http://www.ebi.ac.uk/efo/EFO_0003763,efo,26/04/2019 00:00
+,ukbiobank_98,disease,Other diseases of gallbladder,http://www.ebi.ac.uk/efo/EFO_0003832,efo,26/04/2019 00:00
+,ukbiobank_99,phenotype,Pain,http://www.ebi.ac.uk/efo/EFO_0003843,efo,26/04/2019 00:00
+,ukbiobank_100,disease,Fracture of spine level unspecified,http://www.ebi.ac.uk/efo/EFO_0003902,efo,26/04/2019 00:00
+,ukbiobank_101,disease,Acute hepatitis B,http://www.ebi.ac.uk/efo/EFO_0004197,efo,26/04/2019 00:00
+,ukbiobank_102,disease,Abnormalities of heart beat,http://www.ebi.ac.uk/efo/EFO_0004269,efo,26/04/2019 00:00
+,ukbiobank_103,disease,Scoliosis,http://www.ebi.ac.uk/efo/EFO_0004273,efo,26/04/2019 00:00
+,ukbiobank_104,disease,Other congenital malformations of heart,http://www.ebi.ac.uk/efo/EFO_0005269,efo,26/04/2019 00:00
+,ukbiobank_105,disease,Disorders of tooth development and eruption,http://www.ebi.ac.uk/efo/EFO_0005410,efo,26/04/2019 00:00
+,ukbiobank_106,disease,Intracerebral haemorrhage,http://www.ebi.ac.uk/efo/EFO_0005669,efo,26/04/2019 00:00
+,ukbiobank_107,disease,Retinal detachments and breaks,http://www.ebi.ac.uk/efo/EFO_0005773,efo,26/04/2019 00:00
+,ukbiobank_108,disease,Tuberculosis of nervous system,http://www.ebi.ac.uk/efo/EFO_0007199,efo,26/04/2019 00:00
+,ukbiobank_109,disease,Acute hepatitis A,http://www.ebi.ac.uk/efo/EFO_0007305,efo,26/04/2019 00:00
+,ukbiobank_110,disease,Hookworm diseases,http://www.ebi.ac.uk/efo/EFO_0007314,efo,26/04/2019 00:00
+,ukbiobank_111,disease,Female infertility,http://www.ebi.ac.uk/efo/EFO_0008560,efo,26/04/2019 00:00
+,ukbiobank_112,disease,Sleep disorders,http://www.ebi.ac.uk/efo/EFO_0008568,efo,26/04/2019 00:00
+,ukbiobank_113,phenotype,Thiamine deficiency,http://www.ebi.ac.uk/efo/EFO_0008569,efo,26/04/2019 00:00
+,ukbiobank_114,disease,Viral conjunctivitis,http://www.ebi.ac.uk/efo/EFO_0008571,efo,26/04/2019 00:00
+,ukbiobank_115,disease,Alcoholic liver disease,http://www.ebi.ac.uk/efo/EFO_0008573,efo,26/04/2019 00:00
+,ukbiobank_116,disease,Spinal osteochondrosis,http://www.ebi.ac.uk/efo/EFO_0008576,efo,26/04/2019 00:00
+,ukbiobank_117,disease,Diseases of salivary glands,http://www.ebi.ac.uk/efo/EFO_0008581,efo,26/04/2019 00:00
+,ukbiobank_118,disease,Gender identity disorders,http://www.ebi.ac.uk/efo/EFO_0008587,efo,26/04/2019 00:00
+,ukbiobank_119,disease,Status asthmaticus,http://www.ebi.ac.uk/efo/EFO_0008590,efo,26/04/2019 00:00
+,ukbiobank_120,disease,Cystic kidney disease,http://www.ebi.ac.uk/efo/EFO_0008615,efo,26/04/2019 00:00
+,ukbiobank_121,disease,Polyp of female genital tract,http://www.ebi.ac.uk/efo/EFO_0008622,efo,26/04/2019 00:00
+,ukbiobank_122,disease,Persistent mood,http://www.ebi.ac.uk/efo/EFO_0008623,efo,26/04/2019 00:00
+,ukbiobank_123,disease,Disorders of vitreous body,http://www.ebi.ac.uk/efo/EFO_0008624,efo,26/04/2019 00:00
+,ukbiobank_124,disease,Ovarian dysfunction,http://www.ebi.ac.uk/efo/EFO_0009003,efo,26/04/2019 00:00
+,ukbiobank_125,disease,Other coagulation defects,http://www.ebi.ac.uk/efo/EFO_0009314,efo,26/04/2019 00:00
+,ukbiobank_126,disease,Granulomatous disorders of skin and subcutaneous tissue,http://www.ebi.ac.uk/efo/EFO_1000705,efo,26/04/2019 00:00
+,ukbiobank_127,disease,Excessive vomiting in pregnancy,http://www.ebi.ac.uk/efo/EFO_1000971,efo,26/04/2019 00:00
+,ukbiobank_128,disease,Hyperfunction of pituitary gland,http://www.ebi.ac.uk/efo/EFO_1000973,efo,26/04/2019 00:00
+,ukbiobank_129,disease,Other nutritional deficiencies,http://www.ebi.ac.uk/efo/EFO_1001067,efo,26/04/2019 00:00
+,ukbiobank_130,disease,Other rheumatic heart diseases,http://www.ebi.ac.uk/efo/EFO_1001161,efo,26/04/2019 00:00
+,ukbiobank_131,disease,Other helminthiases,http://www.ebi.ac.uk/efo/EFO_1001342,efo,26/04/2019 00:00
+,ukbiobank_132,disease,Unspecified viral infection of CNS,http://www.ebi.ac.uk/efo/EFO_1001456,efo,26/04/2019 00:00
+,ukbiobank_133,disease,Diverticular disease of intestine,http://www.ebi.ac.uk/efo/EFO_1001460,efo,26/04/2019 00:00
+,ukbiobank_134,disease,Premature separation of placenta,http://www.ebi.ac.uk/efo/EFO_1001754,efo,26/04/2019 00:00
+,ukbiobank_135,phenotype,Retention of urine,http://purl.obolibrary.org/obo/HP_0000016,efo,26/04/2019 00:00
+,ukbiobank_136,phenotype,Unspecified urinary incontinence,http://purl.obolibrary.org/obo/HP_0000020,efo,26/04/2019 00:00
+,ukbiobank_137,phenotype,Isolated proteinuria,http://purl.obolibrary.org/obo/HP_0000093,efo,26/04/2019 00:00
+,ukbiobank_138,phenotype,Cleft palate,http://purl.obolibrary.org/obo/HP_0000175,efo,26/04/2019 00:00
+,ukbiobank_139,phenotype,Hydrocephalus,http://purl.obolibrary.org/obo/HP_0000238,efo,26/04/2019 00:00
+,ukbiobank_140,phenotype,Visual disturbances,http://purl.obolibrary.org/obo/HP_0000505,efo,26/04/2019 00:00
+,ukbiobank_141,phenotype,Unspecified dementia,http://purl.obolibrary.org/obo/HP_0000726,efo,26/04/2019 00:00
+,ukbiobank_142,phenotype,Unspecified haematuria,http://purl.obolibrary.org/obo/HP_0000790,efo,26/04/2019 00:00
+,ukbiobank_143,phenotype,Cholecystitis,http://purl.obolibrary.org/obo/HP_0001082,efo,26/04/2019 00:00
+,ukbiobank_144,phenotype,Dystonia,http://purl.obolibrary.org/obo/HP_0001332,efo,26/04/2019 00:00
+,ukbiobank_145,phenotype,Ascites,http://purl.obolibrary.org/obo/HP_0001541,efo,26/04/2019 00:00
+,ukbiobank_146,phenotype,Iron deficiency anaemia,http://purl.obolibrary.org/obo/HP_0001891,efo,26/04/2019 00:00
+,ukbiobank_147,phenotype,Acute renal failure,http://purl.obolibrary.org/obo/HP_0001919,efo,26/04/2019 00:00
+,ukbiobank_148,phenotype,Nonspecific lymphadenitis,http://purl.obolibrary.org/obo/HP_0002840,efo,26/04/2019 00:00
+,ukbiobank_149,phenotype,Cachexia,http://purl.obolibrary.org/obo/HP_0004326,efo,26/04/2019 00:00
+,ukbiobank_150,phenotype,Disseminated intravascular coagulation,http://purl.obolibrary.org/obo/HP_0005521,efo,26/04/2019 00:00
+,ukbiobank_151,phenotype,Senile cataract,http://purl.obolibrary.org/obo/HP_0011141,efo,26/04/2019 00:00
+,ukbiobank_152,phenotype,Agranulocytosis,http://purl.obolibrary.org/obo/HP_0012234,efo,26/04/2019 00:00
+,ukbiobank_153,organism,Helicobacter pylori,http://purl.obolibrary.org/obo/NCBITaxon_210,efo,26/04/2019 00:00
+,ukbiobank_154,disease,Reduction defects of lower limb,http://www.orpha.net/ORDO/Orphanet_2130,efo,26/04/2019 00:00
+,ukbiobank_155,disease,Congenital hydrocephalus,http://www.orpha.net/ORDO/Orphanet_2185,efo,26/04/2019 00:00
+,ukbiobank_156,disease,Immunodeficiency with predominantly antibody defects,http://www.orpha.net/ORDO/Orphanet_331244,efo,26/04/2019 00:00
+,ukbiobank_157,disease,Congenital malformations of oesophagus,http://www.orpha.net/ORDO/Orphanet_88993,efo,26/04/2019 00:00
+,ukbiobank_158,disease,Syndactyly,http://www.orpha.net/ORDO/Orphanet_90025,efo,26/04/2019 00:00
+,ukbiobank_159,disease,Other congenital malformations of intestine,http://www.orpha.net/ORDO/Orphanet_97945,efo,26/04/2019 00:00
+,ukbiobank_160,disease,Other functional intestinal disorders,http://www.ebi.ac.uk/efo/EFO_0009431,efo,26/04/2019 00:00
+,ukbiobank_161,disease,Other disorders of peripheral nervous system,http://www.ebi.ac.uk/efo/EFO_0009387,efo,26/04/2019 00:00
+,ukbiobank_162,disease,Spondylosis,http://www.ebi.ac.uk/efo/EFO_0000706,efo,26/04/2019 00:00
+,ukbiobank_163,disease,Hypofunction and other disorders of pituitary gland,http://www.ebi.ac.uk/efo/EFO_0001380,efo,26/04/2019 00:00
+,ukbiobank_163,disease,Hypofunction and other disorders of pituitary gland,http://www.ebi.ac.uk/efo/EFO_0009607,efo,26/04/2019 00:00
+,ukbiobank_164,disease,Other retinal disorders,http://www.ebi.ac.uk/efo/EFO_0003839,efo,26/04/2019 00:00
+,ukbiobank_165,disease,Arterial embolism and thrombosis,http://www.ebi.ac.uk/efo/EFO_0004286,efo,26/04/2019 00:00
+,ukbiobank_166,disease,Juvenile osteochondrosis of hip and pelvis,http://www.orpha.net/ORDO/Orphanet_2380,efo,26/04/2019 00:00
+,ukbiobank_167,disease,Encephalitis myelitis and encephalomyelitis,http://www.ebi.ac.uk/efo/EFO_0007364,efo,26/04/2019 00:00
+,ukbiobank_168,disease,Atrial fibrillation and flutter,http://www.ebi.ac.uk/efo/EFO_0000275,efo,26/04/2019 00:00
+,ukbiobank_169,disease,Dermatopolymyositis,http://www.ebi.ac.uk/efo/EFO_0000398,efo,26/04/2019 00:00
+,ukbiobank_170,disease,Lack of food,http://www.ebi.ac.uk/efo/EFO_0008572,efo,26/04/2019 00:00
+,ukbiobank_171,disease,Inflammatory diseases of prostate,http://www.ebi.ac.uk/efo/EFO_0003830,efo,26/04/2019 00:00
+,ukbiobank_172,disease,Chronic renal failure,http://www.ebi.ac.uk/efo/EFO_0003884,efo,26/04/2019 00:00
+,ukbiobank_173,disease,Postpolio syndrome,http://www.ebi.ac.uk/efo/EFO_0007454,efo,26/04/2019 00:00
+,ukbiobank_174,disease,Dementia in Alzheimer s disease,http://www.ebi.ac.uk/efo/EFO_0000249,efo,26/04/2019 00:00
+,ukbiobank_175,disease,Other disorders of circulatory system in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0000319,efo,26/04/2019 00:00
+,ukbiobank_176,disease,Meningitis due to other causes,http://www.ebi.ac.uk/efo/EFO_0000584,efo,26/04/2019 00:00
+,ukbiobank_177,disease,Gestational hypertension with significant proteinuria,http://www.ebi.ac.uk/efo/EFO_0000668,efo,26/04/2019 00:00
+,ukbiobank_178,disease,Respiratory disorders in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0000684,efo,26/04/2019 00:00
+,ukbiobank_179,disease,Vitamin B12 deficiency anaemia,http://www.ebi.ac.uk/efo/EFO_0000734,efo,26/04/2019 00:00
+,ukbiobank_180,disease,Unspecified arthropod borne viral fever,http://www.ebi.ac.uk/efo/EFO_0000763,efo,26/04/2019 00:00
+,ukbiobank_181,disease,HIV disease resulting in infectious and parasitic diseases,http://www.ebi.ac.uk/efo/EFO_0000765,efo,26/04/2019 00:00
+,ukbiobank_182,disease,Chronic ischaemic heart disease,http://www.ebi.ac.uk/efo/EFO_0001645,efo,26/04/2019 00:00
+,ukbiobank_183,disease,Mental and behavioural disorders due to use of cocaine,http://www.ebi.ac.uk/efo/EFO_0002610,efo,26/04/2019 00:00
+,ukbiobank_184,disease,Benign mammary dysplasia,http://www.ebi.ac.uk/efo/EFO_0003014,efo,26/04/2019 00:00
+,ukbiobank_185,disease,Depressive episode,http://www.ebi.ac.uk/efo/EFO_0003761,efo,26/04/2019 00:00
+,ukbiobank_186,disease,Recurrent depressive disorder,http://www.ebi.ac.uk/efo/EFO_0003761,efo,26/04/2019 00:00
+,ukbiobank_187,disease,Mental and behavioural disorders due to use of tobacco,http://www.ebi.ac.uk/efo/EFO_0003768,efo,26/04/2019 00:00
+,ukbiobank_188,disease,Mental and behavioural disorders due to use of alcohol,http://www.ebi.ac.uk/efo/EFO_0003829,efo,26/04/2019 00:00
+,ukbiobank_189,phenotype,Dorsalgia,http://www.ebi.ac.uk/efo/EFO_0003843,efo,26/04/2019 00:00
+,ukbiobank_190,disease,Disorders of globe,http://www.ebi.ac.uk/efo/EFO_0003966,efo,26/04/2019 00:00
+,ukbiobank_191,disease,Mental and behavioural disorders due to use of cannabinoids,http://www.ebi.ac.uk/efo/EFO_0007191,efo,26/04/2019 00:00
+,ukbiobank_192,disease,Osteochondrodysplasia with defects of growth of tubular bones and spine,http://www.ebi.ac.uk/efo/EFO_0005571,efo,26/04/2019 00:00
+,ukbiobank_193,disease,Mental and behavioural disorders due to use of opioids,http://www.ebi.ac.uk/efo/EFO_0005611,efo,26/04/2019 00:00
+,ukbiobank_194,disease,Mosquito borne viral encephalitis,http://www.ebi.ac.uk/efo/EFO_0007538,efo,26/04/2019 00:00
+,ukbiobank_195,disease,Tick borne viral encephalitis,http://www.ebi.ac.uk/efo/EFO_0007538,efo,26/04/2019 00:00
+,ukbiobank_196,disease,Respiratory tuberculosis confimed,http://www.ebi.ac.uk/efo/EFO_1000049,efo,26/04/2019 00:00
+,ukbiobank_197,disease,Unspecified lump in breast,http://www.ebi.ac.uk/efo/EFO_1000848,efo,26/04/2019 00:00
+,ukbiobank_198,disease,Erysipeloid,http://www.ebi.ac.uk/efo/EFO_1000928,efo,26/04/2019 00:00
+,ukbiobank_199,disease,Rheumatic fever without mention of heart involvement,http://www.ebi.ac.uk/efo/EFO_1001160,efo,26/04/2019 00:00
+,ukbiobank_200,disease,Pyogenic arthritis,http://www.ebi.ac.uk/efo/EFO_1001351,efo,26/04/2019 00:00
+,ukbiobank_201,disease,Toxic effect of metals,http://www.ebi.ac.uk/efo/EFO_1001518,efo,26/04/2019 00:00
+,ukbiobank_202,disease,Staphylococcal scalded skin syndrome,http://www.ebi.ac.uk/efo/EFO_1001849,efo,26/04/2019 00:00
+,ukbiobank_203,disease,Phobic anxiety disorders,http://www.ebi.ac.uk/efo/EFO_1001908,efo,26/04/2019 00:00
+,ukbiobank_204,disease,Adult osteomalacia,http://www.ebi.ac.uk/efo/EFO_1002027,efo,26/04/2019 00:00
+,ukbiobank_205,disease,Functional disorders of polymorphonuclear neutrophils,http://www.orpha.net/ORDO/Orphanet_183681,efo,26/04/2019 00:00
+,ukbiobank_206,disease,Encephalocele,http://www.orpha.net/ORDO/Orphanet_199647,efo,26/04/2019 00:00
+,ukbiobank_207,disease,Tuberculosis of other organs,http://www.orpha.net/ORDO/Orphanet_3389,efo,26/04/2019 00:00
+,ukbiobank_208,disease,Localized adiposity,http://www.orpha.net/ORDO/Orphanet_77243,efo,26/04/2019 00:00
+,ukbiobank_209,disease,Atopic dermatitis,http://www.ebi.ac.uk/efo/EFO_0000274,efo,26/04/2019 00:00
+,ukbiobank_210,disease,Cardiomyopathy,http://www.ebi.ac.uk/efo/EFO_0000318,efo,26/04/2019 00:00
+,ukbiobank_211,disease,other disorders of circulatory system,http://www.ebi.ac.uk/efo/EFO_0000319,efo,26/04/2019 00:00
+,ukbiobank_212,disease,Crohn s disease,http://www.ebi.ac.uk/efo/EFO_0000384,efo,26/04/2019 00:00
+,ukbiobank_213,disease,Unspecified diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,efo,26/04/2019 00:00
+,ukbiobank_214,disease,Other specified diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,efo,26/04/2019 00:00
+,ukbiobank_215,disease,Epilepsy,http://www.ebi.ac.uk/efo/EFO_0000474,efo,26/04/2019 00:00
+,ukbiobank_216,disease,Glaucoma,http://www.ebi.ac.uk/efo/EFO_0000516,efo,26/04/2019 00:00
+,ukbiobank_217,disease,Irritable bowel syndrome,http://www.ebi.ac.uk/efo/EFO_0000555,efo,26/04/2019 00:00
+,ukbiobank_218,disease,Schizophrenia,http://www.ebi.ac.uk/efo/EFO_0000692,efo,26/04/2019 00:00
+,ukbiobank_219,disease,Ulcerative colitis,http://www.ebi.ac.uk/efo/EFO_0000729,efo,26/04/2019 00:00
+,ukbiobank_220,disease,Viral infection of unspecified site,http://www.ebi.ac.uk/efo/EFO_0000763,efo,26/04/2019 00:00
+,ukbiobank_221,disease,Myositis,http://www.ebi.ac.uk/efo/EFO_0000783,efo,26/04/2019 00:00
+,ukbiobank_222,disease,Other cataract,http://www.ebi.ac.uk/efo/EFO_0001059,efo,26/04/2019 00:00
+,ukbiobank_223,disease,Cytomegaloviral disease,http://www.ebi.ac.uk/efo/EFO_0001062,efo,26/04/2019 00:00
+,ukbiobank_224,disease,Endometriosis,http://www.ebi.ac.uk/efo/EFO_0001065,efo,26/04/2019 00:00
+,ukbiobank_225,disease,Obesity,http://www.ebi.ac.uk/efo/EFO_0001073,efo,26/04/2019 00:00
+,ukbiobank_226,disease,Insulin dependent diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0001359,efo,26/04/2019 00:00
+,ukbiobank_227,disease,Non insulin dependent diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0001360,efo,26/04/2019 00:00
+,ukbiobank_228,disease,Parkinson s disease,http://www.ebi.ac.uk/efo/EFO_0002508,efo,26/04/2019 00:00
+,ukbiobank_229,disease,Juvenile arthritis,http://www.ebi.ac.uk/efo/EFO_0002609,efo,26/04/2019 00:00
+,ukbiobank_230,disease,Cellulitis,http://www.ebi.ac.uk/efo/EFO_0003035,efo,26/04/2019 00:00
+,ukbiobank_231,disease,Cushing s syndrome,http://www.ebi.ac.uk/efo/EFO_0003099,efo,26/04/2019 00:00
+,ukbiobank_232,disease,Osteomyelitis,http://www.ebi.ac.uk/efo/EFO_0003102,efo,26/04/2019 00:00
+,ukbiobank_233,disease,Spina bifida,http://www.ebi.ac.uk/efo/EFO_0003105,efo,26/04/2019 00:00
+,ukbiobank_234,disease,Heart failure,http://www.ebi.ac.uk/efo/EFO_0003144,efo,26/04/2019 00:00
+,ukbiobank_235,phenotype,Vitamin D deficiency,http://www.ebi.ac.uk/efo/EFO_0003762,efo,26/04/2019 00:00
+,ukbiobank_236,disease,Dental caries,http://www.ebi.ac.uk/efo/EFO_0003819,efo,26/04/2019 00:00
+,ukbiobank_237,disease,Migraine,http://www.ebi.ac.uk/efo/EFO_0003821,efo,26/04/2019 00:00
+,ukbiobank_238,disease,Pulmonary embolism,http://www.ebi.ac.uk/efo/EFO_0003827,efo,26/04/2019 00:00
+,ukbiobank_239,disease,Other peripheral vascular diseases,http://www.ebi.ac.uk/efo/EFO_0003875,efo,26/04/2019 00:00
+,ukbiobank_240,disease,Multiple sclerosis,http://www.ebi.ac.uk/efo/EFO_0003885,efo,26/04/2019 00:00
+,ukbiobank_241,disease,Acne,http://www.ebi.ac.uk/efo/EFO_0003894,efo,26/04/2019 00:00
+,ukbiobank_242,disease,Ankylosing spondylitis,http://www.ebi.ac.uk/efo/EFO_0003898,efo,26/04/2019 00:00
+,ukbiobank_243,phenotype,Angina pectoris,http://www.ebi.ac.uk/efo/EFO_0003913,efo,26/04/2019 00:00
+,ukbiobank_244,disease,Atherosclerosis,http://www.ebi.ac.uk/efo/EFO_0003914,efo,26/04/2019 00:00
+,ukbiobank_245,disease,Gastro oesophageal reflux disease,http://www.ebi.ac.uk/efo/EFO_0003948,efo,26/04/2019 00:00
+,ukbiobank_246,disease,Sunburn,http://www.ebi.ac.uk/efo/EFO_0003958,efo,26/04/2019 00:00
+,ukbiobank_247,phenotype,Cleft lip,http://www.ebi.ac.uk/efo/EFO_0003959,efo,26/04/2019 00:00
+,ukbiobank_248,disease,Androgenic alopecia,http://www.ebi.ac.uk/efo/EFO_0004191,efo,26/04/2019 00:00
+,ukbiobank_249,disease,Alopecia areata,http://www.ebi.ac.uk/efo/EFO_0004192,efo,26/04/2019 00:00
+,ukbiobank_250,disease,Vitiligo,http://www.ebi.ac.uk/efo/EFO_0004208,efo,26/04/2019 00:00
+,ukbiobank_251,disease,Hypospadias,http://www.ebi.ac.uk/efo/EFO_0004209,efo,26/04/2019 00:00
+,ukbiobank_252,disease,Otosclerosis,http://www.ebi.ac.uk/efo/EFO_0004213,efo,26/04/2019 00:00
+,ukbiobank_253,disease,Conduct disorders,http://www.ebi.ac.uk/efo/EFO_0004216,efo,26/04/2019 00:00
+,ukbiobank_254,disease,Male infertility,http://www.ebi.ac.uk/efo/EFO_0004248,efo,26/04/2019 00:00
+,ukbiobank_255,disease,Meningococcal infection,http://www.ebi.ac.uk/efo/EFO_0004249,efo,26/04/2019 00:00
+,ukbiobank_256,disease,Calculus of kidney and ureter,http://www.ebi.ac.uk/efo/EFO_0004253,efo,26/04/2019 00:00
+,ukbiobank_257,disease,Nephrotic syndrome,http://www.ebi.ac.uk/efo/EFO_0004255,efo,26/04/2019 00:00
+,ukbiobank_258,disease,Osteonecrosis,http://www.ebi.ac.uk/efo/EFO_0004259,efo,26/04/2019 00:00
+,ukbiobank_259,disease,Paget s disease of bone,http://www.ebi.ac.uk/efo/EFO_0004261,efo,26/04/2019 00:00
+,ukbiobank_260,phenotype,Other anaemias,http://www.ebi.ac.uk/efo/EFO_0004272,efo,26/04/2019 00:00
+,ukbiobank_261,disease,Gout,http://www.ebi.ac.uk/efo/EFO_0004274,efo,26/04/2019 00:00
+,ukbiobank_262,disease,Diabetes mellitus in pregnancy,http://www.ebi.ac.uk/efo/EFO_0004593,efo,26/04/2019 00:00
+,ukbiobank_263,disease,Duodenal ulcer,http://www.ebi.ac.uk/efo/EFO_0004607,efo,26/04/2019 00:00
+,ukbiobank_264,disease,Cholelithiasis,http://www.ebi.ac.uk/efo/EFO_0004799,efo,26/04/2019 00:00
+,ukbiobank_265,disease,Leishmaniasis,http://www.ebi.ac.uk/efo/EFO_0005044,efo,26/04/2019 00:00
+,ukbiobank_266,disease,Eating disorders,http://www.ebi.ac.uk/efo/EFO_0005203,efo,26/04/2019 00:00
+,ukbiobank_267,disease,Hypotension,http://www.ebi.ac.uk/efo/EFO_0005251,efo,26/04/2019 00:00
+,ukbiobank_268,disease,Unspecified contact dermatitis,http://www.ebi.ac.uk/efo/EFO_0005319,efo,26/04/2019 00:00
+,ukbiobank_269,disease,Schizoaffective disorders,http://www.ebi.ac.uk/efo/EFO_0005411,efo,26/04/2019 00:00
+,ukbiobank_270,disease,Urticaria,http://www.ebi.ac.uk/efo/EFO_0005531,efo,26/04/2019 00:00
+,ukbiobank_271,disease,Seborrhoeic keratosis,http://www.ebi.ac.uk/efo/EFO_0005584,efo,26/04/2019 00:00
+,ukbiobank_272,disease,Shigellosis,http://www.ebi.ac.uk/efo/EFO_0005585,efo,26/04/2019 00:00
+,ukbiobank_273,phenotype,Other vitamin deficiencies,http://www.ebi.ac.uk/efo/EFO_0005878,efo,26/04/2019 00:00
+,ukbiobank_274,disease,Zoster,http://www.ebi.ac.uk/efo/EFO_0006510,efo,26/04/2019 00:00
+,ukbiobank_275,phenotype,Pyoderma gangrenosum,http://www.ebi.ac.uk/efo/EFO_0006835,efo,26/04/2019 00:00
+,ukbiobank_276,phenotype,Decubitus ulcer,http://www.ebi.ac.uk/efo/EFO_0007067,efo,26/04/2019 00:00
+,ukbiobank_277,disease,Actinomycosis,http://www.ebi.ac.uk/efo/EFO_0007128,efo,26/04/2019 00:00
+,ukbiobank_278,disease,Amoebiasis,http://www.ebi.ac.uk/efo/EFO_0007144,efo,26/04/2019 00:00
+,ukbiobank_279,disease,Unspecified appendicitis,http://www.ebi.ac.uk/efo/EFO_0007149,efo,26/04/2019 00:00
+,ukbiobank_280,disease,Ascariasis,http://www.ebi.ac.uk/efo/EFO_0007154,efo,26/04/2019 00:00
+,ukbiobank_281,disease,Aspergillosis,http://www.ebi.ac.uk/efo/EFO_0007157,efo,26/04/2019 00:00
+,ukbiobank_282,disease,Varicella,http://www.ebi.ac.uk/efo/EFO_0007204,efo,26/04/2019 00:00
+,ukbiobank_283,disease,Cryptococcosis,http://www.ebi.ac.uk/efo/EFO_0007229,efo,26/04/2019 00:00
+,ukbiobank_284,disease,Echinococcosis,http://www.ebi.ac.uk/efo/EFO_0007245,efo,26/04/2019 00:00
+,ukbiobank_285,disease,Enterobiasis,http://www.ebi.ac.uk/efo/EFO_0007254,efo,26/04/2019 00:00
+,ukbiobank_286,disease,Granuloma inguinale,http://www.ebi.ac.uk/efo/EFO_0007291,efo,26/04/2019 00:00
+,ukbiobank_287,disease,Histoplasmosis,http://www.ebi.ac.uk/efo/EFO_0007310,efo,26/04/2019 00:00
+,ukbiobank_288,disease,Infectious mononucleosis,http://www.ebi.ac.uk/efo/EFO_0007326,efo,26/04/2019 00:00
+,ukbiobank_289,disease,Leptospirosis,http://www.ebi.ac.uk/efo/EFO_0007344,efo,26/04/2019 00:00
+,ukbiobank_290,disease,Listeriosis,http://www.ebi.ac.uk/efo/EFO_0007347,efo,26/04/2019 00:00
+,ukbiobank_291,disease,Miliary tuberculosis,http://www.ebi.ac.uk/efo/EFO_0007368,efo,26/04/2019 00:00
+,ukbiobank_292,disease,Myiasis,http://www.ebi.ac.uk/efo/EFO_0007389,efo,26/04/2019 00:00
+,ukbiobank_293,disease,Optic neuritis,http://www.ebi.ac.uk/efo/EFO_0007405,efo,26/04/2019 00:00
+,ukbiobank_294,disease,Placenta praevia,http://www.ebi.ac.uk/efo/EFO_0007442,efo,26/04/2019 00:00
+,ukbiobank_295,disease,Plasmodium falciparum malaria,http://www.ebi.ac.uk/efo/EFO_0007444,efo,26/04/2019 00:00
+,ukbiobank_296,disease,Plasmodium vivax malaria,http://www.ebi.ac.uk/efo/EFO_0007445,efo,26/04/2019 00:00
+,ukbiobank_297,disease,Acute poliomyelitis,http://www.ebi.ac.uk/efo/EFO_0007450,efo,26/04/2019 00:00
+,ukbiobank_298,disease,Scarlet fever,http://www.ebi.ac.uk/efo/EFO_0007477,efo,26/04/2019 00:00
+,ukbiobank_299,disease,Strongyloidiasis,http://www.ebi.ac.uk/efo/EFO_0007501,efo,26/04/2019 00:00
+,ukbiobank_300,disease,Suppurative and unspecified otitis media,http://www.ebi.ac.uk/efo/EFO_0007503,efo,26/04/2019 00:00
+,ukbiobank_301,disease,other syphilis,http://www.ebi.ac.uk/efo/EFO_0007504,efo,26/04/2019 00:00
+,ukbiobank_302,disease,Toxoplasmosis,http://www.ebi.ac.uk/efo/EFO_0007517,efo,26/04/2019 00:00
+,ukbiobank_303,disease,Yaws,http://www.ebi.ac.uk/efo/EFO_0007548,efo,26/04/2019 00:00
+,ukbiobank_304,disease,Status epilepticus,http://www.ebi.ac.uk/efo/EFO_0008526,efo,26/04/2019 00:00
+,ukbiobank_305,disease,Fracture of femur,http://www.ebi.ac.uk/efo/EFO_0008553,efo,26/04/2019 00:00
+,ukbiobank_306,disease,Diaphragmatic hernia,http://www.ebi.ac.uk/efo/EFO_0008561,efo,26/04/2019 00:00
+,ukbiobank_307,phenotype,Niacin deficiency,http://www.ebi.ac.uk/efo/EFO_0008570,efo,26/04/2019 00:00
+,ukbiobank_308,phenotype,Gangrene,http://www.ebi.ac.uk/efo/EFO_0008574,efo,26/04/2019 00:00
+,ukbiobank_309,disease,Acute myocardial infarction,http://www.ebi.ac.uk/efo/EFO_0008583,efo,26/04/2019 00:00
+,ukbiobank_310,disease,Subsequent myocardial infarction,http://www.ebi.ac.uk/efo/EFO_0008584,efo,26/04/2019 00:00
+,ukbiobank_311,disease,Peritonitis,http://www.ebi.ac.uk/efo/EFO_0008588,efo,26/04/2019 00:00
+,ukbiobank_312,disease,Diseases of spleen,http://www.ebi.ac.uk/efo/EFO_0009002,efo,26/04/2019 00:00
+,ukbiobank_313,disease,Typhus fever,http://www.ebi.ac.uk/efo/EFO_0009117,efo,26/04/2019 00:00
+,ukbiobank_314,disease,Other diseases of intestine,http://www.ebi.ac.uk/efo/EFO_0009431,efo,26/04/2019 00:00
+,ukbiobank_315,disease,Fibroblastic disorders,http://www.ebi.ac.uk/efo/EFO_0009432,efo,26/04/2019 00:00
+,ukbiobank_316,disease,Unspecified acute lower respiratory infection,http://www.ebi.ac.uk/efo/EFO_0009433,efo,26/04/2019 00:00
+,ukbiobank_317,disease,Other ill defined and unspecified causes of mortality,http://www.ebi.ac.uk/efo/EFO_0009434,efo,26/04/2019 00:00
+,ukbiobank_318,disease,Cystitis,http://www.ebi.ac.uk/efo/EFO_1000025,efo,26/04/2019 00:00
+,ukbiobank_319,disease,Lactose intolerance,http://www.ebi.ac.uk/efo/EFO_1000062,efo,26/04/2019 00:00
+,ukbiobank_320,disease,Thyroiditis,http://www.ebi.ac.uk/efo/EFO_1000627,efo,26/04/2019 00:00
+,ukbiobank_321,disease,Acute pancreatitis,http://www.ebi.ac.uk/efo/EFO_1000652,efo,26/04/2019 00:00
+,ukbiobank_322,disease,Acanthosis nigricans,http://www.ebi.ac.uk/efo/EFO_1000660,efo,26/04/2019 00:00
+,ukbiobank_323,disease,Allergic contact dermatitis,http://www.ebi.ac.uk/efo/EFO_1000668,efo,26/04/2019 00:00
+,ukbiobank_324,disease,Cholesteatoma of middle ear,http://www.ebi.ac.uk/efo/EFO_1000678,efo,26/04/2019 00:00
+,ukbiobank_325,disease,Erythema multiforme,http://www.ebi.ac.uk/efo/EFO_1000694,efo,26/04/2019 00:00
+,ukbiobank_326,disease,Hyperhidrosis,http://www.ebi.ac.uk/efo/EFO_1000712,efo,26/04/2019 00:00
+,ukbiobank_327,phenotype,Impetigo,http://www.ebi.ac.uk/efo/EFO_1000714,efo,26/04/2019 00:00
+,ukbiobank_328,disease,Irritant contact dermatitis,http://www.ebi.ac.uk/efo/EFO_1000718,efo,26/04/2019 00:00
+,ukbiobank_329,disease,Lichen planus,http://www.ebi.ac.uk/efo/EFO_1000726,efo,26/04/2019 00:00
+,ukbiobank_330,disease,Parapsoriasis,http://www.ebi.ac.uk/efo/EFO_1000747,efo,26/04/2019 00:00
+,ukbiobank_331,disease,Pemphigus,http://www.ebi.ac.uk/efo/EFO_1000749,efo,26/04/2019 00:00
+,ukbiobank_332,disease,Pityriasis rosea,http://www.ebi.ac.uk/efo/EFO_1000756,efo,26/04/2019 00:00
+,ukbiobank_333,disease,Rosacea,http://www.ebi.ac.uk/efo/EFO_1000760,efo,26/04/2019 00:00
+,ukbiobank_334,disease,Seborrhoeic dermatitis,http://www.ebi.ac.uk/efo/EFO_1000764,efo,26/04/2019 00:00
+,ukbiobank_335,disease,Atrophic disorders of skin,http://www.ebi.ac.uk/efo/EFO_1000766,efo,26/04/2019 00:00
+,ukbiobank_336,disease,Coxarthrosis,http://www.ebi.ac.uk/efo/EFO_1000786,efo,26/04/2019 00:00
+,ukbiobank_337,disease,Coalworker s pneumoconiosis,http://www.ebi.ac.uk/efo/EFO_1000814,efo,26/04/2019 00:00
+,ukbiobank_338,disease,Ascorbic acid deficiency,http://www.ebi.ac.uk/efo/EFO_1000822,efo,26/04/2019 00:00
+,ukbiobank_339,disease,Bacterial meningitis,http://www.ebi.ac.uk/efo/EFO_1000831,efo,26/04/2019 00:00
+,ukbiobank_340,disease,Dysplasia of cervix uteri,http://www.ebi.ac.uk/efo/EFO_1000910,efo,26/04/2019 00:00
+,ukbiobank_341,disease,Habitual aborter,http://www.ebi.ac.uk/efo/EFO_1000954,efo,26/04/2019 00:00
+,ukbiobank_342,disease,Other rickettsioses,http://www.ebi.ac.uk/efo/EFO_1001162,efo,26/04/2019 00:00
+,ukbiobank_343,disease,Secondary parkinsonism,http://www.ebi.ac.uk/efo/EFO_1001175,efo,26/04/2019 00:00
+,ukbiobank_344,disease,Viral meningitis,http://www.ebi.ac.uk/efo/EFO_1001236,efo,26/04/2019 00:00
+,ukbiobank_345,disease,Vitamin A deficiency,http://www.ebi.ac.uk/efo/EFO_1001237,efo,26/04/2019 00:00
+,ukbiobank_346,disease,Spontaneous abortion,http://www.ebi.ac.uk/efo/EFO_1001255,efo,26/04/2019 00:00
+,ukbiobank_347,disease,Phlebitis and thrombophlebitis,http://www.ebi.ac.uk/efo/EFO_1001395,efo,26/04/2019 00:00
+,ukbiobank_347,phenotype,Phlebitis and thrombophlebitis,http://purl.obolibrary.org/obo/HP_0004418,efo,26/04/2019 00:00
+,ukbiobank_348,phenotype,Unspecified renal colic,http://www.ebi.ac.uk/efo/EFO_1001412,efo,26/04/2019 00:00
+,ukbiobank_349,disease,Taeniasis,http://www.ebi.ac.uk/efo/EFO_1001433,efo,26/04/2019 00:00
+,ukbiobank_350,disease,Synovitis and tenosynovitis,http://www.ebi.ac.uk/efo/EFO_1001435,efo,26/04/2019 00:00
+,ukbiobank_351,disease,Schistosomiasis,http://www.ebi.ac.uk/efo/EFO_1001475,efo,26/04/2019 00:00
+,ukbiobank_352,disease,Unspecified abortion,http://www.ebi.ac.uk/efo/EFO_1001491,efo,26/04/2019 00:00
+,ukbiobank_353,disease,Femoral hernia,http://www.ebi.ac.uk/efo/EFO_1001791,efo,26/04/2019 00:00
+,ukbiobank_354,disease,Ventral hernia,http://www.ebi.ac.uk/efo/EFO_1001866,efo,26/04/2019 00:00
+,ukbiobank_355,disease,Amyloidosis,http://www.ebi.ac.uk/efo/EFO_1001875,efo,26/04/2019 00:00
+,ukbiobank_356,disease,Cicatricial alopecia,http://www.ebi.ac.uk/efo/EFO_1002028,efo,26/04/2019 00:00
+,ukbiobank_357,disease,Other disorders of nervous system,http://www.ebi.ac.uk/efo/EFO_0000618,efo,26/04/2019 00:00
+,ukbiobank_358,phenotype,Polyuria,http://purl.obolibrary.org/obo/HP_0000103,efo,26/04/2019 00:00
+,ukbiobank_359,phenotype,Pruritus,http://purl.obolibrary.org/obo/HP_0000989,efo,26/04/2019 00:00
+,ukbiobank_360,phenotype,Nausea and vomiting,http://purl.obolibrary.org/obo/HP_0002017,efo,26/04/2019 00:00
+,ukbiobank_361,phenotype,Peptic ulcer site unspecified,http://purl.obolibrary.org/obo/HP_0004398,efo,26/04/2019 00:00
+,ukbiobank_362,phenotype,Erythema nodosum,http://purl.obolibrary.org/obo/HP_0012219,efo,26/04/2019 00:00
+,ukbiobank_363,phenotype,Oesophagitis,http://purl.obolibrary.org/obo/HP_0100633,efo,26/04/2019 00:00
+,ukbiobank_364,disease,Common variable immunodeficiency,http://www.orpha.net/ORDO/Orphanet_1572,efo,26/04/2019 00:00
+,ukbiobank_365,disease,Adrenogenital disorders,http://www.orpha.net/ORDO/Orphanet_181412,efo,26/04/2019 00:00
+,ukbiobank_366,disease,Sickle cell disorders,http://www.orpha.net/ORDO/Orphanet_232,efo,26/04/2019 00:00
+,ukbiobank_367,disease,Congenital malformations of great veins,http://www.orpha.net/ORDO/Orphanet_363189,efo,26/04/2019 00:00
+,ukbiobank_368,disease,Huntington s disease,http://www.orpha.net/ORDO/Orphanet_399,efo,26/04/2019 00:00
+,ukbiobank_369,disease,Cystic fibrosis,http://www.orpha.net/ORDO/Orphanet_586,efo,26/04/2019 00:00
+,ukbiobank_370,disease,Hypertrichosis,http://www.orpha.net/ORDO/Orphanet_79365,efo,26/04/2019 00:00
+,ukbiobank_371,disease,Sarcoidosis,http://www.orpha.net/ORDO/Orphanet_797,efo,26/04/2019 00:00
+,ukbiobank_372,disease,Turner s syndrome,http://www.orpha.net/ORDO/Orphanet_881,efo,26/04/2019 00:00
+,ukbiobank_373,disease,Congenital malformations of great arteries,http://www.orpha.net/ORDO/Orphanet_98724,efo,26/04/2019 00:00
+,ukbiobank_374,disease,Hereditary factor VIII deficiency,http://www.orpha.net/ORDO/Orphanet_98878,efo,26/04/2019 00:00
+,ukbiobank_375,disease,Hereditary factor IX deficiency,http://www.orpha.net/ORDO/Orphanet_98879,efo,26/04/2019 00:00
+,ukbiobank_376,disease,Congenital malformations of cardiac chambers and connections,http://www.ebi.ac.uk/efo/EFO_0005269,efo,26/04/2019 00:00
+,ukbiobank_377,disease,Acute nephritic syndrome,http://www.ebi.ac.uk/efo/EFO_1002050,efo,26/04/2019 00:00
+,ukbiobank_378,disease,Keratitis,http://www.ebi.ac.uk/efo/EFO_0009449,efo,26/04/2019 00:00
+,ukbiobank_379,disease,Conjunctivitis,http://www.ebi.ac.uk/efo/EFO_0009450,efo,26/04/2019 00:00
+,ukbiobank_380,disease,Hypoparathyroidism,http://www.ebi.ac.uk/efo/EFO_0009451,efo,26/04/2019 00:00
+,ukbiobank_381,disease,Hyperaldosteronism,http://www.ebi.ac.uk/efo/EFO_0009452,efo,26/04/2019 00:00
+,ukbiobank_382,disease,Hemiplegia,http://www.ebi.ac.uk/efo/EFO_0009453,efo,26/04/2019 00:00
+,ukbiobank_383,disease,Gastric ulcer,http://www.ebi.ac.uk/efo/EFO_0009454,efo,26/04/2019 00:00
+,ukbiobank_384,disease,Disorders of lacrimal system,http://www.ebi.ac.uk/efo/EFO_0009455,efo,26/04/2019 00:00
+,ukbiobank_385,disease,Exfoliative dermatitis,http://www.ebi.ac.uk/efo/EFO_0009456,efo,26/04/2019 00:00
+,ukbiobank_386,disease,Apocrine sweat disorders,http://www.ebi.ac.uk/efo/EFO_1002046,efo,26/04/2019 00:00
+,ukbiobank_387,disease,Spotted fever,http://www.ebi.ac.uk/efo/EFO_1002047,efo,26/04/2019 00:00
+,ukbiobank_388,disease,Unspecified nephritic syndrome,http://www.ebi.ac.uk/efo/EFO_1002050,efo,26/04/2019 00:00
+,ukbiobank_389,disease,Facial nerve disorders,http://www.ebi.ac.uk/efo/EFO_1002051,efo,26/04/2019 00:00
+,ukbiobank_390,disease,Essential primary hypertension,http://www.ebi.ac.uk/efo/EFO_1002032,efo,26/04/2019 00:00
+,ukbiobank_391,phenotype,Congenital malformations of uterus and cervix,http://purl.obolibrary.org/obo/HP_0000008,efo,26/04/2019 00:00
+,ukbiobank_392,phenotype,Abnormal findings in specimens from female genital organs,http://purl.obolibrary.org/obo/HP_0000008,efo,26/04/2019 00:00
+,ukbiobank_393,phenotype,Other congenital malformations of male genital organs,http://purl.obolibrary.org/obo/HP_0000022,efo,26/04/2019 00:00
+,ukbiobank_394,phenotype,Abnormal findings in specimens from male genital organs,http://purl.obolibrary.org/obo/HP_0000022,efo,26/04/2019 00:00
+,ukbiobank_395,phenotype,Congenital lens malformations,http://purl.obolibrary.org/obo/HP_0000517,efo,26/04/2019 00:00
+,ukbiobank_396,phenotype,Congenital malformations of eyelid lacrimal apparatus and orbit,http://purl.obolibrary.org/obo/HP_0000614,efo,26/04/2019 00:00
+,ukbiobank_397,phenotype,Enduring personality changes not attributable to brain damage and disease,http://purl.obolibrary.org/obo/HP_0000751,efo,26/04/2019 00:00
+,ukbiobank_398,phenotype,Congenital malformations of breast,http://purl.obolibrary.org/obo/HP_0000769,efo,26/04/2019 00:00
+,ukbiobank_399,phenotype,Unspecified jaundice,http://purl.obolibrary.org/obo/HP_0000952,efo,26/04/2019 00:00
+,ukbiobank_400,phenotype,Iridocyclitis,http://purl.obolibrary.org/obo/HP_0001094,efo,26/04/2019 00:00
+,ukbiobank_401,phenotype,Abnormalities of gait and mobility,http://purl.obolibrary.org/obo/HP_0001288,efo,26/04/2019 00:00
+,ukbiobank_402,phenotype,Hypoglycemic coma,http://purl.obolibrary.org/obo/HP_0001325,efo,26/04/2019 00:00
+,ukbiobank_403,phenotype,Hepatic failure,http://purl.obolibrary.org/obo/HP_0001399,efo,26/04/2019 00:00
+,ukbiobank_404,phenotype,Umbilical hernia,http://purl.obolibrary.org/obo/HP_0001537,efo,26/04/2019 00:00
+,ukbiobank_405,phenotype,Polyhydramnios,http://purl.obolibrary.org/obo/HP_0001561,efo,26/04/2019 00:00
+,ukbiobank_406,disease,cardiac arrest,http://www.ebi.ac.uk/efo/EFO_0009492,efo,26/04/2019 00:00
+,ukbiobank_407,phenotype,Congenital deformities of feet,http://purl.obolibrary.org/obo/HP_0001760,efo,26/04/2019 00:00
+,ukbiobank_408,phenotype,Abnormalities of forces of labour,http://purl.obolibrary.org/obo/HP_0001787,efo,26/04/2019 00:00
+,ukbiobank_409,phenotype,Other assisted single delivery,http://purl.obolibrary.org/obo/HP_0001787,efo,26/04/2019 00:00
+,ukbiobank_410,phenotype,Multiple delivery,http://purl.obolibrary.org/obo/HP_0001787,efo,26/04/2019 00:00
+,ukbiobank_411,phenotype,Abnormality of red blood cells,http://purl.obolibrary.org/obo/HP_0001877,efo,26/04/2019 00:00
+,ukbiobank_412,phenotype,Abnormal leukocyte morphology,http://purl.obolibrary.org/obo/HP_0001881,efo,26/04/2019 00:00
+,ukbiobank_413,phenotype,Hypothermia,http://purl.obolibrary.org/obo/HP_0002045,efo,26/04/2019 00:00
+,ukbiobank_414,phenotype,Lymphadenopathy,http://purl.obolibrary.org/obo/HP_0002716,efo,26/04/2019 00:00
+,ukbiobank_415,phenotype,Abnormal findings in cerebrospinal fluid,http://purl.obolibrary.org/obo/HP_0002921,efo,26/04/2019 00:00
+,ukbiobank_416,phenotype,Glycosuria,http://purl.obolibrary.org/obo/HP_0003076,efo,26/04/2019 00:00
+,ukbiobank_417,phenotype,Congenital malformations of posterior segment of eye,http://purl.obolibrary.org/obo/HP_0004329,efo,26/04/2019 00:00
+,ukbiobank_418,phenotype,Abnormality of aromatic amino acid family metabolism,http://purl.obolibrary.org/obo/HP_0004338,efo,26/04/2019 00:00
+,ukbiobank_419,phenotype,Abnormality of glycoprotein metabolism,http://purl.obolibrary.org/obo/HP_0004367,efo,26/04/2019 00:00
+,ukbiobank_420,phenotype,Abnormality of glycosaminoglycan metabolism,http://purl.obolibrary.org/obo/HP_0004371,efo,26/04/2019 00:00
+,ukbiobank_421,phenotype,Congenital septal defect,http://purl.obolibrary.org/obo/HP_0001671,efo,26/04/2019 00:00
+,ukbiobank_422,phenotype,Abscess of anal and rectal regions,http://purl.obolibrary.org/obo/HP_0005224,efo,26/04/2019 00:00
+,ukbiobank_423,phenotype,Abnormalities of breathing,http://purl.obolibrary.org/obo/HP_0005957,efo,26/04/2019 00:00
+,ukbiobank_424,disease,Paroxysmal tachycardia,http://www.ebi.ac.uk/efo/EFO_0009493,efo,26/04/2019 00:00
+,ukbiobank_425,phenotype,Congenital malformations of anterior segment of eye,http://purl.obolibrary.org/obo/HP_0007700,efo,26/04/2019 00:00
+,ukbiobank_426,phenotype,Gynecomastia,http://purl.obolibrary.org/obo/HP_0010313,efo,26/04/2019 00:00
+,ukbiobank_427,disease,Polydactyly,http://www.orpha.net/ORDO/Orphanet_2913,efo,26/04/2019 00:00
+,ukbiobank_428,phenotype,Pilonidal cyst,http://purl.obolibrary.org/obo/HP_0010771,efo,26/04/2019 00:00
+,ukbiobank_429,phenotype,Congenital obstructive defects of renal pelvis and congenital malformations of ureter,http://purl.obolibrary.org/obo/HP_0010944,efo,26/04/2019 00:00
+,ukbiobank_429,phenotype,Congenital obstructive defects of renal pelvis and congenital malformations of ureter,http://purl.obolibrary.org/obo/HP_0000069,efo,26/04/2019 00:00
+,ukbiobank_430,phenotype,Single delivery by forceps and vacuum extractor,http://purl.obolibrary.org/obo/HP_0011411,efo,26/04/2019 00:00
+,ukbiobank_431,phenotype,Personality disorder,http://purl.obolibrary.org/obo/HP_0012075,efo,26/04/2019 00:00
+,ukbiobank_432,phenotype,Mixed and other personality disorders,http://purl.obolibrary.org/obo/HP_0012075,efo,26/04/2019 00:00
+,ukbiobank_433,phenotype,Acquired pure red cell aplasia,http://purl.obolibrary.org/obo/HP_0012410,efo,26/04/2019 00:00
+,ukbiobank_434,phenotype,Chorioretinitis,http://purl.obolibrary.org/obo/HP_0012424,efo,26/04/2019 00:00
+,ukbiobank_435,phenotype,Other congenital malformations of upper alimentary tract,http://purl.obolibrary.org/obo/HP_0012718,efo,26/04/2019 00:00
+,ukbiobank_436,phenotype,Congenital malformations of larynx,http://purl.obolibrary.org/obo/HP_0025423,efo,26/04/2019 00:00
+,ukbiobank_437,phenotype,Cervicitis,http://purl.obolibrary.org/obo/HP_0030160,efo,26/04/2019 00:00
+,ukbiobank_438,phenotype,Portal vein thrombosis,http://purl.obolibrary.org/obo/HP_0030242,efo,26/04/2019 00:00
+,ukbiobank_439,phenotype,Cutaneous abscess furuncle and carbuncle,http://purl.obolibrary.org/obo/HP_0031292,efo,26/04/2019 00:00
+,ukbiobank_440,phenotype,Congenital malformations of ear causing impairment of hearing,http://purl.obolibrary.org/obo/HP_0031703,efo,26/04/2019 00:00
+,ukbiobank_440,disease,Congenital malformations of ear causing impairment of hearing,http://www.ebi.ac.uk/efo/EFO_0004238,efo,26/04/2019 00:00
+,ukbiobank_441,phenotype,Other congenital malformations of ear,http://purl.obolibrary.org/obo/HP_0031703,efo,26/04/2019 00:00
+,ukbiobank_442,phenotype,Abnormality of movement,http://purl.obolibrary.org/obo/HP_0100022,efo,26/04/2019 00:00
+,ukbiobank_443,phenotype,Calcification and ossification of muscle,http://purl.obolibrary.org/obo/HP_0100249,efo,26/04/2019 00:00
+,ukbiobank_444,phenotype,Eclampsia,http://purl.obolibrary.org/obo/HP_0100601,efo,26/04/2019 00:00
+,ukbiobank_445,disease,Other mosquito borne viral fevers,http://www.ebi.ac.uk/efo/EFO_0009575,efo,26/04/2019 00:00
+,ukbiobank_446,disease,Internal derangement of knee,http://www.ebi.ac.uk/efo/EFO_0009507,efo,26/04/2019 00:00
+,ukbiobank_447,disease,Fistulae involving female genital tract,http://www.ebi.ac.uk/efo/EFO_0009524,efo,26/04/2019 00:00
+,ukbiobank_448,biological process,Multiple gestation,http://www.ebi.ac.uk/efo/EFO_0009576,efo,26/04/2019 00:00
+,ukbiobank_449,phenotype,Postpartum haemorrhage,http://www.ebi.ac.uk/efo/EFO_0009579,efo,26/04/2019 00:00
+,ukbiobank_450,disease,Retained placenta and membranes without haemorrhage,http://www.ebi.ac.uk/efo/EFO_0009578,efo,26/04/2019 00:00
+,ukbiobank_451,disease,Faecal incontinence,http://www.ebi.ac.uk/efo/EFO_0009523,efo,26/04/2019 00:00
+,ukbiobank_452,disease,Disturbances of skin sensation,http://www.ebi.ac.uk/efo/EFO_0009522,efo,26/04/2019 00:00
+,ukbiobank_453,factor,Abnormal results of function studies,http://www.ebi.ac.uk/efo/EFO_0009628,efo,26/04/2019 00:00
+,ukbiobank_454,disease,Superficial injury of head,http://www.ebi.ac.uk/efo/EFO_0009505,efo,26/04/2019 00:00
+,ukbiobank_455,disease,Crushing injury of head,http://www.ebi.ac.uk/efo/EFO_0009504,efo,26/04/2019 00:00
+,ukbiobank_456,disease,Crushing injury of head,http://www.ebi.ac.uk/efo/EFO_0009505,efo,26/04/2019 00:00
+,ukbiobank_457,disease,Injury of heart,http://www.ebi.ac.uk/efo/EFO_0009506,efo,26/04/2019 00:00
+,ukbiobank_458,disease,Superficial injury of abdomen lower back and pelvis,http://www.ebi.ac.uk/efo/EFO_0009502,efo,26/04/2019 00:00
+,ukbiobank_459,disease,Injury of intra abdominal organs,http://www.ebi.ac.uk/efo/EFO_0009502,efo,26/04/2019 00:00
+,ukbiobank_460,disease,Crushing injury of shoulder and upper arm,http://www.ebi.ac.uk/efo/EFO_0009504,efo,26/04/2019 00:00
+,ukbiobank_461,disease,Fracture at wrist and hand level,http://www.ebi.ac.uk/efo/EFO_0009515,efo,26/04/2019 00:00
+,ukbiobank_462,disease,Open wound of hip and thigh,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_463,disease,Injury of nerves at hip and thigh level,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_464,disease,Injury of nerves at hip and thigh level,http://www.ebi.ac.uk/efo/EFO_0009510,efo,26/04/2019 00:00
+,ukbiobank_465,disease,Injury of blood vessels at hip and thigh level,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_466,disease,Other and specified injuries of hip and thigh,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_467,disease,Injury of nerves at lower leg level,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_468,disease,Injury of nerves at lower leg level,http://www.ebi.ac.uk/efo/EFO_0009510,efo,26/04/2019 00:00
+,ukbiobank_469,disease,Fractures involving multiple body regions,http://www.ebi.ac.uk/efo/EFO_0009513,efo,26/04/2019 00:00
+,ukbiobank_470,disease,Dislocations sprains and strains involving multiple body regions,http://www.ebi.ac.uk/efo/EFO_0009521,efo,26/04/2019 00:00
+,ukbiobank_471,disease,Dislocations sprains and strains involving multiple body regions,http://www.ebi.ac.uk/efo/EFO_0009582,efo,26/04/2019 00:00
+,ukbiobank_472,disease,Crushing injuries involving multiple body regions,http://www.ebi.ac.uk/efo/EFO_0009504,efo,26/04/2019 00:00
+,ukbiobank_473,disease,Fracture of upper limb level unspecified,http://www.ebi.ac.uk/efo/EFO_0009514,efo,26/04/2019 00:00
+,ukbiobank_474,disease,Other injuries of upper limb level unspecified,http://www.ebi.ac.uk/efo/EFO_0009509,efo,26/04/2019 00:00
+,ukbiobank_475,disease,Fracture of lower limb level unspecified,http://www.ebi.ac.uk/efo/EFO_0009512,efo,26/04/2019 00:00
+,ukbiobank_476,disease,Other injuries of lower limb level unspecified,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_477,factor,Foreign body in ear,http://www.ebi.ac.uk/efo/EFO_0009525,efo,26/04/2019 00:00
+,ukbiobank_478,factor,Foreign body in alimentary tract,http://www.ebi.ac.uk/efo/EFO_0009526,efo,26/04/2019 00:00
+,ukbiobank_479,disease,Burn and corrosion of ankle and foot,http://www.ebi.ac.uk/efo/EFO_0009516,efo,26/04/2019 00:00
+,ukbiobank_480,disease,Burn and corrosion of ankle and foot,http://www.ebi.ac.uk/efo/EFO_0009503,efo,26/04/2019 00:00
+,ukbiobank_481,disease,Burns and corrosions of multiple body regions,http://www.ebi.ac.uk/efo/EFO_0009516,efo,26/04/2019 00:00
+,ukbiobank_482,disease,Burns and corrosions of multiple body regions,http://www.ebi.ac.uk/efo/EFO_0009503,efo,26/04/2019 00:00
+,ukbiobank_483,disease,Burns classified according to extent of body surface involved,http://www.ebi.ac.uk/efo/EFO_0009516,efo,26/04/2019 00:00
+,ukbiobank_484,disease,Frostbite involving multiple body regions and unspecified frostbite,http://www.ebi.ac.uk/efo/EFO_0009527,efo,26/04/2019 00:00
+,ukbiobank_485,disease,Toxic effect of organic solvents,http://www.ebi.ac.uk/efo/EFO_0009574,efo,26/04/2019 00:00
+,ukbiobank_486,disease,Toxic effect of soaps and detergents,http://www.ebi.ac.uk/efo/EFO_0009574,efo,26/04/2019 00:00
+,ukbiobank_487,disease,Toxic effect of other gases fumes and vapours,http://www.ebi.ac.uk/efo/EFO_0009574,efo,26/04/2019 00:00
+,ukbiobank_488,disease,Toxic effect of pesticides,http://www.ebi.ac.uk/efo/EFO_0009574,efo,26/04/2019 00:00
+,ukbiobank_489,disease,Complications following infusion transfusion and therapeutic injection,http://www.ebi.ac.uk/efo/EFO_0009518,efo,26/04/2019 00:00
+,ukbiobank_490,disease,Complications of cardiac and vascular prosthetic devices implants and grafts,http://www.ebi.ac.uk/efo/EFO_0009519,efo,26/04/2019 00:00
+,ukbiobank_491,disease,Complications of genitourinary prosthetic devices implants and grafts,http://www.ebi.ac.uk/efo/EFO_0009519,efo,26/04/2019 00:00
+,ukbiobank_492,disease,Complications of internal orthopaedic prosthetic devices implants and grafts,http://www.ebi.ac.uk/efo/EFO_0009519,efo,26/04/2019 00:00
+,ukbiobank_493,disease,Complications of other internal prosthetic devices implants and grafts,http://www.ebi.ac.uk/efo/EFO_0009519,efo,26/04/2019 00:00
+,ukbiobank_494,disease,Sequelae of injuries of head,http://www.ebi.ac.uk/efo/EFO_0009505,efo,26/04/2019 00:00
+,ukbiobank_495,disease,Sequelae of injuries of upper limb,http://www.ebi.ac.uk/efo/EFO_0009509,efo,26/04/2019 00:00
+,ukbiobank_496,disease,Sequelae of injuries of lower limb,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_497,disease,Sequelae of burns corrosions and frostbite,http://www.ebi.ac.uk/efo/EFO_0009516,efo,26/04/2019 00:00
+,ukbiobank_498,disease,Sequelae of burns corrosions and frostbite,http://www.ebi.ac.uk/efo/EFO_0009503,efo,26/04/2019 00:00
+,ukbiobank_499,disease,Sequelae of burns corrosions and frostbite,http://www.ebi.ac.uk/efo/EFO_0009527,efo,26/04/2019 00:00
+,ukbiobank_500,process,Unspecified fall,http://www.ebi.ac.uk/efo/EFO_0009631,efo,26/04/2019 00:00
+,ukbiobank_501,experimental process,Routine general health check up of defined subpopulation,http://www.ebi.ac.uk/efo/EFO_0009517,efo,26/04/2019 00:00
+,ukbiobank_502,experimental process,Contraceptive management,http://www.ebi.ac.uk/efo/EFO_0009520,efo,26/04/2019 00:00
+,ukbiobank_503,disease,Supervision of high risk pregnancy,http://www.ebi.ac.uk/efo/EFO_0009573,efo,26/04/2019 00:00
+,ukbiobank_504,experimental process,Prophylactic surgery,http://www.ebi.ac.uk/efo/EFO_0009580,efo,26/04/2019 00:00
+,ukbiobank_505,experimental process,Other orthopaedic follow up care,http://www.ebi.ac.uk/efo/EFO_0009577,efo,26/04/2019 00:00
+,ukbiobank_506,experimental process,Care involving use of rehabilitation procedures,http://www.ebi.ac.uk/efo/EFO_0009581,efo,26/04/2019 00:00
+,ukbiobank_507,disease,Disorders of mineral metabolism,http://www.ebi.ac.uk/efo/EFO_0009556,efo,26/04/2019 00:00
+,ukbiobank_508,disease,Other disorders of eye and adnexa in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0009546,efo,26/04/2019 00:00
+,ukbiobank_509,disease,Nonrheumatic tricuspid valve disorders,http://www.ebi.ac.uk/efo/EFO_0009568,efo,26/04/2019 00:00
+,ukbiobank_510,disease,Disorders of sclera and cornea in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0009464,efo,26/04/2019 00:00
+,ukbiobank_511,disease,Other disorders of cornea,http://www.ebi.ac.uk/efo/EFO_0009464,efo,26/04/2019 00:00
+,ukbiobank_512,disease,uremia,http://www.ebi.ac.uk/efo/EFO_1002048,efo,26/04/2019 00:00
+,ukbiobank_513,disease,Oesophageal varices,http://www.ebi.ac.uk/efo/EFO_0009545,efo,26/04/2019 00:00
+,ukbiobank_514,disease,Disorders of autonomic nervous system,http://www.ebi.ac.uk/efo/EFO_0009532,efo,26/04/2019 00:00
+,ukbiobank_515,disease,marasmus,http://www.ebi.ac.uk/efo/EFO_0009563,efo,26/04/2019 00:00
+,ukbiobank_516,disease,Mononeuropathies of upper limb,http://www.ebi.ac.uk/efo/EFO_0009558,efo,26/04/2019 00:00
+,ukbiobank_517,disease,Mononeuropathies of lower limb,http://www.ebi.ac.uk/efo/EFO_0009558,efo,26/04/2019 00:00
+,ukbiobank_518,disease,Other disorders of binocular movement,http://www.ebi.ac.uk/efo/EFO_0009535,efo,26/04/2019 00:00
+,ukbiobank_519,disease,Inflammatory disease of uterus except cervix,http://www.ebi.ac.uk/efo/EFO_0009572,efo,26/04/2019 00:00
+,ukbiobank_520,disease,Polyneuropathy in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0009562,efo,26/04/2019 00:00
+,ukbiobank_521,disease,Noninflammatory disorders of ovary fallopian tube and broad ligament,http://www.ebi.ac.uk/efo/EFO_0009548,efo,26/04/2019 00:00
+,ukbiobank_522,disease,Pain and other conditions associated with female genital organs and menstrual cycle,http://www.ebi.ac.uk/efo/EFO_0009549,efo,26/04/2019 00:00
+,ukbiobank_523,disease,Anuria and oliguria,http://www.ebi.ac.uk/efo/EFO_0009530,efo,26/04/2019 00:00
+,ukbiobank_524,disease,Multiple valve diseases,http://www.ebi.ac.uk/efo/EFO_0009551,efo,26/04/2019 00:00
+,ukbiobank_525,disease,Disorders of male genital organs in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0009555,efo,26/04/2019 00:00
+,ukbiobank_526,disease,Obstructive and reflux uropathy,http://www.ebi.ac.uk/efo/EFO_0009571,efo,26/04/2019 00:00
+,ukbiobank_527,disease,Disorders of eyelid in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0009547,efo,26/04/2019 00:00
+,ukbiobank_528,disease,Diseases of pulp and periapical tissues,http://www.ebi.ac.uk/efo/EFO_0009540,efo,26/04/2019 00:00
+,ukbiobank_529,disease,Disorders of trigeminal nerve,http://www.ebi.ac.uk/efo/EFO_0009569,efo,26/04/2019 00:00
+,ukbiobank_530,disease,Pulmonary valve disorders,http://www.ebi.ac.uk/efo/EFO_0009564,efo,26/04/2019 00:00
+,ukbiobank_531,disease,Other disorders of tympanic membrane,http://www.ebi.ac.uk/efo/EFO_0009570,efo,26/04/2019 00:00
+,ukbiobank_532,disease,Other diseases of oesophagus,http://www.ebi.ac.uk/efo/EFO_0009544,efo,26/04/2019 00:00
+,ukbiobank_533,disease,Nonrheumatic mitral valve disorders,http://www.ebi.ac.uk/efo/EFO_0009557,efo,26/04/2019 00:00
+,ukbiobank_534,disease,Rheumatic aortic valve diseases,http://www.ebi.ac.uk/efo/EFO_0009531,efo,26/04/2019 00:00
+,ukbiobank_535,disease,Nonrheumatic aortic valve disorders,http://www.ebi.ac.uk/efo/EFO_0009531,efo,26/04/2019 00:00
+,ukbiobank_536,disease,Other degenerative diseases of basal ganglia,http://www.ebi.ac.uk/efo/EFO_0009533,efo,26/04/2019 00:00
+,ukbiobank_537,disease,Other inflammation of eyelid,http://www.ebi.ac.uk/efo/EFO_0009536,efo,26/04/2019 00:00
+,ukbiobank_538,disease,Otitis externa,http://www.ebi.ac.uk/efo/EFO_0009560,efo,26/04/2019 00:00
+,ukbiobank_539,disease,Other diseases of biliary tract,http://www.ebi.ac.uk/efo/EFO_0009534,efo,26/04/2019 00:00
+,ukbiobank_540,disease,Haemorrhoids,http://www.ebi.ac.uk/efo/EFO_0009552,efo,26/04/2019 00:00
+,ukbiobank_541,disease,Arthrosis of first carpometacarpal joint,http://www.ebi.ac.uk/efo/EFO_1000999,efo,26/04/2019 00:00
+,ukbiobank_542,disease,Inflammatory polyneuropathy,http://www.ebi.ac.uk/efo/EFO_0009538,efo,26/04/2019 00:00
+,ukbiobank_543,disease,Congenital malformations of aortic and mitral valves,http://www.ebi.ac.uk/efo/EFO_0009539,efo,26/04/2019 00:00
+,ukbiobank_544,disease,HIV disease resulting in malignant neoplasms,http://www.ebi.ac.uk/efo/EFO_0009553,efo,26/04/2019 00:00
+,ukbiobank_545,disease,Anaemia due to enzyme disorders,http://www.ebi.ac.uk/efo/EFO_0009529,efo,26/04/2019 00:00
+,ukbiobank_546,disease,Other disorders of peritoneum,http://www.ebi.ac.uk/efo/EFO_0009541,efo,26/04/2019 00:00
+,ukbiobank_547,disease,Intestinal malabsorption,http://www.ebi.ac.uk/efo/EFO_0009554,efo,26/04/2019 00:00
+,ukbiobank_548,disease,Other headache syndromes,http://www.ebi.ac.uk/efo/EFO_0009550,efo,26/04/2019 00:00
+,ukbiobank_549,disease,Disorders resulting from impaired renal tubular function,http://www.ebi.ac.uk/efo/EFO_0009566,efo,26/04/2019 00:00
+,ukbiobank_550,disease,Unspecified intestinal parasitism,http://www.ebi.ac.uk/efo/EFO_0009561,efo,26/04/2019 00:00
+,ukbiobank_551,disease,Nerve root and plexus disorders,http://www.ebi.ac.uk/efo/EFO_0009559,efo,26/04/2019 00:00
+,ukbiobank_552,disease,HIV disease resulting in other specified diseases,http://www.ebi.ac.uk/efo/EFO_0009528,efo,26/04/2019 00:00
+,ukbiobank_553,disease,HIV disease resulting in other conditions,http://www.ebi.ac.uk/efo/EFO_0009528,efo,26/04/2019 00:00
+,ukbiobank_554,disease,Skin changes due to chronic exposure to nonionizing radiation,http://www.ebi.ac.uk/efo/EFO_0009565,efo,26/04/2019 00:00
+,ukbiobank_555,disease,Cervical disc disorders,http://www.ebi.ac.uk/efo/EFO_0009537,efo,26/04/2019 00:00
+,ukbiobank_556,disease,Other diseases of appendix,http://www.ebi.ac.uk/efo/EFO_0009542,efo,26/04/2019 00:00
+,ukbiobank_557,phenotype,Small kidney of unknown cause,http://www.ebi.ac.uk/efo/EFO_0009471,efo,26/04/2019 00:00
+,ukbiobank_558,phenotype,Perforation of tympanic membrane,http://www.ebi.ac.uk/efo/EFO_0009472,efo,26/04/2019 00:00
+,ukbiobank_559,disease,Other spirochaetal infections,http://www.ebi.ac.uk/efo/EFO_0009567,efo,26/04/2019 00:00
+,ukbiobank_560,disease,Disturbances of smell and taste,http://www.ebi.ac.uk/efo/EFO_0009543,efo,26/04/2019 00:00
+,ukbiobank_561,disease,Other diseases of jaws,http://www.ebi.ac.uk/efo/EFO_0009468,efo,26/04/2019 00:00
+,ukbiobank_562,disease,Diseases of Bartholin s gland,http://www.ebi.ac.uk/efo/EFO_0009469,efo,26/04/2019 00:00
+,ukbiobank_563,disease,Soft tissue disorders related to use overuse and pressure,http://www.ebi.ac.uk/efo/EFO_0009470,efo,26/04/2019 00:00
+,ukbiobank_564,disease,Soft tissue disorders in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0009470,efo,26/04/2019 00:00
+,ukbiobank_565,measurement,Waist circumference,http://www.ebi.ac.uk/efo/EFO_0004342,efo,26/04/2019 00:00
+,ukbiobank_566,measurement,Hip circumference,http://www.ebi.ac.uk/efo/EFO_0005093,efo,26/04/2019 00:00
+,ukbiobank_567,measurement,Standing height,http://www.ebi.ac.uk/efo/EFO_0004339,efo,26/04/2019 00:00
+,ukbiobank_568,measurement,"Pulse rate, automated reading",http://www.ebi.ac.uk/efo/EFO_0004326,efo,26/04/2019 00:00
+,ukbiobank_569,measurement,Sleep duration,http://www.ebi.ac.uk/efo/EFO_0005271,efo,26/04/2019 00:00
+,ukbiobank_570,measurement,Morning/evening person (chronotype),http://www.ebi.ac.uk/efo/EFO_0008328,efo,26/04/2019 00:00
+,ukbiobank_571,disease,Sleeplessness / insomnia,http://www.ebi.ac.uk/efo/EFO_0004698,efo,26/04/2019 00:00
+,ukbiobank_572,measurement,Snoring,http://www.ebi.ac.uk/efo/EFO_0008341,efo,26/04/2019 00:00
+,ukbiobank_573,measurement,Alcohol intake frequency.,http://www.ebi.ac.uk/efo/EFO_0007878,efo,26/04/2019 00:00
+,ukbiobank_574,phenotype,Mood swings,http://purl.obolibrary.org/obo/HP_0000720,efo,26/04/2019 00:00
+,ukbiobank_575,phenotype,Irritability,http://purl.obolibrary.org/obo/HP_0000737,efo,26/04/2019 00:00
+,ukbiobank_576,measurement,"Loneliness, isolation",http://www.ebi.ac.uk/efo/EFO_0007865,efo,26/04/2019 00:00
+,ukbiobank_577,measurement,Frequency of tiredness / lethargy in last 2 weeks,http://www.ebi.ac.uk/efo/EFO_0007946,efo,26/04/2019 00:00
+,ukbiobank_578,disease,Hearing difficulty/problems with background noise,http://www.ebi.ac.uk/efo/EFO_0004238,efo,26/04/2019 00:00
+,ukbiobank_579,phenotype,Chest pain or discomfort,http://purl.obolibrary.org/obo/HP_0100749,efo,26/04/2019 00:00
+,ukbiobank_580,measurement,Relative age voice broke,http://www.ebi.ac.uk/efo/EFO_0007888,efo,26/04/2019 00:00
+,ukbiobank_581,measurement,Age when periods started (menarche),http://www.ebi.ac.uk/efo/EFO_0004703,efo,26/04/2019 00:00
+,ukbiobank_582,phenotype,Had menopause,http://www.ebi.ac.uk/efo/EFO_0003922,efo,26/04/2019 00:00
+,ukbiobank_583,measurement,Forced vital capacity (FVC),http://www.ebi.ac.uk/efo/EFO_0004312,efo,26/04/2019 00:00
+,ukbiobank_584,measurement,Forced expiratory volume in 1-second (FEV1),http://www.ebi.ac.uk/efo/EFO_0004314,efo,26/04/2019 00:00
+,ukbiobank_585,phenotype,Neck/shoulder pain for 3+ months,http://purl.obolibrary.org/obo/HP_0030834,efo,26/04/2019 00:00
+,ukbiobank_585,phenotype,Neck/shoulder pain for 3+ months,http://purl.obolibrary.org/obo/HP_0030833,efo,26/04/2019 00:00
+,ukbiobank_586,phenotype,Hip pain for 3+ months,http://purl.obolibrary.org/obo/HP_0030838,efo,26/04/2019 00:00
+,ukbiobank_587,phenotype,Back pain for 3+ months,http://purl.obolibrary.org/obo/HP_0003418,efo,26/04/2019 00:00
+,ukbiobank_588,experimental process,Ever had hysterectomy (womb removed),http://www.ebi.ac.uk/efo/EFO_0003881,efo,26/04/2019 00:00
+,ukbiobank_589,measurement,Length of menstrual cycle,http://www.ebi.ac.uk/efo/EFO_0007786,efo,26/04/2019 00:00
+,ukbiobank_590,phenotype,Stomach/abdominal pain for 3+ months,http://www.ebi.ac.uk/efo/EFO_0003766,efo,26/04/2019 00:00
+,ukbiobank_591,disease,Headaches for 3+ months,http://www.ebi.ac.uk/efo/EFO_0009550,efo,26/04/2019 00:00
+,ukbiobank_591,phenotype,Headaches for 3+ months,http://purl.obolibrary.org/obo/HP_0002315,efo,26/04/2019 00:00
+,ukbiobank_592,disease,Gestational diabetes only,http://www.ebi.ac.uk/efo/EFO_0004593,efo,26/04/2019 00:00
+,ukbiobank_593,measurement,"Diastolic blood pressure, automated reading",http://www.ebi.ac.uk/efo/EFO_0006336,efo,26/04/2019 00:00
+,ukbiobank_594,measurement,"Systolic blood pressure, automated reading",http://www.ebi.ac.uk/efo/EFO_0006335,efo,26/04/2019 00:00
+,ukbiobank_595,measurement,Pulse rate,http://www.ebi.ac.uk/efo/EFO_0004326,efo,26/04/2019 00:00
+,ukbiobank_596,phenotype,Leg pain on walking,http://purl.obolibrary.org/obo/HP_0012514,efo,26/04/2019 00:00
+,ukbiobank_597,phenotype,Leg pain when standing still or sitting,http://purl.obolibrary.org/obo/HP_0012514,efo,26/04/2019 00:00
+,ukbiobank_598,phenotype,Leg pain in calf/calves,http://purl.obolibrary.org/obo/HP_0012514,efo,26/04/2019 00:00
+,ukbiobank_599,phenotype,Chest pain felt during physical activity,http://purl.obolibrary.org/obo/HP_0100749,efo,26/04/2019 00:00
+,ukbiobank_600,phenotype,Chest pain felt outside physical activity,http://purl.obolibrary.org/obo/HP_0100749,efo,26/04/2019 00:00
+,ukbiobank_601,measurement,Maximum heart rate during fitness test,http://www.ebi.ac.uk/efo/EFO_0009184,efo,26/04/2019 00:00
+,ukbiobank_602,biological process,Fluid intelligence score,http://www.ebi.ac.uk/efo/EFO_0004337,efo,26/04/2019 00:00
+,ukbiobank_603,measurement,Birth weight,http://www.ebi.ac.uk/efo/EFO_0004344,efo,26/04/2019 00:00
+,ukbiobank_604,disease,Bipolar disorder status,http://www.ebi.ac.uk/efo/EFO_0000289,efo,26/04/2019 00:00
+,ukbiobank_605,measurement,Neuroticism score,http://www.ebi.ac.uk/efo/EFO_0007660,efo,26/04/2019 00:00
+,ukbiobank_606,measurement,"Forced expiratory volume in 1-second (FEV1), Best measure",http://www.ebi.ac.uk/efo/EFO_0004314,efo,26/04/2019 00:00
+,ukbiobank_607,measurement,"Forced vital capacity (FVC), Best measure",http://www.ebi.ac.uk/efo/EFO_0004312,efo,26/04/2019 00:00
+,ukbiobank_608,measurement,Body mass index (BMI),http://www.ebi.ac.uk/efo/EFO_0004340,efo,26/04/2019 00:00
+,ukbiobank_609,measurement,Weight,http://www.ebi.ac.uk/efo/EFO_0004338,efo,26/04/2019 00:00
+,ukbiobank_610,measurement,Pulse wave Arterial Stiffness index,http://www.ebi.ac.uk/efo/EFO_0004517,efo,26/04/2019 00:00
+,ukbiobank_611,disease,hayfever or allergic rhinitis,http://www.ebi.ac.uk/efo/EFO_0003956,efo,26/04/2019 00:00
+,ukbiobank_612,disease,asthma,http://www.ebi.ac.uk/efo/EFO_0000270,efo,26/04/2019 00:00
+,ukbiobank_613,disease,emphysema,http://www.ebi.ac.uk/efo/EFO_0000464,efo,26/04/2019 00:00
+,ukbiobank_614,disease,chronic bronchitis,http://www.ebi.ac.uk/efo/EFO_0006505,efo,26/04/2019 00:00
+,ukbiobank_615,disease,COPD (chronic obstructive pulmonary disease),http://www.ebi.ac.uk/efo/EFO_0000341,efo,26/04/2019 00:00
+,ukbiobank_616,disease,sarcoidosis,http://www.orpha.net/ORDO/Orphanet_797,efo,26/04/2019 00:00
+,ukbiobank_617,phenotype,bronchiectasis,http://purl.obolibrary.org/obo/HP_0002110,efo,26/04/2019 00:00
+,ukbiobank_618,disease,idiopathic pulmonary fibrosis,http://www.ebi.ac.uk/efo/EFO_0000768,efo,26/04/2019 00:00
+,ukbiobank_619,disease,tuberculosis,http://www.orpha.net/ORDO/Orphanet_3389,efo,26/04/2019 00:00
+,ukbiobank_620,disease,lung cancer (not mesothelioma),http://www.ebi.ac.uk/efo/EFO_0001071,efo,26/04/2019 00:00
+,ukbiobank_621,measurement,Body fat percentage,http://www.ebi.ac.uk/efo/EFO_0007800,efo,26/04/2019 00:00
+,ukbiobank_622,measurement,Whole body fat mass,http://www.ebi.ac.uk/efo/EFO_0005409,efo,26/04/2019 00:00
+,ukbiobank_623,measurement,Whole body fat-free mass,http://www.ebi.ac.uk/efo/EFO_0004995,efo,26/04/2019 00:00
+,ukbiobank_624,measurement,Basal metabolic rate,http://www.ebi.ac.uk/efo/EFO_0007777,efo,26/04/2019 00:00
+,ukbiobank_625,phenotype,Potassium in urine,http://purl.obolibrary.org/obo/HP_0012598,efo,26/04/2019 00:00
+,ukbiobank_626,phenotype,Sodium in urine,http://purl.obolibrary.org/obo/HP_0012603,efo,26/04/2019 00:00
+,ukbiobank_627,measurement,Age at death,http://www.ebi.ac.uk/efo/EFO_0005056,efo,26/04/2019 00:00
+,ukbiobank_628,disease,lung cancer,http://www.ebi.ac.uk/efo/EFO_0001071,efo,26/04/2019 00:00
+,ukbiobank_629,disease,breast cancer,http://www.ebi.ac.uk/efo/EFO_0000305,efo,26/04/2019 00:00
+,ukbiobank_630,disease,skin cancer,http://www.ebi.ac.uk/efo/EFO_0009259,efo,26/04/2019 00:00
+,ukbiobank_631,disease,cancer of lip/mouth/pharynx/oral cavity,http://www.ebi.ac.uk/efo/EFO_0005570,efo,26/04/2019 00:00
+,ukbiobank_632,disease,larynx/throat cancer,http://www.ebi.ac.uk/efo/EFO_0003817,efo,26/04/2019 00:00
+,ukbiobank_633,disease,tongue cancer,http://www.ebi.ac.uk/efo/EFO_0003871,efo,26/04/2019 00:00
+,ukbiobank_634,disease,oesophageal cancer,http://www.ebi.ac.uk/efo/EFO_0002916,efo,26/04/2019 00:00
+,ukbiobank_635,disease,stomach cancer,http://www.ebi.ac.uk/efo/EFO_0003897,efo,26/04/2019 00:00
+,ukbiobank_636,disease,small intestine/small bowel cancer,http://www.ebi.ac.uk/efo/EFO_0005588,efo,26/04/2019 00:00
+,ukbiobank_637,disease,large bowel cancer/colorectal cancer,http://www.ebi.ac.uk/efo/EFO_1001951,efo,26/04/2019 00:00
+,ukbiobank_638,disease,colon cancer/sigmoid cancer,http://www.ebi.ac.uk/efo/EFO_1001950,efo,26/04/2019 00:00
+,ukbiobank_639,disease,rectal cancer,http://www.ebi.ac.uk/efo/EFO_1000657,efo,26/04/2019 00:00
+,ukbiobank_640,disease,liver/hepatocellular cancer,http://www.ebi.ac.uk/efo/EFO_0000182,efo,26/04/2019 00:00
+,ukbiobank_641,disease,eye and/or adnexal cancer,http://www.ebi.ac.uk/efo/EFO_0003824,efo,26/04/2019 00:00
+,ukbiobank_642,disease,brain cancer / primary malignant brain tumour,http://www.ebi.ac.uk/efo/EFO_0003833,efo,26/04/2019 00:00
+,ukbiobank_643,disease,kidney/renal cell cancer,http://www.ebi.ac.uk/efo/EFO_0003865,efo,26/04/2019 00:00
+,ukbiobank_644,disease,bladder cancer,http://www.ebi.ac.uk/efo/EFO_0000292,efo,26/04/2019 00:00
+,ukbiobank_645,disease,ovarian cancer,http://www.ebi.ac.uk/efo/EFO_0001075,efo,26/04/2019 00:00
+,ukbiobank_646,disease,uterine/endometrial cancer,http://www.ebi.ac.uk/efo/EFO_0002919,efo,26/04/2019 00:00
+,ukbiobank_647,disease,cervical cancer,http://www.ebi.ac.uk/efo/EFO_0001061,efo,26/04/2019 00:00
+,ukbiobank_648,disease,prostate cancer,http://www.ebi.ac.uk/efo/EFO_0001663,efo,26/04/2019 00:00
+,ukbiobank_649,disease,testicular cancer,http://www.ebi.ac.uk/efo/EFO_0005088,efo,26/04/2019 00:00
+,ukbiobank_650,disease,lymphoma,http://www.ebi.ac.uk/efo/EFO_0000574,efo,26/04/2019 00:00
+,ukbiobank_651,disease,leukaemia,http://www.ebi.ac.uk/efo/EFO_0000565,efo,26/04/2019 00:00
+,ukbiobank_652,disease,multiple myeloma,http://www.ebi.ac.uk/efo/EFO_0001378,efo,26/04/2019 00:00
+,ukbiobank_653,disease,hodgkins lymphoma / hodgkins disease,http://www.ebi.ac.uk/efo/EFO_0000183,efo,26/04/2019 00:00
+,ukbiobank_654,disease,non-hodgkins lymphoma,http://www.ebi.ac.uk/efo/EFO_0005952,efo,26/04/2019 00:00
+,ukbiobank_655,disease,chronic lymphocytic,http://www.ebi.ac.uk/efo/EFO_0000095,efo,26/04/2019 00:00
+,ukbiobank_656,disease,chronic myeloid,http://www.ebi.ac.uk/efo/EFO_0000339,efo,26/04/2019 00:00
+,ukbiobank_657,disease,malignant melanoma,http://www.ebi.ac.uk/efo/EFO_0000756,efo,26/04/2019 00:00
+,ukbiobank_658,disease,non-melanoma skin cancer,http://www.ebi.ac.uk/efo/EFO_0009260,efo,26/04/2019 00:00
+,ukbiobank_659,disease,basal cell carcinoma,http://www.ebi.ac.uk/efo/EFO_0004193,efo,26/04/2019 00:00
+,ukbiobank_660,disease,squamous cell carcinoma,http://www.ebi.ac.uk/efo/EFO_0000707,efo,26/04/2019 00:00
+,ukbiobank_661,disease,primary bone cancer,http://www.ebi.ac.uk/efo/EFO_0003820,efo,26/04/2019 00:00
+,ukbiobank_662,disease,thyroid cancer,http://www.ebi.ac.uk/efo/EFO_0002892,efo,26/04/2019 00:00
+,ukbiobank_663,disease,"malignant lymph node, unspecified",http://www.ebi.ac.uk/efo/EFO_0001642,efo,26/04/2019 00:00
+,ukbiobank_664,disease,hypertension,http://www.ebi.ac.uk/efo/EFO_0000537,efo,26/04/2019 00:00
+,ukbiobank_665,disease,heart/cardiac problem,http://www.ebi.ac.uk/efo/EFO_0003777,efo,26/04/2019 00:00
+,ukbiobank_666,disease,peripheral vascular disease,http://www.ebi.ac.uk/efo/EFO_0003875,efo,26/04/2019 00:00
+,ukbiobank_667,phenotype,venous thromboembolic disease,http://purl.obolibrary.org/obo/HP_0004936,efo,26/04/2019 00:00
+,ukbiobank_668,disease,essential hypertension,http://www.ebi.ac.uk/efo/EFO_1002032,efo,26/04/2019 00:00
+,ukbiobank_669,disease,gestational hypertension/pre-eclampsia,http://www.ebi.ac.uk/efo/EFO_0000668,efo,26/04/2019 00:00
+,ukbiobank_670,phenotype,angina,http://www.ebi.ac.uk/efo/EFO_0003913,efo,26/04/2019 00:00
+,ukbiobank_671,disease,heart attack/myocardial infarction,http://www.ebi.ac.uk/efo/EFO_0000612,efo,26/04/2019 00:00
+,ukbiobank_672,disease,heart failure/pulmonary odema,http://www.ebi.ac.uk/efo/EFO_0003144,efo,26/04/2019 00:00
+,ukbiobank_673,disease,heart arrhythmia,http://www.ebi.ac.uk/efo/EFO_0004269,efo,26/04/2019 00:00
+,ukbiobank_674,disease,cardiomyopathy,http://www.ebi.ac.uk/efo/EFO_0000318,efo,26/04/2019 00:00
+,ukbiobank_675,disease,stroke,http://www.ebi.ac.uk/efo/EFO_0000712,efo,26/04/2019 00:00
+,ukbiobank_676,disease,transient ischaemic attack (tia),http://www.ebi.ac.uk/efo/EFO_0003764,efo,26/04/2019 00:00
+,ukbiobank_677,phenotype,subdural haemorrhage/haematoma,http://purl.obolibrary.org/obo/HP_0100309,efo,26/04/2019 00:00
+,ukbiobank_678,disease,subarachnoid haemorrhage,http://www.ebi.ac.uk/efo/EFO_0000713,efo,26/04/2019 00:00
+,ukbiobank_679,disease,leg claudication/ intermittent claudication,http://www.ebi.ac.uk/efo/EFO_0003876,efo,26/04/2019 00:00
+,ukbiobank_680,disease,pulmonary embolism +/- dvt,http://www.ebi.ac.uk/efo/EFO_0003827,efo,26/04/2019 00:00
+,ukbiobank_681,phenotype,deep venous thrombosis (dvt),http://www.ebi.ac.uk/efo/EFO_0003907,efo,26/04/2019 00:00
+,ukbiobank_682,disease,asthma,http://www.ebi.ac.uk/efo/EFO_0000270,efo,26/04/2019 00:00
+,ukbiobank_683,disease,chronic obstructive airways disease/copd,http://www.ebi.ac.uk/efo/EFO_0000341,efo,26/04/2019 00:00
+,ukbiobank_684,disease,emphysema/chronic bronchitis,http://www.ebi.ac.uk/efo/EFO_0000464,efo,26/04/2019 00:00
+,ukbiobank_685,phenotype,bronchiectasis,http://purl.obolibrary.org/obo/HP_0002110,efo,26/04/2019 00:00
+,ukbiobank_686,disease,interstitial lung disease,http://www.ebi.ac.uk/efo/EFO_0004244,efo,26/04/2019 00:00
+,ukbiobank_687,disease,asbestosis,http://www.ebi.ac.uk/efo/EFO_0007153,efo,26/04/2019 00:00
+,ukbiobank_688,disease,pulmonary fibrosis,http://www.ebi.ac.uk/efo/EFO_0009448,efo,26/04/2019 00:00
+,ukbiobank_689,disease,fibrosing alveolitis/unspecified alveolitis,http://www.ebi.ac.uk/efo/EFO_0009624,efo,26/04/2019 00:00
+,ukbiobank_690,disease,sleep apnoea,http://www.ebi.ac.uk/efo/EFO_0003877,efo,26/04/2019 00:00
+,ukbiobank_691,disease,pleurisy,http://www.ebi.ac.uk/efo/EFO_1001825,efo,26/04/2019 00:00
+,ukbiobank_692,phenotype,spontaneous pneumothorax/recurrent pneumothorax,http://purl.obolibrary.org/obo/HP_0002108,efo,26/04/2019 00:00
+,ukbiobank_693,disease,gastro-oesophageal reflux (gord) / gastric reflux,http://www.ebi.ac.uk/efo/EFO_0003948,efo,26/04/2019 00:00
+,ukbiobank_694,phenotype,oesophagitis/barretts oesophagus,http://purl.obolibrary.org/obo/HP_0100633,efo,26/04/2019 00:00
+,ukbiobank_694,disease,oesophagitis/barretts oesophagus,http://www.ebi.ac.uk/efo/EFO_0000280,efo,26/04/2019 00:00
+,ukbiobank_695,phenotype,gastric/stomach ulcers,http://purl.obolibrary.org/obo/HP_0004398,efo,26/04/2019 00:00
+,ukbiobank_696,disease,gastritis/gastric erosions,http://www.ebi.ac.uk/efo/EFO_0000217,efo,26/04/2019 00:00
+,ukbiobank_697,disease,irritable bowel syndrome,http://www.ebi.ac.uk/efo/EFO_0000555,efo,26/04/2019 00:00
+,ukbiobank_698,phenotype,hepatitis,http://purl.obolibrary.org/obo/HP_0012115,efo,26/04/2019 00:00
+,ukbiobank_699,disease,infective/viral hepatitis,http://www.ebi.ac.uk/efo/EFO_0004196,efo,26/04/2019 00:00
+,ukbiobank_700,disease,liver failure/cirrhosis,http://www.ebi.ac.uk/efo/EFO_0001422,efo,26/04/2019 00:00
+,ukbiobank_701,disease,gall bladder disease,http://www.ebi.ac.uk/efo/EFO_0003832,efo,26/04/2019 00:00
+,ukbiobank_702,disease,cholelithiasis/gall stones,http://www.ebi.ac.uk/efo/EFO_0004210,efo,26/04/2019 00:00
+,ukbiobank_702,disease,cholelithiasis/gall stones,http://www.ebi.ac.uk/efo/EFO_0004799,efo,26/04/2019 00:00
+,ukbiobank_703,phenotype,cholecystitis,http://purl.obolibrary.org/obo/HP_0001082,efo,26/04/2019 00:00
+,ukbiobank_704,disease,pancreatitis,http://www.ebi.ac.uk/efo/EFO_0000278,efo,26/04/2019 00:00
+,ukbiobank_705,disease,peritonitis,http://www.ebi.ac.uk/efo/EFO_0008588,efo,26/04/2019 00:00
+,ukbiobank_706,phenotype,gastrointestinal bleeding,http://purl.obolibrary.org/obo/HP_0002239,efo,26/04/2019 00:00
+,ukbiobank_707,disease,renal/kidney failure,http://www.ebi.ac.uk/efo/EFO_1002048,efo,26/04/2019 00:00
+,ukbiobank_708,disease,urinary tract infection/kidney infection,http://www.ebi.ac.uk/efo/EFO_0003103,efo,26/04/2019 00:00
+,ukbiobank_709,disease,kidney stone/ureter stone/bladder stone,http://www.ebi.ac.uk/efo/EFO_0004253,efo,26/04/2019 00:00
+,ukbiobank_709,disease,kidney stone/ureter stone/bladder stone,http://www.ebi.ac.uk/efo/EFO_1001228,efo,26/04/2019 00:00
+,ukbiobank_709,disease,kidney stone/ureter stone/bladder stone,http://www.ebi.ac.uk/efo/EFO_1000839,efo,26/04/2019 00:00
+,ukbiobank_710,disease,ureteric obstruction/hydronephrosis,http://www.ebi.ac.uk/efo/EFO_0005562,efo,26/04/2019 00:00
+,ukbiobank_711,phenotype,urinary frequency / incontinence,http://www.ebi.ac.uk/efo/EFO_0006865,efo,26/04/2019 00:00
+,ukbiobank_712,disease,diabetes,http://www.ebi.ac.uk/efo/EFO_0000400,efo,26/04/2019 00:00
+,ukbiobank_713,disease,gestational diabetes,http://www.ebi.ac.uk/efo/EFO_0004593,efo,26/04/2019 00:00
+,ukbiobank_714,disease,type 1 diabetes,http://www.ebi.ac.uk/efo/EFO_0001359,efo,26/04/2019 00:00
+,ukbiobank_715,disease,type 2 diabetes,http://www.ebi.ac.uk/efo/EFO_0001360,efo,26/04/2019 00:00
+,ukbiobank_716,disease,hyperthyroidism/thyrotoxicosis,http://www.ebi.ac.uk/efo/EFO_0009189,efo,26/04/2019 00:00
+,ukbiobank_716,disease,hyperthyroidism/thyrotoxicosis,http://www.ebi.ac.uk/efo/EFO_0009190,efo,26/04/2019 00:00
+,ukbiobank_717,disease,hypothyroidism/myxoedema,http://www.ebi.ac.uk/efo/EFO_0004705,efo,26/04/2019 00:00
+,ukbiobank_717,disease,hypothyroidism/myxoedema,http://www.ebi.ac.uk/efo/EFO_1001055,efo,26/04/2019 00:00
+,ukbiobank_718,disease,parathyroid hyperplasia/adenoma,http://www.ebi.ac.uk/efo/EFO_1000457,efo,26/04/2019 00:00
+,ukbiobank_719,disease,pituitary adenoma/tumour,http://www.ebi.ac.uk/efo/EFO_1000478,efo,26/04/2019 00:00
+,ukbiobank_720,disease,encephalitis,http://www.ebi.ac.uk/efo/EFO_0001423,efo,26/04/2019 00:00
+,ukbiobank_721,disease,bell's palsy/facial nerve palsy,http://www.ebi.ac.uk/efo/EFO_0007167,efo,26/04/2019 00:00
+,ukbiobank_722,disease,peripheral neuropathy,http://www.ebi.ac.uk/efo/EFO_0003100,efo,26/04/2019 00:00
+,ukbiobank_723,disease,acute infective polyneuritis/guillain-barre syndrome,http://www.ebi.ac.uk/efo/EFO_0007292,efo,26/04/2019 00:00
+,ukbiobank_724,disease,multiple sclerosis,http://www.ebi.ac.uk/efo/EFO_0003885,efo,26/04/2019 00:00
+,ukbiobank_725,disease,parkinsons disease,http://www.ebi.ac.uk/efo/EFO_0002508,efo,26/04/2019 00:00
+,ukbiobank_726,phenotype,dementia/alzheimers/cognitive impairment,http://purl.obolibrary.org/obo/HP_0000726,efo,26/04/2019 00:00
+,ukbiobank_726,disease,dementia/alzheimers/cognitive impairment,http://www.ebi.ac.uk/efo/EFO_0000249,efo,26/04/2019 00:00
+,ukbiobank_726,phenotype,dementia/alzheimers/cognitive impairment,http://purl.obolibrary.org/obo/HP_0100543,efo,26/04/2019 00:00
+,ukbiobank_727,disease,epilepsy,http://www.ebi.ac.uk/efo/EFO_0000474,efo,26/04/2019 00:00
+,ukbiobank_728,disease,migraine,http://www.ebi.ac.uk/efo/EFO_0003821,efo,26/04/2019 00:00
+,ukbiobank_729,disease,spinal injury,http://www.ebi.ac.uk/efo/EFO_1001919,efo,26/04/2019 00:00
+,ukbiobank_730,disease,eye infection,http://www.ebi.ac.uk/efo/EFO_1001888,efo,26/04/2019 00:00
+,ukbiobank_731,disease,retinal problem,http://www.ebi.ac.uk/efo/EFO_0003839,efo,26/04/2019 00:00
+,ukbiobank_732,disease,glaucoma,http://www.ebi.ac.uk/efo/EFO_0000516,efo,26/04/2019 00:00
+,ukbiobank_733,disease,cataract,http://www.ebi.ac.uk/efo/EFO_0001059,efo,26/04/2019 00:00
+,ukbiobank_734,disease,retinal detachment,http://www.ebi.ac.uk/efo/EFO_0005773,efo,26/04/2019 00:00
+,ukbiobank_735,disease,retinal artery/vein occlusion,http://www.ebi.ac.uk/efo/EFO_1001154,efo,26/04/2019 00:00
+,ukbiobank_735,disease,retinal artery/vein occlusion,http://www.ebi.ac.uk/efo/EFO_1001157,efo,26/04/2019 00:00
+,ukbiobank_736,disease,depression,http://www.ebi.ac.uk/efo/EFO_0003761,efo,26/04/2019 00:00
+,ukbiobank_737,disease,schizophrenia,http://www.ebi.ac.uk/efo/EFO_0000692,efo,26/04/2019 00:00
+,ukbiobank_738,biological process,deliberate self-harm/suicide attempt,http://www.ebi.ac.uk/efo/EFO_0004321,efo,26/04/2019 00:00
+,ukbiobank_739,disease,mania/bipolar disorder/manic depression,http://www.ebi.ac.uk/efo/EFO_0000289,efo,26/04/2019 00:00
+,ukbiobank_740,disease,bone disorder,http://www.ebi.ac.uk/efo/EFO_0004260,efo,26/04/2019 00:00
+,ukbiobank_741,disease,joint disorder,http://www.ebi.ac.uk/efo/EFO_1000999,efo,26/04/2019 00:00
+,ukbiobank_742,disease,osteomyelitis,http://www.ebi.ac.uk/efo/EFO_0003102,efo,26/04/2019 00:00
+,ukbiobank_743,disease,osteoporosis,http://www.ebi.ac.uk/efo/EFO_0003882,efo,26/04/2019 00:00
+,ukbiobank_744,disease,ankylosing spondylitis,http://www.ebi.ac.uk/efo/EFO_0003898,efo,26/04/2019 00:00
+,ukbiobank_745,disease,myositis/myopathy,http://www.ebi.ac.uk/efo/EFO_0000783,efo,26/04/2019 00:00
+,ukbiobank_745,disease,myositis/myopathy,http://www.ebi.ac.uk/efo/EFO_0004145,efo,26/04/2019 00:00
+,ukbiobank_746,phenotype,low platelets/platelet disorder,http://purl.obolibrary.org/obo/HP_0001873,efo,26/04/2019 00:00
+,ukbiobank_747,phenotype,iron deficiency anaemia,http://purl.obolibrary.org/obo/HP_0001891,efo,26/04/2019 00:00
+,ukbiobank_748,disease,pernicious anaemia,http://www.ebi.ac.uk/efo/EFO_0005576,efo,26/04/2019 00:00
+,ukbiobank_749,disease,thalassaemia,http://www.ebi.ac.uk/efo/EFO_1001996,efo,26/04/2019 00:00
+,ukbiobank_750,phenotype,ovarian cyst or cysts,http://purl.obolibrary.org/obo/HP_0000138,efo,26/04/2019 00:00
+,ukbiobank_751,disease,polycystic ovaries/polycystic ovarian syndrome,http://www.ebi.ac.uk/efo/EFO_0000660,efo,26/04/2019 00:00
+,ukbiobank_752,disease,uterine fibroids,http://www.ebi.ac.uk/efo/EFO_0000731,efo,26/04/2019 00:00
+,ukbiobank_753,disease,vaginal prolapse/uterine prolapse,http://www.ebi.ac.uk/efo/EFO_1001864,efo,26/04/2019 00:00
+,ukbiobank_754,disease,fibrocystic disease,http://www.ebi.ac.uk/efo/EFO_0003014,efo,26/04/2019 00:00
+,ukbiobank_755,disease,breast cysts,http://www.ebi.ac.uk/efo/EFO_1000848,efo,26/04/2019 00:00
+,ukbiobank_756,disease,sarcoidosis,http://www.orpha.net/ORDO/Orphanet_797,efo,26/04/2019 00:00
+,ukbiobank_757,disease,vasculitis,http://www.ebi.ac.uk/efo/EFO_0006803,efo,26/04/2019 00:00
+,ukbiobank_758,disease,connective tissue disorder,http://www.ebi.ac.uk/efo/EFO_1001986,efo,26/04/2019 00:00
+,ukbiobank_759,disease,allergy/hypersensitivity/anaphylaxis,http://www.ebi.ac.uk/efo/EFO_0003785,efo,26/04/2019 00:00
+,ukbiobank_760,disease,giant cell/temporal arteritis,http://www.ebi.ac.uk/efo/EFO_1001209,efo,26/04/2019 00:00
+,ukbiobank_761,disease,polymyalgia rheumatica,http://www.ebi.ac.uk/efo/EFO_0008518,efo,26/04/2019 00:00
+,ukbiobank_762,disease,wegners granulmatosis,http://www.ebi.ac.uk/efo/EFO_0005297,efo,26/04/2019 00:00
+,ukbiobank_763,disease,systemic lupus erythematosis/sle,http://www.ebi.ac.uk/efo/EFO_0002690,efo,26/04/2019 00:00
+,ukbiobank_764,disease,sjogren's syndrome/sicca syndrome,http://www.ebi.ac.uk/efo/EFO_0000699,efo,26/04/2019 00:00
+,ukbiobank_765,disease,scleroderma/systemic sclerosis,http://www.ebi.ac.uk/efo/EFO_1001993,efo,26/04/2019 00:00
+,ukbiobank_765,disease,scleroderma/systemic sclerosis,http://www.ebi.ac.uk/efo/EFO_0000717,efo,26/04/2019 00:00
+,ukbiobank_766,disease,allergy or anaphylactic reaction to food,http://www.ebi.ac.uk/efo/EFO_1001890,efo,26/04/2019 00:00
+,ukbiobank_767,disease,hayfever/allergic rhinitis,http://www.ebi.ac.uk/efo/EFO_0003956,efo,26/04/2019 00:00
+,ukbiobank_767,disease,hayfever/allergic rhinitis,http://www.ebi.ac.uk/efo/EFO_0005854,efo,26/04/2019 00:00
+,ukbiobank_768,disease,pneumonia,http://www.ebi.ac.uk/efo/EFO_0003106,efo,26/04/2019 00:00
+,ukbiobank_769,phenotype,peptic ulcer,http://purl.obolibrary.org/obo/HP_0004398,efo,26/04/2019 00:00
+,ukbiobank_770,disease,endometriosis,http://www.ebi.ac.uk/efo/EFO_0001065,efo,26/04/2019 00:00
+,ukbiobank_771,disease,female infertility,http://www.ebi.ac.uk/efo/EFO_0008560,efo,26/04/2019 00:00
+,ukbiobank_772,disease,alcohol dependency,http://www.ebi.ac.uk/efo/EFO_0003829,efo,26/04/2019 00:00
+,ukbiobank_773,disease,ear/vestibular disorder,http://www.ebi.ac.uk/efo/EFO_1001455,efo,26/04/2019 00:00
+,ukbiobank_774,disease,chronic sinusitis,http://www.ebi.ac.uk/efo/EFO_0007486,efo,26/04/2019 00:00
+,ukbiobank_775,disease,nasal polyps,http://www.ebi.ac.uk/efo/EFO_1000391,efo,26/04/2019 00:00
+,ukbiobank_776,disease,otosclerosis,http://www.ebi.ac.uk/efo/EFO_0004213,efo,26/04/2019 00:00
+,ukbiobank_777,disease,meniere's disease,http://www.ebi.ac.uk/efo/EFO_0006862,efo,26/04/2019 00:00
+,ukbiobank_778,disease,cerebral aneurysm,http://www.ebi.ac.uk/efo/EFO_0003870,efo,26/04/2019 00:00
+,ukbiobank_779,disease,myocarditis,http://www.ebi.ac.uk/efo/EFO_0009609,efo,26/04/2019 00:00
+,ukbiobank_780,disease,polycystic kidney,http://www.ebi.ac.uk/efo/EFO_0008620,efo,26/04/2019 00:00
+,ukbiobank_781,disease,thyroiditis,http://www.ebi.ac.uk/efo/EFO_1000627,efo,26/04/2019 00:00
+,ukbiobank_782,disease,hypopituitarism,http://www.ebi.ac.uk/efo/EFO_0001380,efo,26/04/2019 00:00
+,ukbiobank_783,disease,cerebral palsy,http://www.ebi.ac.uk/efo/EFO_1000632,efo,26/04/2019 00:00
+,ukbiobank_784,disease,optic neuritis,http://www.ebi.ac.uk/efo/EFO_0007405,efo,26/04/2019 00:00
+,ukbiobank_785,phenotype,headaches (not migraine),http://purl.obolibrary.org/obo/HP_0002315,efo,26/04/2019 00:00
+,ukbiobank_786,disease,myasthenia gravis,http://www.ebi.ac.uk/efo/EFO_0004991,efo,26/04/2019 00:00
+,ukbiobank_787,disease,polycythaemia vera,http://www.ebi.ac.uk/efo/EFO_0002429,efo,26/04/2019 00:00
+,ukbiobank_788,disease,hiv/aids,http://www.ebi.ac.uk/efo/EFO_0000764,efo,26/04/2019 00:00
+,ukbiobank_788,disease,hiv/aids,http://www.ebi.ac.uk/efo/EFO_0000765,efo,26/04/2019 00:00
+,ukbiobank_789,disease,tuberculosis (tb),http://www.orpha.net/ORDO/Orphanet_3389,efo,26/04/2019 00:00
+,ukbiobank_790,disease,malaria,http://www.ebi.ac.uk/efo/EFO_0001068,efo,26/04/2019 00:00
+,ukbiobank_791,organism,helicobacter pylori,http://purl.obolibrary.org/obo/NCBITaxon_210,efo,26/04/2019 00:00
+,ukbiobank_792,phenotype,anaemia,http://www.ebi.ac.uk/efo/EFO_0004272,efo,26/04/2019 00:00
+,ukbiobank_793,phenotype,neutropenia/lymphopenia,http://purl.obolibrary.org/obo/HP_0001875,efo,26/04/2019 00:00
+,ukbiobank_793,phenotype,neutropenia/lymphopenia,http://purl.obolibrary.org/obo/HP_0001888,efo,26/04/2019 00:00
+,ukbiobank_794,phenotype,eczema/dermatitis,http://purl.obolibrary.org/obo/HP_0000964,efo,26/04/2019 00:00
+,ukbiobank_795,disease,psoriasis,http://www.ebi.ac.uk/efo/EFO_0000676,efo,26/04/2019 00:00
+,ukbiobank_796,phenotype,chronic skin ulcers,http://www.ebi.ac.uk/efo/EFO_0007066,efo,26/04/2019 00:00
+,ukbiobank_797,disease,malabsorption/coeliac disease,http://www.ebi.ac.uk/efo/EFO_0001060,efo,26/04/2019 00:00
+,ukbiobank_798,disease,duodenal ulcer,http://www.ebi.ac.uk/efo/EFO_0004607,efo,26/04/2019 00:00
+,ukbiobank_799,disease,diverticular disease/diverticulitis,http://www.ebi.ac.uk/efo/EFO_1001460,efo,26/04/2019 00:00
+,ukbiobank_800,disease,colitis/not crohns or ulcerative colitis,http://www.ebi.ac.uk/efo/EFO_0003872,efo,26/04/2019 00:00
+,ukbiobank_801,disease,rectal or colon adenoma/polyps,http://www.ebi.ac.uk/efo/EFO_1000633,efo,26/04/2019 00:00
+,ukbiobank_802,disease,inflammatory bowel disease,http://www.ebi.ac.uk/efo/EFO_0003767,efo,26/04/2019 00:00
+,ukbiobank_803,disease,crohns disease,http://www.ebi.ac.uk/efo/EFO_0000384,efo,26/04/2019 00:00
+,ukbiobank_804,disease,ulcerative colitis,http://www.ebi.ac.uk/efo/EFO_0000729,efo,26/04/2019 00:00
+,ukbiobank_805,disease,rheumatoid arthritis,http://www.ebi.ac.uk/efo/EFO_0000685,efo,26/04/2019 00:00
+,ukbiobank_806,disease,osteoarthritis,http://www.ebi.ac.uk/efo/EFO_0002506,efo,26/04/2019 00:00
+,ukbiobank_807,disease,gout,http://www.ebi.ac.uk/efo/EFO_0004274,efo,26/04/2019 00:00
+,ukbiobank_808,disease,post-traumatic stress disorder,http://www.ebi.ac.uk/efo/EFO_0001358,efo,26/04/2019 00:00
+,ukbiobank_809,disease,anorexia/bulimia/other eating disorder,http://www.ebi.ac.uk/efo/EFO_0005203,efo,26/04/2019 00:00
+,ukbiobank_810,disease,atrial fibrillation,http://www.ebi.ac.uk/efo/EFO_0000275,efo,26/04/2019 00:00
+,ukbiobank_811,disease,emphysema,http://www.ebi.ac.uk/efo/EFO_0000464,efo,26/04/2019 00:00
+,ukbiobank_812,phenotype,high cholesterol,http://purl.obolibrary.org/obo/HP_0003124,efo,26/04/2019 00:00
+,ukbiobank_813,phenotype,hiatus hernia,http://purl.obolibrary.org/obo/HP_0002036,efo,26/04/2019 00:00
+,ukbiobank_814,phenotype,sciatica,http://purl.obolibrary.org/obo/HP_0011868,efo,26/04/2019 00:00
+,ukbiobank_815,disease,psoriatic arthropathy,http://www.ebi.ac.uk/efo/EFO_0003778,efo,26/04/2019 00:00
+,ukbiobank_816,disease,rheumatic fever,http://www.ebi.ac.uk/efo/EFO_1001160,efo,26/04/2019 00:00
+,ukbiobank_817,disease,chronic fatigue syndrome,http://www.ebi.ac.uk/efo/EFO_0004540,efo,26/04/2019 00:00
+,ukbiobank_818,disease,irregular heart beat,http://www.ebi.ac.uk/efo/EFO_0004269,efo,26/04/2019 00:00
+,ukbiobank_819,disease,brain haemorrhage,http://www.ebi.ac.uk/efo/EFO_0000551,efo,26/04/2019 00:00
+,ukbiobank_820,phenotype,varicose veins,http://purl.obolibrary.org/obo/HP_0002619,efo,26/04/2019 00:00
+,ukbiobank_821,disease,lymphoedema,http://www.orpha.net/ORDO/Orphanet_79383,efo,26/04/2019 00:00
+,ukbiobank_822,phenotype,pneumothorax,http://purl.obolibrary.org/obo/HP_0002107,efo,26/04/2019 00:00
+,ukbiobank_823,disease,labyrinthitis,http://www.ebi.ac.uk/efo/EFO_0009604,efo,26/04/2019 00:00
+,ukbiobank_824,phenotype,vertigo,http://purl.obolibrary.org/obo/HP_0002321,efo,26/04/2019 00:00
+,ukbiobank_825,disease,pyloric stenosis,http://www.ebi.ac.uk/efo/EFO_0009626,efo,26/04/2019 00:00
+,ukbiobank_826,disease,appendicitis,http://www.ebi.ac.uk/efo/EFO_0007149,efo,26/04/2019 00:00
+,ukbiobank_827,phenotype,anal fissure,http://purl.obolibrary.org/obo/HP_0012390,efo,26/04/2019 00:00
+,ukbiobank_828,disease,haemorrhoids / piles,http://www.ebi.ac.uk/efo/EFO_0009552,efo,26/04/2019 00:00
+,ukbiobank_829,phenotype,jaundice (unknown cause),http://purl.obolibrary.org/obo/HP_0000952,efo,26/04/2019 00:00
+,ukbiobank_830,disease,gastroenteritis/dysentry,http://www.ebi.ac.uk/efo/EFO_1001463,efo,26/04/2019 00:00
+,ukbiobank_830,disease,gastroenteritis/dysentry,http://www.ebi.ac.uk/efo/EFO_1001869,efo,26/04/2019 00:00
+,ukbiobank_831,disease,dyspepsia / indigestion,http://www.ebi.ac.uk/efo/EFO_0008533,efo,26/04/2019 00:00
+,ukbiobank_832,phenotype,abdominal hernia,http://purl.obolibrary.org/obo/HP_0004299,efo,26/04/2019 00:00
+,ukbiobank_833,phenotype,umbilical hernia,http://purl.obolibrary.org/obo/HP_0001537,efo,26/04/2019 00:00
+,ukbiobank_834,phenotype,inguinal hernia,http://purl.obolibrary.org/obo/HP_0000023,efo,26/04/2019 00:00
+,ukbiobank_835,disease,cystitis,http://www.ebi.ac.uk/efo/EFO_1000025,efo,26/04/2019 00:00
+,ukbiobank_836,disease,bph / benign prostatic hypertrophy,http://www.ebi.ac.uk/efo/EFO_0000284,efo,26/04/2019 00:00
+,ukbiobank_837,disease,prostatitis,http://www.ebi.ac.uk/efo/EFO_0003830,efo,26/04/2019 00:00
+,ukbiobank_838,disease,erectile dysfunction / impotence,http://www.ebi.ac.uk/efo/EFO_0004234,efo,26/04/2019 00:00
+,ukbiobank_839,disease,grave's disease,http://www.ebi.ac.uk/efo/EFO_0004237,efo,26/04/2019 00:00
+,ukbiobank_840,disease,trigemminal neuralgia,http://www.ebi.ac.uk/efo/EFO_1001219,efo,26/04/2019 00:00
+,ukbiobank_841,phenotype,benign / essential tremor,http://www.ebi.ac.uk/efo/EFO_0003108,efo,26/04/2019 00:00
+,ukbiobank_842,disease,polio / poliomyelitis,http://www.ebi.ac.uk/efo/EFO_0007450,efo,26/04/2019 00:00
+,ukbiobank_843,disease,dry eyes,http://www.ebi.ac.uk/efo/EFO_1000906,efo,26/04/2019 00:00
+,ukbiobank_844,disease,iritis,http://www.ebi.ac.uk/efo/EFO_1000997,efo,26/04/2019 00:00
+,ukbiobank_845,disease,post-natal depression,http://www.ebi.ac.uk/efo/EFO_0007453,efo,26/04/2019 00:00
+,ukbiobank_846,disease,disc degeneration,http://www.ebi.ac.uk/efo/EFO_0004994,efo,26/04/2019 00:00
+,ukbiobank_847,phenotype,back pain,http://purl.obolibrary.org/obo/HP_0003418,efo,26/04/2019 00:00
+,ukbiobank_848,disease,scoliosis,http://www.ebi.ac.uk/efo/EFO_0004273,efo,26/04/2019 00:00
+,ukbiobank_849,disease,spinal stenosis,http://www.ebi.ac.uk/efo/EFO_0007490,efo,26/04/2019 00:00
+,ukbiobank_850,phenotype,joint pain,http://purl.obolibrary.org/obo/HP_0002829,efo,26/04/2019 00:00
+,ukbiobank_851,disease,arthritis (nos),http://www.ebi.ac.uk/efo/EFO_0005856,efo,26/04/2019 00:00
+,ukbiobank_852,phenotype,plantar fascitis,http://www.ebi.ac.uk/efo/EFO_1001909,efo,26/04/2019 00:00
+,ukbiobank_853,disease,carpal tunnel syndrome,http://www.ebi.ac.uk/efo/EFO_0004143,efo,26/04/2019 00:00
+,ukbiobank_854,disease,fibromyalgia,http://www.ebi.ac.uk/efo/EFO_0005687,efo,26/04/2019 00:00
+,ukbiobank_855,disease,dupuytren's contracture,http://www.ebi.ac.uk/efo/EFO_0004229,efo,26/04/2019 00:00
+,ukbiobank_856,disease,acne/acne vulgaris,http://www.ebi.ac.uk/efo/EFO_0003894,efo,26/04/2019 00:00
+,ukbiobank_857,disease,lichen planus,http://www.ebi.ac.uk/efo/EFO_1000726,efo,26/04/2019 00:00
+,ukbiobank_858,disease,lichen sclerosis,http://www.ebi.ac.uk/efo/EFO_1000724,efo,26/04/2019 00:00
+,ukbiobank_859,disease,cervical intra-epithelial neoplasia (cin) / precancerous cells cervix,http://www.ebi.ac.uk/efo/EFO_1000910,efo,26/04/2019 00:00
+,ukbiobank_860,phenotype,menorrhagia (unknown cause),http://purl.obolibrary.org/obo/HP_0000132,efo,26/04/2019 00:00
+,ukbiobank_861,phenotype,ectopic pregnancy,http://purl.obolibrary.org/obo/HP_0031456,efo,26/04/2019 00:00
+,ukbiobank_862,disease,miscarriage,http://www.ebi.ac.uk/efo/EFO_1001255,efo,26/04/2019 00:00
+,ukbiobank_863,disease,breast fibroadenoma,http://www.ebi.ac.uk/efo/EFO_1000254,efo,26/04/2019 00:00
+,ukbiobank_864,disease,raynaud's phenomenon/disease,http://www.ebi.ac.uk/efo/EFO_1001145,efo,26/04/2019 00:00
+,ukbiobank_865,disease,food intolerance,http://www.ebi.ac.uk/efo/EFO_1001890,efo,26/04/2019 00:00
+,ukbiobank_866,disease,urticaria,http://www.ebi.ac.uk/efo/EFO_0005531,efo,26/04/2019 00:00
+,ukbiobank_867,disease,infectious mononucleosis / glandular fever / epstein barr virus (ebv),http://www.ebi.ac.uk/efo/EFO_0007326,efo,26/04/2019 00:00
+,ukbiobank_867,disease,infectious mononucleosis / glandular fever / epstein barr virus (ebv),http://www.ebi.ac.uk/efo/EFO_0000769,efo,26/04/2019 00:00
+,ukbiobank_868,disease,measles / morbillivirus,http://www.ebi.ac.uk/efo/EFO_1002025,efo,26/04/2019 00:00
+,ukbiobank_869,disease,mumps / epidemic parotitis,http://www.ebi.ac.uk/efo/EFO_0007383,efo,26/04/2019 00:00
+,ukbiobank_870,disease,rubella / german measles,http://www.ebi.ac.uk/efo/EFO_1002026,efo,26/04/2019 00:00
+,ukbiobank_871,disease,chickenpox,http://www.ebi.ac.uk/efo/EFO_0007204,efo,26/04/2019 00:00
+,ukbiobank_872,disease,whooping cough / pertussis,http://www.ebi.ac.uk/efo/EFO_0000650,efo,26/04/2019 00:00
+,ukbiobank_873,disease,shingles,http://www.ebi.ac.uk/efo/EFO_0006510,efo,26/04/2019 00:00
+,ukbiobank_874,disease,herpes simplex,http://www.ebi.ac.uk/efo/EFO_1002022,efo,26/04/2019 00:00
+,ukbiobank_875,disease,hepatitis a,http://www.ebi.ac.uk/efo/EFO_0007305,efo,26/04/2019 00:00
+,ukbiobank_876,disease,hepatitis b,http://www.ebi.ac.uk/efo/EFO_0004197,efo,26/04/2019 00:00
+,ukbiobank_877,disease,hepatitis c,http://www.ebi.ac.uk/efo/EFO_0003047,efo,26/04/2019 00:00
+,ukbiobank_878,disease,mitral regurgitation / incompetence,http://www.ebi.ac.uk/efo/EFO_0009557,efo,26/04/2019 00:00
+,ukbiobank_879,disease,aortic regurgitation / incompetence,http://www.ebi.ac.uk/efo/EFO_0007148,efo,26/04/2019 00:00
+,ukbiobank_880,disease,hypertrophic cardiomyopathy (hcm / hocm),http://www.ebi.ac.uk/efo/EFO_0000538,efo,26/04/2019 00:00
+,ukbiobank_881,disease,pericarditis,http://www.ebi.ac.uk/efo/EFO_0007427,efo,26/04/2019 00:00
+,ukbiobank_882,disease,respiratory infection,http://www.ebi.ac.uk/efo/EFO_0003106,efo,26/04/2019 00:00
+,ukbiobank_883,phenotype,tinnitus / tiniitis,http://purl.obolibrary.org/obo/HP_0000360,efo,26/04/2019 00:00
+,ukbiobank_884,phenotype,tonsiltis,http://purl.obolibrary.org/obo/HP_0011110,efo,26/04/2019 00:00
+,ukbiobank_885,phenotype,constipation,http://purl.obolibrary.org/obo/HP_0002019,efo,26/04/2019 00:00
+,ukbiobank_886,phenotype,rectal prolapse,http://purl.obolibrary.org/obo/HP_0002035,efo,26/04/2019 00:00
+,ukbiobank_887,disease,femoral hernia,http://www.ebi.ac.uk/efo/EFO_1001791,efo,26/04/2019 00:00
+,ukbiobank_888,phenotype,incisional hernia,http://purl.obolibrary.org/obo/HP_0004872,efo,26/04/2019 00:00
+,ukbiobank_889,disease,nephritis,http://www.ebi.ac.uk/efo/EFO_1002050,efo,26/04/2019 00:00
+,ukbiobank_890,disease,thyroid goitre,http://www.ebi.ac.uk/efo/EFO_0004283,efo,26/04/2019 00:00
+,ukbiobank_891,disease,blepharitis / eyelid infection,http://www.ebi.ac.uk/efo/EFO_0009536,efo,26/04/2019 00:00
+,ukbiobank_892,disease,obsessive compulsive disorder (ocd),http://www.ebi.ac.uk/efo/EFO_0004242,efo,26/04/2019 00:00
+,ukbiobank_893,disease,insomnia,http://www.ebi.ac.uk/efo/EFO_0004698,efo,26/04/2019 00:00
+,ukbiobank_894,phenotype,osteopenia,http://purl.obolibrary.org/obo/HP_0000938,efo,26/04/2019 00:00
+,ukbiobank_895,disease,tendonitis / tendinitis / tenosynovitis,http://www.ebi.ac.uk/efo/EFO_1001434,efo,26/04/2019 00:00
+,ukbiobank_895,disease,tendonitis / tendinitis / tenosynovitis,http://www.ebi.ac.uk/efo/EFO_1001435,efo,26/04/2019 00:00
+,ukbiobank_896,disease,bursitis,http://www.ebi.ac.uk/efo/EFO_1000941,efo,26/04/2019 00:00
+,ukbiobank_897,disease,tennis elbow / lateral epicondylitis,http://www.ebi.ac.uk/efo/EFO_1001896,efo,26/04/2019 00:00
+,ukbiobank_898,disease,cellulitis,http://www.ebi.ac.uk/efo/EFO_0003035,efo,26/04/2019 00:00
+,ukbiobank_899,disease,fracture skull / head,http://www.ebi.ac.uk/efo/EFO_1001425,efo,26/04/2019 00:00
+,ukbiobank_900,disease,fracture radius,http://www.ebi.ac.uk/efo/EFO_0003957,efo,26/04/2019 00:00
+,ukbiobank_901,disease,fracture ulna,http://www.ebi.ac.uk/efo/EFO_0003950,efo,26/04/2019 00:00
+,ukbiobank_902,disease,fracture tibia,http://www.ebi.ac.uk/efo/EFO_0003944,efo,26/04/2019 00:00
+,ukbiobank_903,phenotype,septicaemia / sepsis,http://purl.obolibrary.org/obo/HP_0100806,efo,26/04/2019 00:00
+,ukbiobank_904,disease,meningioma / benign meningeal tumour,http://www.orpha.net/ORDO/Orphanet_2495,efo,26/04/2019 00:00
+,ukbiobank_905,disease,rosacea,http://www.ebi.ac.uk/efo/EFO_1000760,efo,26/04/2019 00:00
+,ukbiobank_906,disease,vitiligo,http://www.ebi.ac.uk/efo/EFO_0004208,efo,26/04/2019 00:00
+,ukbiobank_907,disease,cervical erosion,http://www.ebi.ac.uk/efo/EFO_1000862,efo,26/04/2019 00:00
+,ukbiobank_908,phenotype,dysmenorrhoea / dysmenorrhea,http://purl.obolibrary.org/obo/HP_0100607,efo,26/04/2019 00:00
+,ukbiobank_909,phenotype,menopausal symptoms / menopause,http://www.ebi.ac.uk/efo/EFO_0003922,efo,26/04/2019 00:00
+,ukbiobank_910,disease,alopecia / hair loss,http://www.orpha.net/ORDO/Orphanet_79364,efo,26/04/2019 00:00
+,ukbiobank_911,disease,scarlet fever / scarlatina,http://www.ebi.ac.uk/efo/EFO_0007477,efo,26/04/2019 00:00
+,ukbiobank_912,disease,undescended testicle,http://www.ebi.ac.uk/efo/EFO_0004562,efo,26/04/2019 00:00
+,ukbiobank_913,disease,Hearing difficulty/problems: Yes,http://www.ebi.ac.uk/efo/EFO_0004238,efo,26/04/2019 00:00
+,ukbiobank_914,measurement,Comparative height size at age 10,http://www.ebi.ac.uk/efo/EFO_0004339,efo,26/04/2019 00:00
+,ukbiobank_915,measurement,Miserableness,http://www.ebi.ac.uk/efo/EFO_0007803,efo,26/04/2019 00:00
+,ukbiobank_916,measurement,Sensitivity / hurt feelings,http://www.ebi.ac.uk/efo/EFO_0007803,efo,26/04/2019 00:00
+,ukbiobank_917,measurement,Fed-up feelings,http://www.ebi.ac.uk/efo/EFO_0007803,efo,26/04/2019 00:00
+,ukbiobank_918,measurement,Nervous feelings,http://www.ebi.ac.uk/efo/EFO_0007803,efo,26/04/2019 00:00
+,ukbiobank_919,measurement,Guilty feelings,http://www.ebi.ac.uk/efo/EFO_0007803,efo,26/04/2019 00:00
+,ukbiobank_920,measurement,Risk taking,http://www.ebi.ac.uk/efo/EFO_0006946,efo,26/04/2019 00:00
+,ukbiobank_921,factor,Overall health rating,http://www.ebi.ac.uk/efo/EFO_0004778,efo,26/04/2019 00:00
+,ukbiobank_922,measurement,Number of live births,http://www.ebi.ac.uk/efo/EFO_0006921,efo,26/04/2019 00:00
+,ukbiobank_923,phenotype,General pain for 3+ months,http://purl.obolibrary.org/obo/HP_0012532,efo,26/04/2019 00:00
+,ukbiobank_924,phenotype,Chest pain or discomfort walking normally,http://purl.obolibrary.org/obo/HP_0100749,efo,26/04/2019 00:00
+,ukbiobank_925,phenotype,Chest pain due to walking ceases when standing still,http://purl.obolibrary.org/obo/HP_0100749,efo,26/04/2019 00:00
+,ukbiobank_926,phenotype,Chest pain or discomfort when walking uphill or hurrying,http://purl.obolibrary.org/obo/HP_0100749,efo,26/04/2019 00:00
+,ukbiobank_927,phenotype,Knee pain for 3+ months,http://purl.obolibrary.org/obo/HP_0030839,efo,26/04/2019 00:00
+,ukbiobank_928,disease,Number of spontaneous miscarriages,http://www.ebi.ac.uk/efo/EFO_1001255,efo,26/04/2019 00:00
+,ukbiobank_929,measurement,"Heel bone mineral density (BMD) T-score, automated (left)",http://www.ebi.ac.uk/efo/EFO_0003923,efo,26/04/2019 00:00
+,ukbiobank_930,measurement,"Heel bone mineral density (BMD) T-score, automated (right)",http://www.ebi.ac.uk/efo/EFO_0003923,efo,26/04/2019 00:00
+,ukbiobank_931,measurement,Pulse wave reflection index,http://www.ebi.ac.uk/efo/EFO_0009804,efo,26/04/2019 00:00
+,ukbiobank_932,measurement,Family relationship satisfaction,http://www.ebi.ac.uk/efo/EFO_0007869,efo,26/04/2019 00:00
+,ukbiobank_932,measurement,Family relationship satisfaction,http://www.ebi.ac.uk/efo/EFO_0004424,efo,26/04/2019 00:00
+,ukbiobank_933,measurement,Maximum workload during fitness test,http://www.ebi.ac.uk/efo/EFO_0004328,efo,26/04/2019 00:00
+,ukbiobank_934,biological process,Prospective memory result,http://www.ebi.ac.uk/efo/EFO_0004333,efo,26/04/2019 00:00
+,ukbiobank_935,phenotype,Cough on most days,http://purl.obolibrary.org/obo/HP_0012735,efo,26/04/2019 00:00
+,ukbiobank_936,phenotype,Years of cough on most days,http://purl.obolibrary.org/obo/HP_0012735,efo,26/04/2019 00:00
+,ukbiobank_937,disease,liver/biliary/pancreas problem,http://www.ebi.ac.uk/efo/EFO_0001421,efo,26/04/2019 00:00
+,ukbiobank_937,disease,liver/biliary/pancreas problem,http://www.ebi.ac.uk/efo/EFO_0009534,efo,26/04/2019 00:00
+,ukbiobank_937,disease,liver/biliary/pancreas problem,http://www.ebi.ac.uk/efo/EFO_0009605,efo,26/04/2019 00:00
+,ukbiobank_938,disease,psychological/psychiatric problem,http://www.ebi.ac.uk/efo/EFO_0005407,efo,26/04/2019 00:00
+,ukbiobank_939,disease,head injury,http://www.ebi.ac.uk/efo/EFO_0009505,efo,26/04/2019 00:00
+,ukbiobank_940,disease,gynaecological disorder (not cancer),http://www.ebi.ac.uk/efo/EFO_0009549,efo,26/04/2019 00:00
+,ukbiobank_941,disease,peripheral nerve injury,http://www.ebi.ac.uk/efo/EFO_0009510,efo,26/04/2019 00:00
+,ukbiobank_942,disease,fracture jaw,http://www.ebi.ac.uk/efo/EFO_0009612,efo,26/04/2019 00:00
+,ukbiobank_943,disease,fracture nose,http://www.ebi.ac.uk/efo/EFO_0009623,efo,26/04/2019 00:00
+,ukbiobank_944,disease,fracture face / orbit / eye socket,http://www.ebi.ac.uk/efo/EFO_0009611,efo,26/04/2019 00:00
+,ukbiobank_945,disease,fracture clavicle / collar bone,http://www.ebi.ac.uk/efo/EFO_0009614,efo,26/04/2019 00:00
+,ukbiobank_946,disease,fracture shoulder / scapula,http://www.ebi.ac.uk/efo/EFO_0009621,efo,26/04/2019 00:00
+,ukbiobank_947,disease,fracture forearm / wrist,http://www.ebi.ac.uk/efo/EFO_0009515,efo,26/04/2019 00:00
+,ukbiobank_948,disease,fracture wrist / colles fracture,http://www.ebi.ac.uk/efo/EFO_0009515,efo,26/04/2019 00:00
+,ukbiobank_949,disease,fracture hand,http://www.ebi.ac.uk/efo/EFO_0009514,efo,26/04/2019 00:00
+,ukbiobank_950,disease,fracture finger,http://www.ebi.ac.uk/efo/EFO_0009616,efo,26/04/2019 00:00
+,ukbiobank_951,disease,fracture thumb,http://www.ebi.ac.uk/efo/EFO_0009616,efo,26/04/2019 00:00
+,ukbiobank_952,disease,fracture rib,http://www.ebi.ac.uk/efo/EFO_0009620,efo,26/04/2019 00:00
+,ukbiobank_953,disease,fracture pelvis,http://www.ebi.ac.uk/efo/EFO_0009622,efo,26/04/2019 00:00
+,ukbiobank_954,disease,fracture neck of femur / hip,http://www.ebi.ac.uk/efo/EFO_0008553,efo,26/04/2019 00:00
+,ukbiobank_954,disease,fracture neck of femur / hip,http://www.ebi.ac.uk/efo/EFO_0003964,efo,26/04/2019 00:00
+,ukbiobank_955,disease,fracture shaft of femur,http://www.ebi.ac.uk/efo/EFO_0008553,efo,26/04/2019 00:00
+,ukbiobank_956,disease,fracture patella / knee,http://www.ebi.ac.uk/efo/EFO_0009617,efo,26/04/2019 00:00
+,ukbiobank_957,disease,fracture lower leg / ankle,http://www.ebi.ac.uk/efo/EFO_0009615,efo,26/04/2019 00:00
+,ukbiobank_957,disease,fracture lower leg / ankle,http://www.ebi.ac.uk/efo/EFO_0009512,efo,26/04/2019 00:00
+,ukbiobank_958,disease,fracture fibula,http://www.ebi.ac.uk/efo/EFO_0009613,efo,26/04/2019 00:00
+,ukbiobank_959,disease,fracture foot,http://www.ebi.ac.uk/efo/EFO_0009618,efo,26/04/2019 00:00
+,ukbiobank_960,disease,fracture metatarsal,http://www.ebi.ac.uk/efo/EFO_0003931,efo,26/04/2019 00:00
+,ukbiobank_961,disease,fracture toe,http://www.ebi.ac.uk/efo/EFO_0009618,efo,26/04/2019 00:00
+,ukbiobank_962,disease,Hair/balding pattern: Pattern 2,http://www.ebi.ac.uk/efo/EFO_0004191,efo,26/04/2019 00:00
+,ukbiobank_962,disease,Hair/balding pattern: Pattern 2,http://www.ebi.ac.uk/efo/EFO_0007825,efo,26/04/2019 00:00
+,ukbiobank_963,disease,Hair/balding pattern: Pattern 3,http://www.ebi.ac.uk/efo/EFO_0004191,efo,26/04/2019 00:00
+,ukbiobank_963,disease,Hair/balding pattern: Pattern 3,http://www.ebi.ac.uk/efo/EFO_0007825,efo,26/04/2019 00:00
+,ukbiobank_964,disease,Hair/balding pattern: Pattern 4,http://www.ebi.ac.uk/efo/EFO_0004191,efo,26/04/2019 00:00
+,ukbiobank_964,disease,Hair/balding pattern: Pattern 4,http://www.ebi.ac.uk/efo/EFO_0007825,efo,26/04/2019 00:00
+,ukbiobank_965,measurement,Hand grip strength (left),http://www.ebi.ac.uk/efo/EFO_0006941,efo,26/04/2019 00:00
+,ukbiobank_966,measurement,Hand grip strength (right),http://www.ebi.ac.uk/efo/EFO_0006941,efo,26/04/2019 00:00
+,ukbiobank_967,measurement,"Heel bone mineral density (BMD) T-score, automated",http://www.ebi.ac.uk/efo/EFO_0009270,efo,26/04/2019 00:00
+,ukbiobank_968,measurement,Age completed full time education,http://www.ebi.ac.uk/efo/EFO_0004784,efo,26/04/2019 00:00
+,ukbiobank_969,measurement,Daytime dozing / sleeping (narcolepsy),http://www.ebi.ac.uk/efo/EFO_0007875,efo,26/04/2019 00:00
+,ukbiobank_969,measurement,Daytime dozing / sleeping (narcolepsy),http://www.ebi.ac.uk/efo/EFO_0005855,efo,26/04/2019 00:00
+,ukbiobank_970,biological process,Current tobacco smoking,http://www.ebi.ac.uk/efo/EFO_0004318,efo,26/04/2019 00:00
+,ukbiobank_971,biological process,Past tobacco smoking,http://www.ebi.ac.uk/efo/EFO_0004319,efo,26/04/2019 00:00
+,ukbiobank_972,measurement,Exposure to tobacco smoke at home,http://www.ebi.ac.uk/efo/EFO_0008361,efo,26/04/2019 00:00
+,ukbiobank_973,measurement,Exposure to tobacco smoke outside home,http://www.ebi.ac.uk/efo/EFO_0008361,efo,26/04/2019 00:00
+,ukbiobank_974,phenotype,Worrier / anxious feelings,http://www.ebi.ac.uk/efo/EFO_0005230,efo,26/04/2019 00:00
+,ukbiobank_975,measurement,Frequency of depressed mood in last 2 weeks,http://www.ebi.ac.uk/efo/EFO_0007803,efo,26/04/2019 00:00
+,ukbiobank_976,measurement,Frequency of unenthusiasm / disinterest in last 2 weeks,http://www.ebi.ac.uk/efo/EFO_0007803,efo,26/04/2019 00:00
+,ukbiobank_977,disease,Diabetes diagnosed by doctor,http://www.ebi.ac.uk/efo/EFO_0000400,efo,26/04/2019 00:00
+,ukbiobank_978,disease,Cancer diagnosed by doctor,http://www.ebi.ac.uk/efo/EFO_0000311,efo,26/04/2019 00:00
+,ukbiobank_979,disease,Fractured/broken bones in last 5 years,http://www.ebi.ac.uk/efo/EFO_0003931,efo,26/04/2019 00:00
+,ukbiobank_980,disease,"Ever had stillbirth, spontaneous miscarriage or termination",http://www.ebi.ac.uk/efo/EFO_1001255,efo,26/04/2019 00:00
+,ukbiobank_981,experimental process,Ever used hormone-replacement therapy (HRT),http://www.ebi.ac.uk/efo/EFO_0003961,efo,26/04/2019 00:00
+,ukbiobank_982,disease,Fracture resulting from simple fall,http://www.ebi.ac.uk/efo/EFO_0003931,efo,26/04/2019 00:00
+,ukbiobank_983,phenotype,Facial pains for 3+ months,http://www.ebi.ac.uk/efo/EFO_0009625,efo,26/04/2019 00:00
+,ukbiobank_984,measurement,Longest period of depression,http://www.ebi.ac.uk/efo/EFO_0007704,efo,26/04/2019 00:00
+,ukbiobank_985,measurement,Number of depression episodes,http://www.ebi.ac.uk/efo/EFO_0007704,efo,26/04/2019 00:00
+,ukbiobank_986,measurement,Longest period of unenthusiasm / disinterest,http://www.ebi.ac.uk/efo/EFO_0007803,efo,26/04/2019 00:00
+,ukbiobank_987,measurement,Mean time to correctly identify matches,http://www.ebi.ac.uk/efo/EFO_0008393,efo,26/04/2019 00:00
+,ukbiobank_988,measurement,Creatinine (enzymatic) in urine,http://www.ebi.ac.uk/efo/EFO_0007934,efo,26/04/2019 00:00
+,ukbiobank_989,phenotype,Handedness (chirality/laterality): Left-handed,http://www.ebi.ac.uk/efo/EFO_0003889,efo,26/04/2019 00:00
+,ukbiobank_990,phenotype,Handedness (chirality/laterality): Use both right and left hands equally,http://www.ebi.ac.uk/efo/EFO_0003889,efo,26/04/2019 00:00
+,ukbiobank_991,disease,sarcoma/fibrosarcoma,http://www.ebi.ac.uk/efo/EFO_0000691,efo,26/04/2019 00:00
+,ukbiobank_991,disease,sarcoma/fibrosarcoma,http://www.ebi.ac.uk/efo/EFO_0002087,efo,26/04/2019 00:00
+,ukbiobank_992,disease,cin/pre-cancer cells cervix,http://www.ebi.ac.uk/efo/EFO_1000910,efo,26/04/2019 00:00
+,ukbiobank_993,disease,rodent ulcer,http://www.ebi.ac.uk/efo/EFO_0004193,efo,26/04/2019 00:00
+,ukbiobank_994,disease,heart valve problem/heart murmur,http://www.ebi.ac.uk/efo/EFO_0009551,efo,26/04/2019 00:00
+,ukbiobank_995,disease,pericardial problem,http://www.ebi.ac.uk/efo/EFO_0007427,efo,26/04/2019 00:00
+,ukbiobank_996,disease,other respiratory problems,http://www.ebi.ac.uk/efo/EFO_0000684,efo,26/04/2019 00:00
+,ukbiobank_997,disease,oesophageal disorder,http://www.ebi.ac.uk/efo/EFO_0009544,efo,26/04/2019 00:00
+,ukbiobank_998,disease,stomach disorder,http://www.ebi.ac.uk/efo/EFO_0009608,efo,26/04/2019 00:00
+,ukbiobank_999,phenotype,non-infective hepatitis,http://purl.obolibrary.org/obo/HP_0012115,efo,26/04/2019 00:00
+,ukbiobank_1000,disease,renal failure requiring dialysis,http://www.ebi.ac.uk/efo/EFO_1002048,efo,26/04/2019 00:00
+,ukbiobank_1001,disease,renal failure not requiring dialysis,http://www.ebi.ac.uk/efo/EFO_1002048,efo,26/04/2019 00:00
+,ukbiobank_1002,disease,parathyroid gland problem (not cancer),http://www.ebi.ac.uk/efo/EFO_0005754,efo,26/04/2019 00:00
+,ukbiobank_1003,disease,meningitis,http://www.ebi.ac.uk/efo/EFO_0000584,efo,26/04/2019 00:00
+,ukbiobank_1004,disease,chronic/degenerative neurological problem,http://www.ebi.ac.uk/efo/EFO_0005772,efo,26/04/2019 00:00
+,ukbiobank_1005,phenotype,anxiety/panic attacks,http://www.ebi.ac.uk/efo/EFO_0005230,efo,26/04/2019 00:00
+,ukbiobank_1005,phenotype,anxiety/panic attacks,http://www.ebi.ac.uk/efo/EFO_0004262,efo,26/04/2019 00:00
+,ukbiobank_1006,disease,muscle/soft tissue problem,http://www.ebi.ac.uk/efo/EFO_0009470,efo,26/04/2019 00:00
+,ukbiobank_1007,disease,spine arthritis/spondylitis,http://www.ebi.ac.uk/efo/EFO_1000787,efo,26/04/2019 00:00
+,ukbiobank_1008,disease,prolapsed disc/slipped disc,http://www.ebi.ac.uk/efo/EFO_1002005,efo,26/04/2019 00:00
+,ukbiobank_1009,disease,other renal/kidney problem,http://www.ebi.ac.uk/efo/EFO_0003086,efo,26/04/2019 00:00
+,ukbiobank_1010,disease,bronchitis,http://www.ebi.ac.uk/efo/EFO_1002018,efo,26/04/2019 00:00
+,ukbiobank_1011,disease,other joint disorder,http://www.ebi.ac.uk/efo/EFO_1000999,efo,26/04/2019 00:00
+,ukbiobank_1012,disease,diabetic neuropathy/ulcers,http://www.ebi.ac.uk/efo/EFO_1000783,efo,26/04/2019 00:00
+,ukbiobank_1013,disease,cervical spondylosis,http://www.ebi.ac.uk/efo/EFO_0009610,efo,26/04/2019 00:00
+,ukbiobank_1014,phenotype,svt / supraventricular tachycardia,http://purl.obolibrary.org/obo/HP_0004755,efo,26/04/2019 00:00
+,ukbiobank_1015,phenotype,anal problem,http://purl.obolibrary.org/obo/HP_0004378,efo,26/04/2019 00:00
+,ukbiobank_1016,disease,macular degeneration,http://www.ebi.ac.uk/efo/EFO_0009606,efo,26/04/2019 00:00
+,ukbiobank_1017,phenotype,bowel / intestinal obstruction,http://purl.obolibrary.org/obo/HP_0004796,efo,26/04/2019 00:00
+,ukbiobank_1018,biological process,stress,http://www.ebi.ac.uk/efo/EFO_1001920,efo,26/04/2019 00:00
+,ukbiobank_1019,disease,fracture upper arm / humerus / elbow,http://www.ebi.ac.uk/efo/EFO_0009514,efo,26/04/2019 00:00
+,ukbiobank_1020,disease,fracture vertebra / crush fracture / vertebral collapse,http://www.ebi.ac.uk/efo/EFO_0003902,efo,26/04/2019 00:00
+,ukbiobank_1021,biological process,allergy to house dust mite,http://www.ebi.ac.uk/efo/EFO_0006992,efo,26/04/2019 00:00
+,ukbiobank_1022,disease,benign neuroma,http://www.ebi.ac.uk/efo/EFO_0009619,efo,26/04/2019 00:00
+,ukbiobank_1023,disease,Hearing difficulty/problems: I am completely deaf,http://www.ebi.ac.uk/efo/EFO_0001063,efo,26/04/2019 00:00
+,ukbiobank_1024,disease,Which eye(s) are affected by cataract: Right eye,http://www.ebi.ac.uk/efo/EFO_0001059,efo,26/04/2019 00:00
+,ukbiobank_1025,disease,Which eye(s) are affected by cataract: Left eye,http://www.ebi.ac.uk/efo/EFO_0001059,efo,26/04/2019 00:00
+,ukbiobank_1026,quality,Number of self-reported cancers,http://www.ebi.ac.uk/efo/EFO_0009800,efo,26/04/2019 00:00
+,ukbiobank_1027,quality,Number of self-reported non-cancer illnesses,http://www.ebi.ac.uk/efo/EFO_0009801,efo,26/04/2019 00:00
+,ukbiobank_1028,quality,"Number of operations, self-reported",http://www.ebi.ac.uk/efo/EFO_0009802,efo,26/04/2019 00:00
+,ukbiobank_1029,quality,Number of treatments/medications taken,http://www.ebi.ac.uk/efo/EFO_0009803,efo,26/04/2019 00:00
+,ukbiobank_1030,quality,Townsend deprivation index at recruitment,http://www.ebi.ac.uk/efo/EFO_0009711,efo,26/04/2019 00:00
+,ukbiobank_1031,quality,Number of incorrect matches in round,http://www.ebi.ac.uk/efo/EFO_0008354,efo,26/04/2019 00:00
+,ukbiobank_1032,quality,Getting up in morning,http://www.ebi.ac.uk/efo/EFO_0009817,efo,26/04/2019 00:00
+,ukbiobank_1033,quality,Nap during day,http://www.ebi.ac.uk/efo/EFO_0009818,efo,26/04/2019 00:00
+,ukbiobank_1034,quality,Comparative body size at age 10,http://www.ebi.ac.uk/efo/EFO_0009819,efo,26/04/2019 00:00
+,ukbiobank_1035,measurement,Father's age at death,http://www.ebi.ac.uk/efo/EFO_0009712,efo,26/04/2019 00:00
+,ukbiobank_1036,measurement,Number of full brothers,http://www.ebi.ac.uk/efo/EFO_0009713,efo,26/04/2019 00:00
+,ukbiobank_1037,measurement,Number of full sisters,http://www.ebi.ac.uk/efo/EFO_0009713,efo,26/04/2019 00:00
+,ukbiobank_1038,measurement,Tense / 'highly strung',http://www.ebi.ac.uk/efo/EFO_0009596,efo,26/04/2019 00:00
+,ukbiobank_1039,measurement,Worry too long after embarrassment,http://www.ebi.ac.uk/efo/EFO_0009589,efo,26/04/2019 00:00
+,ukbiobank_1040,disease,Suffer from 'nerves',http://purl.obolibrary.org/obo/NCIT_C74532,efo,26/04/2019 00:00
+,ukbiobank_1041,quality,"Seen doctor (GP) for nerves, anxiety, tension or depression",http://www.ebi.ac.uk/efo/EFO_0009820,efo,26/04/2019 00:00
+,ukbiobank_1042,quality,"Seen a psychiatrist for nerves, anxiety, tension or depression",http://www.ebi.ac.uk/efo/EFO_0009821,efo,26/04/2019 00:00
+,ukbiobank_1043,disease,"Long-standing illness, disability or infirmity",http://www.ebi.ac.uk/efo/EFO_0009714,efo,26/04/2019 00:00
+,ukbiobank_1044,factor,Falls in the last year,http://www.ebi.ac.uk/efo/EFO_0009631,efo,26/04/2019 00:00
+,ukbiobank_1045,phenotype,Wheeze or whistling in the chest in last year,http://www.ebi.ac.uk/efo/EFO_0009715,efo,26/04/2019 00:00
+,ukbiobank_1046,measurement,Relative age of first facial hair,http://www.ebi.ac.uk/efo/EFO_0009716,efo,26/04/2019 00:00
+,ukbiobank_1047,measurement,Number of children fathered,http://www.ebi.ac.uk/efo/EFO_0009814,efo,26/04/2019 00:00
+,ukbiobank_1048,measurement,Birth weight of first child,http://www.ebi.ac.uk/efo/EFO_0004344,efo,26/04/2019 00:00
+,ukbiobank_1049,measurement,Age at first live birth,http://www.ebi.ac.uk/efo/EFO_0009101,efo,26/04/2019 00:00
+,ukbiobank_1050,measurement,Age at last live birth,http://www.ebi.ac.uk/efo/EFO_0009440,efo,26/04/2019 00:00
+,ukbiobank_1051,experimental factor,Bilateral oophorectomy (both ovaries removed),http://www.ebi.ac.uk/efo/EFO_0009717,efo,26/04/2019 00:00
+,ukbiobank_1052,measurement,Peak expiratory flow (PEF),http://www.ebi.ac.uk/efo/EFO_0009718,efo,26/04/2019 00:00
+,ukbiobank_1053,experimental factor,Pace-maker,http://www.ebi.ac.uk/efo/EFO_0009719,efo,26/04/2019 00:00
+,ukbiobank_1054,measurement,Hearing aid user,http://www.ebi.ac.uk/efo/EFO_0009720,efo,26/04/2019 00:00
+,ukbiobank_1055,measurement,Mother's age at death,http://www.ebi.ac.uk/efo/EFO_0009721,efo,26/04/2019 00:00
+,ukbiobank_1056,measurement,Number of stillbirths,http://www.ebi.ac.uk/efo/EFO_0009722,efo,26/04/2019 00:00
+,ukbiobank_1057,measurement,Age of primiparous women at birth of child,http://www.ebi.ac.uk/efo/EFO_0009101,efo,26/04/2019 00:00
+,ukbiobank_1058,measurement,Pulse wave reflection index,http://www.ebi.ac.uk/efo/EFO_0009804,efo,26/04/2019 00:00
+,ukbiobank_1059,measurement,Happiness,http://www.ebi.ac.uk/efo/EFO_0007803,efo,26/04/2019 00:00
+,ukbiobank_1060,measurement,Work/job satisfaction,http://www.ebi.ac.uk/efo/EFO_0009723,efo,26/04/2019 00:00
+,ukbiobank_1061,measurement,Health satisfaction,http://www.ebi.ac.uk/efo/EFO_0009724,efo,26/04/2019 00:00
+,ukbiobank_1062,measurement,Friendships satisfaction,http://www.ebi.ac.uk/efo/EFO_0009725,efo,26/04/2019 00:00
+,ukbiobank_1063,measurement,Financial situation satisfaction,http://www.ebi.ac.uk/efo/EFO_0009726,efo,26/04/2019 00:00
+,ukbiobank_1064,measurement,Ever depressed for a whole week,http://www.ebi.ac.uk/efo/EFO_0007704,efo,26/04/2019 00:00
+,ukbiobank_1065,measurement,Ever unenthusiastic/disinterested for a whole week,http://www.ebi.ac.uk/efo/EFO_0007006,efo,26/04/2019 00:00
+,ukbiobank_1066,measurement,Ever manic/hyper for 2 days,http://www.ebi.ac.uk/efo/EFO_0007705,efo,26/04/2019 00:00
+,ukbiobank_1067,measurement,Ever highly irritable/argumentative for 2 days,http://www.ebi.ac.uk/efo/EFO_0009594,efo,26/04/2019 00:00
+,ukbiobank_1068,phenotype,Shortness of breath walking on level ground,http://www.ebi.ac.uk/efo/EFO_0009727,efo,26/04/2019 00:00
+,ukbiobank_1069,experimental factor,Cochlear implant,http://www.ebi.ac.uk/efo/EFO_0009728,efo,26/04/2019 00:00
+,ukbiobank_1070,phenotype,Tinnitus severity/nuisance,http://purl.obolibrary.org/obo/HP_0000360,efo,26/04/2019 00:00
+,ukbiobank_1071,measurement,Number of unenthusiastic/disinterested episodes,http://www.ebi.ac.uk/efo/EFO_0007704,efo,26/04/2019 00:00
+,ukbiobank_1072,experimental factor,Surgery on leg arteries (other than for varicose veins),http://www.ebi.ac.uk/efo/EFO_0009729,efo,26/04/2019 00:00
+,ukbiobank_1073,measurement,Length of longest manic/irritable episode,http://www.ebi.ac.uk/efo/EFO_0007705,efo,26/04/2019 00:00
+,ukbiobank_1073,measurement,Length of longest manic/irritable episode,http://www.ebi.ac.uk/efo/EFO_0009594,efo,26/04/2019 00:00
+,ukbiobank_1074,measurement,Severity of manic/irritable episodes,http://www.ebi.ac.uk/efo/EFO_0007705,efo,26/04/2019 00:00
+,ukbiobank_1074,measurement,Severity of manic/irritable episodes,http://www.ebi.ac.uk/efo/EFO_0009594,efo,26/04/2019 00:00
+,ukbiobank_1075,quality,Able to walk or cycle unaided for 10 minutes,http://www.ebi.ac.uk/efo/EFO_0009822,efo,26/04/2019 00:00
+,ukbiobank_1076,quality,Target heart rate achieved,http://www.ebi.ac.uk/efo/EFO_0009823,efo,26/04/2019 00:00
+,ukbiobank_1077,measurement,Sitting height,http://www.ebi.ac.uk/efo/EFO_0007118,efo,26/04/2019 00:00
+,ukbiobank_1078,measurement,Cascot confidence score,http://www.ebi.ac.uk/efo/EFO_0009815,efo,26/04/2019 00:00
+,ukbiobank_1079,quality,Bring up phlegm/sputum/mucus on most days,http://www.ebi.ac.uk/efo/EFO_0009824,efo,26/04/2019 00:00
+,ukbiobank_1080,measurement,Whole body water mass,http://www.ebi.ac.uk/efo/EFO_0009805,efo,26/04/2019 00:00
+,ukbiobank_1081,disease,Reported occurrences of cancer,http://www.ebi.ac.uk/efo/EFO_0000311,efo,26/04/2019 00:00
+,ukbiobank_1082,factor,Procreative management,http://www.ebi.ac.uk/efo/EFO_0009787,efo,26/04/2019 00:00
+,ukbiobank_1083,phenotype,other abdominal problem,http://www.ebi.ac.uk/efo/EFO_0003766,efo,26/04/2019 00:00
+,ukbiobank_1084,phenotype,oesophageal stricture,http://purl.obolibrary.org/obo/HP_0002043,efo,26/04/2019 00:00
+,ukbiobank_1085,disease,bladder problem (not cancer),http://www.ebi.ac.uk/efo/EFO_1000018,efo,26/04/2019 00:00
+,ukbiobank_1086,disease,prostate problem (not cancer),http://www.ebi.ac.uk/efo/EFO_0009602,efo,26/04/2019 00:00
+,ukbiobank_1087,disease,testicular problems (not cancer),http://www.ebi.ac.uk/efo/EFO_0009601,efo,26/04/2019 00:00
+,ukbiobank_1088,disease,thyroid problem (not cancer),http://www.ebi.ac.uk/efo/EFO_1000627,efo,26/04/2019 00:00
+,ukbiobank_1089,experimental process,thyroid radioablation therapy,http://www.ebi.ac.uk/efo/EFO_0009600,efo,26/04/2019 00:00
+,ukbiobank_1090,disease,adrenocortical insufficiency/addison's disease,http://www.ebi.ac.uk/efo/EFO_0009491,efo,26/04/2019 00:00
+,ukbiobank_1091,disease,neurological injury/trauma,http://www.ebi.ac.uk/efo/EFO_0009490,efo,26/04/2019 00:00
+,ukbiobank_1092,disease,eye/eyelid problem,http://www.ebi.ac.uk/efo/EFO_0003966,efo,26/04/2019 00:00
+,ukbiobank_1093,disease,cranial nerve problem/palsy,http://www.ebi.ac.uk/efo/EFO_0009489,efo,26/04/2019 00:00
+,ukbiobank_1094,disease,spinal cord disorder,http://www.ebi.ac.uk/efo/EFO_0009488,efo,26/04/2019 00:00
+,ukbiobank_1095,disease,peripheral nerve disorder,http://www.ebi.ac.uk/efo/EFO_0009387,efo,26/04/2019 00:00
+,ukbiobank_1096,disease,trapped nerve/compressed nerve,http://www.ebi.ac.uk/efo/EFO_0009487,efo,26/04/2019 00:00
+,ukbiobank_1097,disease,diabetic eye disease,http://www.ebi.ac.uk/efo/EFO_0009486,efo,26/04/2019 00:00
+,ukbiobank_1098,disease,eye trauma,http://www.ebi.ac.uk/efo/EFO_0009485,efo,26/04/2019 00:00
+,ukbiobank_1099,disease,nervous breakdown,http://www.ebi.ac.uk/efo/EFO_0000677,efo,26/04/2019 00:00
+,ukbiobank_1100,phenotype,back problem,http://purl.obolibrary.org/obo/HP_0003418,efo,26/04/2019 00:00
+,ukbiobank_1101,disease,uterine polyps,http://www.ebi.ac.uk/efo/EFO_0009484,efo,26/04/2019 00:00
+,ukbiobank_1102,disease,breast disease (not cancer),http://www.ebi.ac.uk/efo/EFO_0009483,efo,26/04/2019 00:00
+,ukbiobank_1103,disease,allergy or anaphylactic reaction to drug,http://www.ebi.ac.uk/efo/EFO_0009482,efo,26/04/2019 00:00
+,ukbiobank_1104,disease,enlarged prostate,http://www.ebi.ac.uk/efo/EFO_0000284,efo,26/04/2019 00:00
+,ukbiobank_1105,disease,muscle or soft tissue injuries,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_1106,disease,burns,http://www.ebi.ac.uk/efo/EFO_0009516,efo,26/04/2019 00:00
+,ukbiobank_1107,disease,nasal/sinus disorder,http://www.ebi.ac.uk/efo/EFO_0009481,efo,26/04/2019 00:00
+,ukbiobank_1108,disease,throat or larynx disorder,http://www.ebi.ac.uk/efo/EFO_0009479,efo,26/04/2019 00:00
+,ukbiobank_1109,disease,vocal cord polyp,http://www.ebi.ac.uk/efo/EFO_0009478,efo,26/04/2019 00:00
+,ukbiobank_1110,disease,other neurological problem,http://www.ebi.ac.uk/efo/EFO_0000618,efo,26/04/2019 00:00
+,ukbiobank_1111,disease,clotting disorder/excessive bleeding,http://www.ebi.ac.uk/efo/EFO_0009314,efo,26/04/2019 00:00
+,ukbiobank_1112,disease,hereditary/genetic haematological disorder,http://www.ebi.ac.uk/efo/EFO_0005803,efo,26/04/2019 00:00
+,ukbiobank_1113,disease,blistering/desquamating skin disorder,http://www.ebi.ac.uk/efo/EFO_1000673,efo,26/04/2019 00:00
+,ukbiobank_1114,disease,disc problem,http://www.ebi.ac.uk/efo/EFO_0009477,efo,26/04/2019 00:00
+,ukbiobank_1115,disease,neck problem/injury,http://www.ebi.ac.uk/efo/EFO_0009476,efo,26/04/2019 00:00
+,ukbiobank_1116,disease,cervical polyps,http://www.ebi.ac.uk/efo/EFO_0009475,efo,26/04/2019 00:00
+,ukbiobank_1117,disease,soft tissue inflammation,http://www.ebi.ac.uk/efo/EFO_0009470,efo,26/04/2019 00:00
+,ukbiobank_1118,factor,abnormal smear (cervix),http://www.ebi.ac.uk/efo/EFO_0009511,efo,26/04/2019 00:00
+,ukbiobank_1119,disease,benign breast lump,http://www.ebi.ac.uk/efo/EFO_0003014,efo,26/04/2019 00:00
+,ukbiobank_1120,factor,Problems related to social environment,http://www.ebi.ac.uk/efo/EFO_0009788,efo,26/04/2019 00:00
+,ukbiobank_1121,factor,Problems related to life management difficulty,http://www.ebi.ac.uk/efo/EFO_0009786,efo,26/04/2019 00:00
+,ukbiobank_1122,phenotype,Volume depletion,http://purl.obolibrary.org/obo/HP_0011106,efo,26/04/2019 00:00
+,ukbiobank_1123,disease,Spondylopathies in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0004260,efo,26/04/2019 00:00
+,ukbiobank_1124,disease,Shoulder lesions,http://www.ebi.ac.uk/efo/EFO_0009470,efo,26/04/2019 00:00
+,ukbiobank_1125,disease,Maternal care for known or suspected malpresentation of fetus,http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1126,disease,Maternal care for known or suspected disproportion,http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1127,disease,Maternal care for known or suspected abnormality of pelvic organs,http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1128,disease,Long labour,http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1129,disease,Perineal laceration during delivery,http://www.ebi.ac.uk/efo/EFO_0009816,efo,26/04/2019 00:00
+,ukbiobank_1130,disease,Other obstetric trauma,http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1131,disease,Complications of anaesthesia during the puerperium,http://www.ebi.ac.uk/efo/EFO_0009683,efo,26/04/2019 00:00
+,ukbiobank_1132,phenotype,Intrauterine hypoxia,http://www.ebi.ac.uk/efo/EFO_1001793,efo,26/04/2019 00:00
+,ukbiobank_1133,phenotype,Abnormal serum enzyme levels,http://www.ebi.ac.uk/efo/EFO_0009826,efo,26/04/2019 00:00
+,ukbiobank_1138,disease,Other fluke infections,http://www.ebi.ac.uk/efo/EFO_1001342,efo,26/04/2019 00:00
+,ukbiobank_1139,factor,Other postsurgical states,http://www.ebi.ac.uk/efo/EFO_0009789,efo,26/04/2019 00:00
+,ukbiobank_1140,disease,Acquired haemolytic anaemia,http://www.ebi.ac.uk/efo/EFO_0005558,efo,26/04/2019 00:00
+,ukbiobank_1141,factor,Artificial opening status,http://www.ebi.ac.uk/efo/EFO_0009789,efo,26/04/2019 00:00
+,ukbiobank_1142,factor,Persons encountering health services in other circumstances,http://www.ebi.ac.uk/efo/EFO_0009786,efo,26/04/2019 00:00
+,ukbiobank_1143,factor,"Persons encountering health services for other counselling and medical advice, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009786,efo,26/04/2019 00:00
+,ukbiobank_1144,disease,Hereditary ataxia,http://www.ebi.ac.uk/efo/EFO_0009671,efo,26/04/2019 00:00
+,ukbiobank_1145,disease,Mycetoma,http://www.ebi.ac.uk/efo/EFO_0007265,efo,26/04/2019 00:00
+,ukbiobank_1146,disease,Viral warts,http://www.ebi.ac.uk/efo/EFO_0009662,efo,26/04/2019 00:00
+,ukbiobank_1147,experimental process,Acquired absence of limb,http://www.ebi.ac.uk/efo/EFO_0009632,efo,26/04/2019 00:00
+,ukbiobank_1148,factor,Convalescence,http://www.ebi.ac.uk/efo/EFO_0009630,efo,26/04/2019 00:00
+,ukbiobank_1149,disease,Pemphigoid,http://www.ebi.ac.uk/efo/EFO_1000673,efo,26/04/2019 00:00
+,ukbiobank_1150,disease,Eccrine sweat disorders,http://www.ebi.ac.uk/efo/EFO_1000772,efo,26/04/2019 00:00
+,ukbiobank_1151,experimental process,Traumatic amputations involving multiple body regions,http://www.ebi.ac.uk/efo/EFO_0009632,efo,26/04/2019 00:00
+,ukbiobank_1152,factor,Need for immunization against certain single viral diseases,http://www.ebi.ac.uk/efo/EFO_0004292,efo,26/04/2019 00:00
+,ukbiobank_1153,factor,Need for immunization against other single viral diseases,http://www.ebi.ac.uk/efo/EFO_0004292,efo,26/04/2019 00:00
+,ukbiobank_1154,factor,Need for immunization against other single infectious diseases,http://www.ebi.ac.uk/efo/EFO_0004292,efo,26/04/2019 00:00
+,ukbiobank_1155,factor,Need for immunization against combinations of infectious diseases,http://www.ebi.ac.uk/efo/EFO_0004292,efo,26/04/2019 00:00
+,ukbiobank_1156,measurement,Transplanted organ and tissue status,http://www.ebi.ac.uk/efo/EFO_0005198,efo,26/04/2019 00:00
+,ukbiobank_1157,factor,"Persons encountering health services for specifie procedures, not carried out",http://www.ebi.ac.uk/efo/EFO_0009786,efo,26/04/2019 00:00
+,ukbiobank_1158,phenotype,Haemorrhage from respiratory passages,http://purl.obolibrary.org/obo/MP_0001914,efo,26/04/2019 00:00
+,ukbiobank_1159,disease,Renal tubulo interstitial disorders in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_0009566,efo,26/04/2019 00:00
+,ukbiobank_1160,disease,Occlusion and stenosis of cerebral arteries notcerebral infarction,http://www.ebi.ac.uk/efo/EFO_0003763,efo,26/04/2019 00:00
+,ukbiobank_1161,disease,Orchitis and epididymitis,http://www.ebi.ac.uk/efo/EFO_1001078,efo,26/04/2019 00:00
+,ukbiobank_1162,disease,Other disorders of nervous system,http://www.ebi.ac.uk/efo/EFO_0000618,efo,26/04/2019 00:00
+,ukbiobank_1163,disease,Rheumatic fever with heart involvement,http://www.ebi.ac.uk/efo/EFO_1001161,efo,26/04/2019 00:00
+,ukbiobank_1164,disease,Rapidly progressive nephritic syndrome,http://www.ebi.ac.uk/efo/EFO_0003086,efo,26/04/2019 00:00
+,ukbiobank_1165,phenotype,Dizziness and giddiness,http://purl.obolibrary.org/obo/HP_0002321,efo,26/04/2019 00:00
+,ukbiobank_1166,disease,Chlamydia psittaci infection,http://www.ebi.ac.uk/efo/EFO_1001288,efo,26/04/2019 00:00
+,ukbiobank_1167,disease,Glomerular disorders in diseases classified elsewhere,http://www.ebi.ac.uk/efo/EFO_1002049,efo,26/04/2019 00:00
+,ukbiobank_1168,disease,Hypertensive renal disease,http://www.ebi.ac.uk/efo/EFO_1002039,efo,26/04/2019 00:00
+,ukbiobank_1169,disease,Congenital ichthyosis,http://www.orpha.net/ORDO/Orphanet_281097,efo,26/04/2019 00:00
+,ukbiobank_1170,disease,Fracture of skull and facial bones,http://www.ebi.ac.uk/efo/EFO_1001425,efo,26/04/2019 00:00
+,ukbiobank_1171,phenotype,Headache,http://purl.obolibrary.org/obo/HP_0002315,efo,26/04/2019 00:00
+,ukbiobank_1172,phenotype,Fever of unknown origin,http://www.ebi.ac.uk/efo/EFO_0003952,efo,26/04/2019 00:00
+,ukbiobank_1173,phenotype,Dysphagia,http://purl.obolibrary.org/obo/HP_0002015,efo,26/04/2019 00:00
+,ukbiobank_1174,disease,Heartburn,http://www.ebi.ac.uk/efo/EFO_0008533,efo,26/04/2019 00:00
+,ukbiobank_1175,phenotype,Cough,http://purl.obolibrary.org/obo/HP_0012735,efo,26/04/2019 00:00
+,ukbiobank_1176,disease,Urethritis and urethral syndrome,http://www.ebi.ac.uk/efo/EFO_0003878,efo,26/04/2019 00:00
+,ukbiobank_1177,disease,Other arthritis,http://www.ebi.ac.uk/efo/EFO_0005856,efo,26/04/2019 00:00
+,ukbiobank_1178,disease,Systemic lupus erythematosus,http://www.ebi.ac.uk/efo/EFO_0002690,efo,26/04/2019 00:00
+,ukbiobank_1179,disease,Systemic sclerosis,http://www.ebi.ac.uk/efo/EFO_0000717,efo,26/04/2019 00:00
+,ukbiobank_1180,disease,Psoriasis,http://www.ebi.ac.uk/efo/EFO_0000676,efo,26/04/2019 00:00
+,ukbiobank_1181,disease,Follicular cysts of skin and subcutaneous tissue,http://www.ebi.ac.uk/efo/EFO_1001329,efo,26/04/2019 00:00
+,ukbiobank_1182,disease,Other disorders of pigmentation,http://www.ebi.ac.uk/efo/EFO_1000755,efo,26/04/2019 00:00
+,ukbiobank_1183,phenotype,"Ulcer of lower limb, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0007068,efo,26/04/2019 00:00
+,ukbiobank_1184,disease,Dyspepsia,http://www.ebi.ac.uk/efo/EFO_0008533,efo,26/04/2019 00:00
+,ukbiobank_1185,phenotype,Inguinal hernia,http://purl.obolibrary.org/obo/HP_0000023,efo,26/04/2019 00:00
+,ukbiobank_1186,disease,Acute sinusitis,http://www.ebi.ac.uk/efo/EFO_0007486,efo,26/04/2019 00:00
+,ukbiobank_1187,disease,Pneumonia due to Streptococcus pneumoniae,http://www.ebi.ac.uk/efo/EFO_0000772,efo,26/04/2019 00:00
+,ukbiobank_1188,disease,"Bacterial pneumonia, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_1001272,efo,26/04/2019 00:00
+,ukbiobank_1189,disease,"Pneumonia, organism unspecified",http://www.ebi.ac.uk/efo/EFO_0003106,efo,26/04/2019 00:00
+,ukbiobank_1190,disease,Nasal polyp,http://www.ebi.ac.uk/efo/EFO_1000391,efo,26/04/2019 00:00
+,ukbiobank_1191,disease,Peritonsillar abscess,http://www.ebi.ac.uk/efo/EFO_0007429,efo,26/04/2019 00:00
+,ukbiobank_1192,disease,Emphysema,http://www.ebi.ac.uk/efo/EFO_0000464,efo,26/04/2019 00:00
+,ukbiobank_1193,disease,Other chronic obstructive pulmonary disease,http://www.ebi.ac.uk/efo/EFO_0000341,efo,26/04/2019 00:00
+,ukbiobank_1194,disease,Asthma,http://www.ebi.ac.uk/efo/EFO_0000270,efo,26/04/2019 00:00
+,ukbiobank_1195,phenotype,Bronchiectasis,http://purl.obolibrary.org/obo/HP_0002110,efo,26/04/2019 00:00
+,ukbiobank_1196,disease,Other interstitial pulmonary diseases,http://www.ebi.ac.uk/efo/EFO_0004244,efo,26/04/2019 00:00
+,ukbiobank_1197,disease,Other respiratory disorders,http://www.ebi.ac.uk/efo/EFO_0000684,efo,26/04/2019 00:00
+,ukbiobank_1198,disease,Aortic aneurysm and dissection,http://www.ebi.ac.uk/efo/EFO_0001666,efo,26/04/2019 00:00
+,ukbiobank_1199,disease,Hordeolum and chalazion,http://www.ebi.ac.uk/efo/EFO_0007315,efo,26/04/2019 00:00
+,ukbiobank_1200,disease,Myasthenia gravis and other myoneural disorders,http://www.ebi.ac.uk/efo/EFO_0004991,efo,26/04/2019 00:00
+,ukbiobank_1201,phenotype,Manic episode,http://www.ebi.ac.uk/efo/EFO_0007706,efo,26/04/2019 00:00
+,ukbiobank_1202,disease,Bipolar affective disorder,http://www.ebi.ac.uk/efo/EFO_0000289,efo,26/04/2019 00:00
+,ukbiobank_1203,phenotype,"Sexual dysfunction, not caused by organic disorder or disease",http://www.ebi.ac.uk/efo/EFO_0004714,efo,26/04/2019 00:00
+,ukbiobank_1204,disease,Other hypothyroidism,http://www.ebi.ac.uk/efo/EFO_0004705,efo,26/04/2019 00:00
+,ukbiobank_1205,factor,Melanoma in situ,http://www.ebi.ac.uk/efo/EFO_0004957,efo,26/04/2019 00:00
+,ukbiobank_1206,disease,"Haemangioma and lymphangioma, any site",http://www.ebi.ac.uk/efo/EFO_1000635,efo,26/04/2019 00:00
+,ukbiobank_1207,disease,Leiomyoma of uterus,http://www.ebi.ac.uk/efo/EFO_0000731,efo,26/04/2019 00:00
+,ukbiobank_1208,disease,Benign neoplasm of ovary,http://www.ebi.ac.uk/efo/EFO_1000116,efo,26/04/2019 00:00
+,ukbiobank_1209,disease,Benign neoplasm of other and unspecified female genital organs,http://www.ebi.ac.uk/efo/EFO_1001331,efo,26/04/2019 00:00
+,ukbiobank_1210,disease,Benign neoplasm of brain and other parts of central nervous system,http://www.ebi.ac.uk/efo/EFO_1000107,efo,26/04/2019 00:00
+,ukbiobank_1211,disease,Benign neoplasm of thyroid gland,http://www.ebi.ac.uk/efo/EFO_1000122,efo,26/04/2019 00:00
+,ukbiobank_1212,disease,Polycythaemia vera,http://www.ebi.ac.uk/efo/EFO_0002429,efo,26/04/2019 00:00
+,ukbiobank_1213,disease,Myelodysplastic syndromes,http://www.ebi.ac.uk/efo/EFO_0000198,efo,26/04/2019 00:00
+,ukbiobank_1214,phenotype,Purpura and other haemorrhagic conditions,http://purl.obolibrary.org/obo/HP_0000979,efo,26/04/2019 00:00
+,ukbiobank_1215,disease,Malignant neoplasm of colon,http://www.ebi.ac.uk/efo/EFO_1001950,efo,26/04/2019 00:00
+,ukbiobank_1216,disease,Malignant neoplasm of larynx,http://www.ebi.ac.uk/efo/EFO_1000354,efo,26/04/2019 00:00
+,ukbiobank_1217,disease,Mesothelioma,http://www.ebi.ac.uk/efo/EFO_0000588,efo,26/04/2019 00:00
+,ukbiobank_1218,disease,Secondary and unspecified malignant neoplasm of lymph nodes,http://www.ebi.ac.uk/efo/EFO_0004906,efo,26/04/2019 00:00
+,ukbiobank_1219,disease,Hodgkin's disease,http://www.ebi.ac.uk/efo/EFO_0000183,efo,26/04/2019 00:00
+,ukbiobank_1220,disease,Follicular [nodular] non-Hodgkin's lymphoma,http://www.ebi.ac.uk/efo/EFO_1000211,efo,26/04/2019 00:00
+,ukbiobank_1221,disease,Multiple myeloma and malignant plasma cell neoplasms,http://www.ebi.ac.uk/efo/EFO_0001378,efo,26/04/2019 00:00
+,ukbiobank_1222,disease,Lymphoid leukaemia,http://www.ebi.ac.uk/efo/EFO_0004289,efo,26/04/2019 00:00
+,ukbiobank_1223,disease,Myeloid leukaemia,http://www.ebi.ac.uk/efo/EFO_0000222,efo,26/04/2019 00:00
+,ukbiobank_1224,disease,Fracture of shoulder and upper arm,http://www.ebi.ac.uk/efo/EFO_0003931,efo,26/04/2019 00:00
+,ukbiobank_1225,measurement,Elevated blood glucose level,http://www.ebi.ac.uk/efo/EFO_0004468,efo,26/04/2019 00:00
+,ukbiobank_1226,disease,Other necrotising vasculopathies,http://www.ebi.ac.uk/efo/EFO_0006803,efo,26/04/2019 00:00
+,ukbiobank_1227,disease,Other local infections of skin and subcutaneous tissue,http://www.ebi.ac.uk/efo/EFO_0000701,efo,26/04/2019 00:00
+,ukbiobank_1228,disease,Retinal vascular occlusions,http://www.ebi.ac.uk/efo/EFO_1001157,efo,26/04/2019 00:00
+,ukbiobank_1229,measurement,"Reaction to severe stress, and adjustment disorders",http://www.ebi.ac.uk/efo/EFO_0006783,efo,26/04/2019 00:00
+,ukbiobank_1230,disease,"Benign neoplasm of colon, rectum, anus and anal canal",http://www.ebi.ac.uk/efo/EFO_0003835,efo,26/04/2019 00:00
+,ukbiobank_1231,disease,Benign neoplasm of breast,http://www.ebi.ac.uk/efo/EFO_0003869,efo,26/04/2019 00:00
+,ukbiobank_1232,disease,Malignant neoplasm of rectosigmoid junction,http://www.ebi.ac.uk/efo/EFO_1000657,efo,26/04/2019 00:00
+,ukbiobank_1233,disease,Malignant neoplasm of breast,http://www.ebi.ac.uk/efo/EFO_0003869,efo,26/04/2019 00:00
+,ukbiobank_1234,disease,Malignant neoplasm of prostate,http://www.ebi.ac.uk/efo/EFO_0001663,efo,26/04/2019 00:00
+,ukbiobank_1235,disease,Malignant neoplasm of testis,http://www.ebi.ac.uk/efo/EFO_0005088,efo,26/04/2019 00:00
+,ukbiobank_1236,disease,Malignant neoplasm of brain,http://www.ebi.ac.uk/efo/EFO_0003833,efo,26/04/2019 00:00
+,ukbiobank_1237,measurement,Failure and rejection of transplanted organs and tissues,http://www.ebi.ac.uk/efo/EFO_0005198,efo,26/04/2019 00:00
+,ukbiobank_1238,disease,"Poisoning by diuretics and other and unspecified drugs, medicaments and biological substances",http://www.ebi.ac.uk/efo/EFO_0008546,efo,26/04/2019 00:00
+,ukbiobank_1239,disease,"Poisoning by psychotropic drugs, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0008546,efo,26/04/2019 00:00
+,ukbiobank_1240,disease,"Poisoning by antiepileptic, sedative-hypnotic and anti-Parkinsonism drugs",http://www.ebi.ac.uk/efo/EFO_0008546,efo,26/04/2019 00:00
+,ukbiobank_1241,disease,Poisoning by narcotics and psychodysleptics [hallucinogens],http://www.ebi.ac.uk/efo/EFO_0008546,efo,26/04/2019 00:00
+,ukbiobank_1242,disease,"Poisoning by nonopioid analgesics, antipyretics and antirheumatics",http://www.ebi.ac.uk/efo/EFO_0008546,efo,26/04/2019 00:00
+,ukbiobank_1243,disease,"Dislocation, sprain and strain of joints and ligaments at ankle and foot level",http://www.ebi.ac.uk/efo/EFO_1002021,efo,26/04/2019 00:00
+,ukbiobank_1244,disease,"Fracture of foot, except ankle",http://www.ebi.ac.uk/efo/EFO_0003931,efo,26/04/2019 00:00
+,ukbiobank_1245,disease,Fracture of forearm,http://www.ebi.ac.uk/efo/EFO_0003931,efo,26/04/2019 00:00
+,ukbiobank_1246,phenotype,Abdominal and pelvic pain,http://www.ebi.ac.uk/efo/EFO_0003766,efo,26/04/2019 00:00
+,ukbiobank_1247,disease,Medical abortion,http://www.ebi.ac.uk/efo/EFO_1001491,efo,26/04/2019 00:00
+,ukbiobank_1248,disease,Other disorders of bladder,http://www.ebi.ac.uk/efo/EFO_1000018,efo,26/04/2019 00:00
+,ukbiobank_1249,disease,Hydrocele and spermatocele,http://www.ebi.ac.uk/efo/EFO_1001859,efo,26/04/2019 00:00
+,ukbiobank_1249,disease,Hydrocele and spermatocele,http://www.ebi.ac.uk/efo/EFO_1001189,efo,26/04/2019 00:00
+,ukbiobank_1250,disease,"Redundant prepuce, phimosis and paraphimosis",http://www.ebi.ac.uk/efo/EFO_1001104,efo,26/04/2019 00:00
+,ukbiobank_1251,disease,Salpingitis and oophoritis,http://www.ebi.ac.uk/efo/EFO_1001388,efo,26/04/2019 00:00
+,ukbiobank_1252,phenotype,Other inflammation of vagina and vulva,http://www.ebi.ac.uk/efo/EFO_0005757,efo,26/04/2019 00:00
+,ukbiobank_1253,disease,Other rheumatoid arthritis,http://www.ebi.ac.uk/efo/EFO_0000685,efo,26/04/2019 00:00
+,ukbiobank_1254,disease,"Other joint disorders, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_1000999,efo,26/04/2019 00:00
+,ukbiobank_1255,disease,Osteoporosis without pathological fracture,http://www.ebi.ac.uk/efo/EFO_0003882,efo,26/04/2019 00:00
+,ukbiobank_1256,disease,Lichen simplex chronicus and prurigo,http://www.ebi.ac.uk/efo/EFO_1000724,efo,26/04/2019 00:00
+,ukbiobank_1257,disease,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0000701,efo,26/04/2019 00:00
+,ukbiobank_1258,disease,Acute appendicitis,http://www.ebi.ac.uk/efo/EFO_0007149,efo,26/04/2019 00:00
+,ukbiobank_1259,disease,Chronic sinusitis,http://www.ebi.ac.uk/efo/EFO_0007486,efo,26/04/2019 00:00
+,ukbiobank_1260,phenotype,Pneumothorax,http://purl.obolibrary.org/obo/HP_0002108,efo,26/04/2019 00:00
+,ukbiobank_1261,disease,Acute pericarditis,http://www.ebi.ac.uk/efo/EFO_0007427,efo,26/04/2019 00:00
+,ukbiobank_1262,disease,Other nontraumatic intracranial haemorrhage,http://www.ebi.ac.uk/efo/EFO_0000551,efo,26/04/2019 00:00
+,ukbiobank_1263,disease,Cerebral infarction,http://www.ebi.ac.uk/efo/EFO_0004277,efo,26/04/2019 00:00
+,ukbiobank_1264,disease,Other aneurysm,http://www.ebi.ac.uk/efo/EFO_0009659,efo,26/04/2019 00:00
+,ukbiobank_1265,disease,Other hearing loss,http://www.ebi.ac.uk/efo/EFO_0004238,efo,26/04/2019 00:00
+,ukbiobank_1266,disease,Transient cerebral ischaemic attacks and related syndromes,http://www.ebi.ac.uk/efo/EFO_0003764,efo,26/04/2019 00:00
+,ukbiobank_1267,disease,Acute and transient psychotic disorders,http://www.ebi.ac.uk/efo/EFO_0005940,efo,26/04/2019 00:00
+,ukbiobank_1268,disease,Other anxiety disorders,http://www.ebi.ac.uk/efo/EFO_0006788,efo,26/04/2019 00:00
+,ukbiobank_1269,disease,"Mental disorder, not otherwise specified",http://www.ebi.ac.uk/efo/EFO_0000677,efo,26/04/2019 00:00
+,ukbiobank_1270,disease,Other disorders of thyroid,http://www.ebi.ac.uk/efo/EFO_1000627,efo,26/04/2019 00:00
+,ukbiobank_1271,disease,Hyperparathyroidism and other disorders of parathyroid gland,http://www.ebi.ac.uk/efo/EFO_0008506,efo,26/04/2019 00:00
+,ukbiobank_1272,disease,Carcinoma in situ of skin,http://www.ebi.ac.uk/efo/EFO_0004198,efo,26/04/2019 00:00
+,ukbiobank_1273,disease,Carcinoma in situ of breast,http://www.ebi.ac.uk/efo/EFO_0000305,efo,26/04/2019 00:00
+,ukbiobank_1274,disease,Carcinoma in situ of cervix uteri,http://www.ebi.ac.uk/efo/EFO_0001061,efo,26/04/2019 00:00
+,ukbiobank_1275,disease,Benign neoplasm of mouth and pharynx,http://www.ebi.ac.uk/efo/EFO_0003868,efo,26/04/2019 00:00
+,ukbiobank_1276,disease,Benign neoplasm of major salivary glands,http://www.ebi.ac.uk/efo/EFO_0003826,efo,26/04/2019 00:00
+,ukbiobank_1277,disease,Other benign neoplasms of uterus,http://www.ebi.ac.uk/efo/EFO_0003859,efo,26/04/2019 00:00
+,ukbiobank_1278,disease,Neoplasm of uncertain or unknown behaviour of female genital organs,http://www.ebi.ac.uk/efo/EFO_1001331,efo,26/04/2019 00:00
+,ukbiobank_1279,disease,Neoplasm of uncertain or unknown behaviour of endocrine glands,http://www.ebi.ac.uk/efo/EFO_0003769,efo,26/04/2019 00:00
+,ukbiobank_1280,disease,Malignant neoplasm of other and unspecified parts of tongue,http://www.ebi.ac.uk/efo/EFO_0003871,efo,26/04/2019 00:00
+,ukbiobank_1281,disease,Malignant neoplasm of tonsil,http://www.ebi.ac.uk/efo/EFO_1001214,efo,26/04/2019 00:00
+,ukbiobank_1282,disease,Malignant neoplasm of oesophagus,http://www.ebi.ac.uk/efo/EFO_0002916,efo,26/04/2019 00:00
+,ukbiobank_1283,disease,Malignant neoplasm of stomach,http://www.ebi.ac.uk/efo/EFO_0003897,efo,26/04/2019 00:00
+,ukbiobank_1284,disease,Malignant neoplasm of rectum,http://www.ebi.ac.uk/efo/EFO_1000657,efo,26/04/2019 00:00
+,ukbiobank_1285,disease,Malignant neoplasm of anus and anal canal,http://www.ebi.ac.uk/efo/EFO_0003835,efo,26/04/2019 00:00
+,ukbiobank_1286,disease,Malignant neoplasm of liver and intrahepatic bile ducts,http://www.ebi.ac.uk/efo/EFO_1001513,efo,26/04/2019 00:00
+,ukbiobank_1287,disease,Malignant neoplasm of pancreas,http://www.ebi.ac.uk/efo/EFO_0002618,efo,26/04/2019 00:00
+,ukbiobank_1288,disease,Malignant neoplasm of bronchus and lung,http://www.ebi.ac.uk/efo/EFO_0001071,efo,26/04/2019 00:00
+,ukbiobank_1289,disease,Malignant melanoma of skin,http://www.ebi.ac.uk/efo/EFO_0000389,efo,26/04/2019 00:00
+,ukbiobank_1290,disease,Malignant neoplasm of cervix uteri,http://www.ebi.ac.uk/efo/EFO_0001061,efo,26/04/2019 00:00
+,ukbiobank_1291,disease,Malignant neoplasm of corpus uteri,http://www.ebi.ac.uk/efo/EFO_0007532,efo,26/04/2019 00:00
+,ukbiobank_1292,disease,Malignant neoplasm of ovary,http://www.ebi.ac.uk/efo/EFO_0003893,efo,26/04/2019 00:00
+,ukbiobank_1293,disease,"Malignant neoplasm of kidney, except renal pelvis",http://www.ebi.ac.uk/efo/EFO_0003865,efo,26/04/2019 00:00
+,ukbiobank_1294,disease,Malignant neoplasm of bladder,http://www.ebi.ac.uk/efo/EFO_0000292,efo,26/04/2019 00:00
+,ukbiobank_1295,disease,Malignant neoplasm of eye and adnexa,http://www.ebi.ac.uk/efo/EFO_0003824,efo,26/04/2019 00:00
+,ukbiobank_1296,disease,Malignant neoplasm of thyroid gland,http://www.ebi.ac.uk/efo/EFO_0002892,efo,26/04/2019 00:00
+,ukbiobank_1297,disease,Diffuse non-Hodgkin's lymphoma,http://www.ebi.ac.uk/efo/EFO_0005952,efo,26/04/2019 00:00
+,ukbiobank_1298,disease,Chronic viral hepatitis,http://www.ebi.ac.uk/efo/EFO_0007540,efo,26/04/2019 00:00
+,ukbiobank_1299,disease,Diarrhoea and gastro-enteritis of presumed infectious origin,http://www.ebi.ac.uk/efo/EFO_1001463,efo,26/04/2019 00:00
+,ukbiobank_1300,phenotype,Other septicaemia,http://purl.obolibrary.org/obo/HP_0100806,efo,26/04/2019 00:00
+,ukbiobank_1301,factor,Personal history of other diseases and conditions,http://www.ebi.ac.uk/efo/EFO_0000352,efo,26/04/2019 00:00
+,ukbiobank_1302,factor,Family history of malignant neoplasm,http://www.ebi.ac.uk/efo/EFO_0009640,efo,26/04/2019 00:00
+,ukbiobank_1303,factor,Other medical care,http://www.ebi.ac.uk/efo/EFO_0009786,efo,26/04/2019 00:00
+,ukbiobank_1304,factor,Fitting and adjustment of other devices,http://www.ebi.ac.uk/efo/EFO_0009786,efo,26/04/2019 00:00
+,ukbiobank_1305,factor,Adjustment and management of implanted device,http://www.ebi.ac.uk/efo/EFO_0009786,efo,26/04/2019 00:00
+,ukbiobank_1306,factor,Donors of organs and tissues,http://www.ebi.ac.uk/efo/EFO_0009634,efo,26/04/2019 00:00
+,ukbiobank_1306,factor,Donors of organs and tissues,http://www.ebi.ac.uk/efo/EFO_0009633,efo,26/04/2019 00:00
+,ukbiobank_1307,factor,Fitting and adjustment of external prosthetic device,http://www.ebi.ac.uk/efo/EFO_0009786,efo,26/04/2019 00:00
+,ukbiobank_1308,experimental process,Other surgical follow-up care,http://www.ebi.ac.uk/efo/EFO_0009642,efo,26/04/2019 00:00
+,ukbiobank_1309,factor,Attention to artificial openings,http://www.ebi.ac.uk/efo/EFO_0009786,efo,26/04/2019 00:00
+,ukbiobank_1310,factor,Postpartum care and examination,http://www.ebi.ac.uk/efo/EFO_0009787,efo,26/04/2019 00:00
+,ukbiobank_1311,factor,Antenatal screening,http://www.ebi.ac.uk/efo/EFO_0009787,efo,26/04/2019 00:00
+,ukbiobank_1313,experimental process,Follow-up care involving plastic surgery,http://www.ebi.ac.uk/efo/EFO_0009642,efo,26/04/2019 00:00
+,ukbiobank_1314,experimental process,Procedures for purposes other than remedying health state,http://www.ebi.ac.uk/efo/EFO_0002571,efo,26/04/2019 00:00
+,ukbiobank_1315,experimental process,Abnormal findings on diagnostic imaging of other body structures,http://www.ebi.ac.uk/efo/EFO_0009827,efo,26/04/2019 00:00
+,ukbiobank_1316,phenotype,Symptoms and signs concerning food and fluid intake,http://www.ebi.ac.uk/efo/EFO_0009825,efo,26/04/2019 00:00
+,ukbiobank_1317,experimental process,Pregnancy examination and test,http://www.ebi.ac.uk/efo/EFO_0009643,efo,26/04/2019 00:00
+,ukbiobank_1318,experimental process,Special screening examination for other diseases and disorders,http://www.ebi.ac.uk/efo/EFO_0009517,efo,26/04/2019 00:00
+,ukbiobank_1319,experimental process,Special screening examination for neoplasms,http://www.ebi.ac.uk/efo/EFO_0009517,efo,26/04/2019 00:00
+,ukbiobank_1320,experimental process,Special screening examination for infectious and parasitic diseases,http://www.ebi.ac.uk/efo/EFO_0009517,efo,26/04/2019 00:00
+,ukbiobank_1321,experimental process,Follow-up examination after treatment for conditions other than malignant neoplasms,http://www.ebi.ac.uk/efo/EFO_0009642,efo,26/04/2019 00:00
+,ukbiobank_1322,experimental process,Follow-up examination after treatment for malignant neoplasm,http://www.ebi.ac.uk/efo/EFO_0009642,efo,26/04/2019 00:00
+,ukbiobank_1323,experimental process,Examination and observation for other reasons,http://www.ebi.ac.uk/efo/EFO_0009517,efo,26/04/2019 00:00
+,ukbiobank_1324,experimental process,Medical observation and evaluation for suspected diseases and conditions,http://www.ebi.ac.uk/efo/EFO_0009517,efo,26/04/2019 00:00
+,ukbiobank_1325,experimental process,Other special examinations and investigations of persons without complaint or reported diagnosis,http://www.ebi.ac.uk/efo/EFO_0009517,efo,26/04/2019 00:00
+,ukbiobank_1326,experimental process,General examination and investigation of persons without complaint or reported diagnosis,http://www.ebi.ac.uk/efo/EFO_0009517,efo,26/04/2019 00:00
+,ukbiobank_1327,disease,"Other complications of surgical and medical care, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009518,efo,26/04/2019 00:00
+,ukbiobank_1328,disease,Complications peculiar to reattachment and amputation,http://www.ebi.ac.uk/efo/EFO_0009518,efo,26/04/2019 00:00
+,ukbiobank_1329,disease,"Complications of procedures, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009518,efo,26/04/2019 00:00
+,ukbiobank_1330,disease,"Certain early complications of trauma, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009518,efo,26/04/2019 00:00
+,ukbiobank_1331,disease,"Adverse effects, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009658,efo,26/04/2019 00:00
+,ukbiobank_1332,factor,Foreign body in respiratory tract,http://www.ebi.ac.uk/efo/EFO_0009525,efo,26/04/2019 00:00
+,ukbiobank_1333,disease,Injury of unspecified body region,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_1334,disease,Open wound of ankle and foot,http://www.ebi.ac.uk/efo/EFO_1002021,efo,26/04/2019 00:00
+,ukbiobank_1334,disease,Open wound of ankle and foot,http://www.ebi.ac.uk/efo/EFO_0005756,efo,26/04/2019 00:00
+,ukbiobank_1335,disease,Other and unspecified injuries of lower leg,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_1336,disease,Injury of muscle and tendon at lower leg level,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_1337,disease,"Dislocation, sprain and strain of joints and ligaments of knee",http://www.ebi.ac.uk/efo/EFO_0009507,efo,26/04/2019 00:00
+,ukbiobank_1338,disease,"Fracture of lower leg, including ankle",http://www.ebi.ac.uk/efo/EFO_0009512,efo,26/04/2019 00:00
+,ukbiobank_1339,disease,Open wound of lower leg,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_1340,disease,Superficial injury of lower leg,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_1341,disease,Injury of muscle and tendon at hip and thigh level,http://www.ebi.ac.uk/efo/EFO_0009508,efo,26/04/2019 00:00
+,ukbiobank_1342,disease,Other and unspecified injuries of wrist and hand,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_1343,disease,Traumatic amputation of wrist and hand,http://www.ebi.ac.uk/efo/EFO_0009632,efo,26/04/2019 00:00
+,ukbiobank_1344,disease,Crushing injury of wrist and hand,http://www.ebi.ac.uk/efo/EFO_0009504,efo,26/04/2019 00:00
+,ukbiobank_1345,disease,Injury of muscle and tendon at wrist and hand level,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_1346,disease,"Dislocation, sprain and strain of joints and ligaments at wrist and hand level",http://www.ebi.ac.uk/efo/EFO_0009521,efo,26/04/2019 00:00
+,ukbiobank_1346,disease,"Dislocation, sprain and strain of joints and ligaments at wrist and hand level",http://www.ebi.ac.uk/efo/EFO_0009582,efo,26/04/2019 00:00
+,ukbiobank_1347,disease,Open wound of wrist and hand,http://www.ebi.ac.uk/efo/EFO_0005756,efo,26/04/2019 00:00
+,ukbiobank_1348,disease,Superficial injury of wrist and hand,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_1349,disease,Injury of muscle and tendon at forearm level,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_1350,disease,Open wound of forearm,http://www.ebi.ac.uk/efo/EFO_0005756,efo,26/04/2019 00:00
+,ukbiobank_1351,disease,Injury of muscle and tendon at shoulder and upper arm level,http://www.ebi.ac.uk/efo/EFO_1001178,efo,26/04/2019 00:00
+,ukbiobank_1352,disease,"Dislocation, sprain and strain of joints and ligaments of shoulder girdle",http://www.ebi.ac.uk/efo/EFO_0009521,efo,26/04/2019 00:00
+,ukbiobank_1352,disease,"Dislocation, sprain and strain of joints and ligaments of shoulder girdle",http://www.ebi.ac.uk/efo/EFO_0009582,efo,26/04/2019 00:00
+,ukbiobank_1353,disease,"Other and unspecified injuries of abdomen, lower back and pelvis",http://www.ebi.ac.uk/efo/EFO_0009502,efo,26/04/2019 00:00
+,ukbiobank_1354,disease,"Open wound of abdomen, lower back and pelvis",http://www.ebi.ac.uk/efo/EFO_0009502,efo,26/04/2019 00:00
+,ukbiobank_1355,disease,"Fracture of rib(s), sternum and thoracic spine",http://www.ebi.ac.uk/efo/EFO_0009620,efo,26/04/2019 00:00
+,ukbiobank_1356,disease,Superficial injury of thorax,http://www.ebi.ac.uk/efo/EFO_0000546,efo,26/04/2019 00:00
+,ukbiobank_1357,disease,"Dislocation, sprain and strain of joints and ligaments at neck level",http://www.ebi.ac.uk/efo/EFO_0009476,efo,26/04/2019 00:00
+,ukbiobank_1358,disease,Fracture of neck,http://www.ebi.ac.uk/efo/EFO_0003902,efo,26/04/2019 00:00
+,ukbiobank_1359,disease,Other and unspecified injuries of head,http://www.ebi.ac.uk/efo/EFO_0009505,efo,26/04/2019 00:00
+,ukbiobank_1360,disease,Intracranial injury,http://www.ebi.ac.uk/efo/EFO_0009505,efo,26/04/2019 00:00
+,ukbiobank_1361,disease,Injury of eye and orbit,http://www.ebi.ac.uk/efo/EFO_0009485,efo,26/04/2019 00:00
+,ukbiobank_1362,disease,Open wound of head,http://www.ebi.ac.uk/efo/EFO_0009505,efo,26/04/2019 00:00
+,ukbiobank_1363,disease,Other abnormal products of conception,http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1364,phenotype,Abnormal findings on diagnostic imaging of lung,http://purl.obolibrary.org/obo/HP_0002088,efo,26/04/2019 00:00
+,ukbiobank_1365,phenotype,Abnormal findings on diagnostic imaging of central nervous system,http://purl.obolibrary.org/obo/HP_0002011,efo,26/04/2019 00:00
+,ukbiobank_1366,phenotype,Other abnormal findings of blood chemistry,http://purl.obolibrary.org/obo/HP_0001871,efo,26/04/2019 00:00
+,ukbiobank_1367,phenotype,Other abnormal immunological findings in serum,http://purl.obolibrary.org/obo/HP_0002715,efo,26/04/2019 00:00
+,ukbiobank_1368,disease,Unknown and unspecified causes of morbidity,http://www.ebi.ac.uk/efo/EFO_0000408,efo,26/04/2019 00:00
+,ukbiobank_1369,phenotype,Other general symptoms and signs,http://www.ebi.ac.uk/efo/EFO_0003765,efo,26/04/2019 00:00
+,ukbiobank_1370,disease,Maternal care for other conditions predominantly related to pregnancy,http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1371,disease,"Oedema, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009373,efo,26/04/2019 00:00
+,ukbiobank_1372,phenotype,"Convulsions, not elsewhere classified",http://purl.obolibrary.org/obo/HP_0001250,efo,26/04/2019 00:00
+,ukbiobank_1373,phenotype,Syncope and collapse,http://purl.obolibrary.org/obo/HP_0001279,efo,26/04/2019 00:00
+,ukbiobank_1374,phenotype,Senility,http://purl.obolibrary.org/obo/HP_0100543,efo,26/04/2019 00:00
+,ukbiobank_1375,phenotype,Malaise and fatigue,http://purl.obolibrary.org/obo/HP_0012378,efo,26/04/2019 00:00
+,ukbiobank_1375,phenotype,Malaise and fatigue,http://www.ebi.ac.uk/efo/EFO_0009641,efo,26/04/2019 00:00
+,ukbiobank_1376,disease,Voice disturbances,http://www.ebi.ac.uk/efo/EFO_0009692,efo,26/04/2019 00:00
+,ukbiobank_1377,phenotype,"Speech disturbances, not elsewhere classified",http://purl.obolibrary.org/obo/HP_0011098,efo,26/04/2019 00:00
+,ukbiobank_1378,phenotype,Other symptoms and signs involving cognitive functions and awareness,http://purl.obolibrary.org/obo/HP_0100543,efo,26/04/2019 00:00
+,ukbiobank_1379,phenotype,"Somnolence, stupor and coma",http://purl.obolibrary.org/obo/HP_0001259,efo,26/04/2019 00:00
+,ukbiobank_1380,phenotype,Other symptoms and signs involving the urinary system,http://purl.obolibrary.org/obo/HP_0000079,efo,26/04/2019 00:00
+,ukbiobank_1381,phenotype,Other symptoms and signs involving the nervous and musculoskeletal systems,http://purl.obolibrary.org/obo/HP_0003011,efo,26/04/2019 00:00
+,ukbiobank_1381,phenotype,Other symptoms and signs involving the nervous and musculoskeletal systems,http://purl.obolibrary.org/obo/HP_0000924,efo,26/04/2019 00:00
+,ukbiobank_1381,phenotype,Other symptoms and signs involving the nervous and musculoskeletal systems,http://purl.obolibrary.org/obo/HP_0000707,efo,26/04/2019 00:00
+,ukbiobank_1382,phenotype,Other skin changes,http://purl.obolibrary.org/obo/HP_0000951,efo,26/04/2019 00:00
+,ukbiobank_1383,disease,"Localised swelling, mass and lump of skin and subcutaneous tissue",http://www.orpha.net/ORDO/Orphanet_79383,efo,26/04/2019 00:00
+,ukbiobank_1384,disease,Rash and other nonspecific skin eruption,http://www.ebi.ac.uk/efo/EFO_0000701,efo,26/04/2019 00:00
+,ukbiobank_1385,phenotype,Other symptoms and signs involving the digestive system and abdomen,http://purl.obolibrary.org/obo/HP_0025031,efo,26/04/2019 00:00
+,ukbiobank_1386,disease,Flatulence and related conditions,http://www.ebi.ac.uk/efo/EFO_0009669,efo,26/04/2019 00:00
+,ukbiobank_1387,phenotype,Other symptoms and signs involving the circulatory and respiratory systems,http://purl.obolibrary.org/obo/HP_0002086,efo,26/04/2019 00:00
+,ukbiobank_1387,phenotype,Other symptoms and signs involving the circulatory and respiratory systems,http://purl.obolibrary.org/obo/HP_0001626,efo,26/04/2019 00:00
+,ukbiobank_1388,phenotype,Pain in throat and chest,http://www.ebi.ac.uk/efo/EFO_0003843,efo,26/04/2019 00:00
+,ukbiobank_1389,disease,"Other congenital malformations of tongue, mouth and pharynx",http://www.orpha.net/ORDO/Orphanet_183530,efo,26/04/2019 00:00
+,ukbiobank_1390,disease,Other congenital malformations of face and neck,http://www.orpha.net/ORDO/Orphanet_183530,efo,26/04/2019 00:00
+,ukbiobank_1391,phenotype,Ectopic pregnancy,http://purl.obolibrary.org/obo/HP_0031456,efo,26/04/2019 00:00
+,ukbiobank_1392,disease,Maternal care for known or suspected foetal abnormality and damage,http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1393,disease,Gestational [pregnancy-induced] hypertension without significant proteinuria,http://www.ebi.ac.uk/efo/EFO_0000668,efo,26/04/2019 00:00
+,ukbiobank_1393,phenotype,Gestational [pregnancy-induced] hypertension without significant proteinuria,http://purl.obolibrary.org/obo/HP_0000093,efo,26/04/2019 00:00
+,ukbiobank_1394,phenotype,Haemorrhage in early pregnancy,http://purl.obolibrary.org/obo/MP_0001914,efo,26/04/2019 00:00
+,ukbiobank_1395,disease,Maternal care for other known or suspected foetal problems,http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1396,disease,Other deforming dorsopathies,http://www.ebi.ac.uk/efo/EFO_0002461,efo,26/04/2019 00:00
+,ukbiobank_1397,disease,Other inflammatory spondylopathies,http://www.ebi.ac.uk/efo/EFO_0004260,efo,26/04/2019 00:00
+,ukbiobank_1398,phenotype,Other disorders of amniotic fluid and membranes,http://purl.obolibrary.org/obo/HP_0001560,efo,26/04/2019 00:00
+,ukbiobank_1399,phenotype,"Antepartum haemorrhage, not elsewhere classified",http://purl.obolibrary.org/obo/HP_0025328,efo,26/04/2019 00:00
+,ukbiobank_1400,phenotype,False labour,http://www.ebi.ac.uk/efo/EFO_0009639,efo,26/04/2019 00:00
+,ukbiobank_1401,disease,Prolonged pregnancy,http://www.ebi.ac.uk/efo/EFO_0009681,efo,26/04/2019 00:00
+,ukbiobank_1402,phenotype,Obstructed labour due to malposition and malpresentation of foetus,http://purl.obolibrary.org/obo/HP_0001787,efo,26/04/2019 00:00
+,ukbiobank_1403,phenotype,Other obstructed labour,http://purl.obolibrary.org/obo/HP_0001787,efo,26/04/2019 00:00
+,ukbiobank_1404,phenotype,Labour and delivery complicated by foetal stress [distress],http://purl.obolibrary.org/obo/HP_0001787,efo,26/04/2019 00:00
+,ukbiobank_1405,phenotype,Labour and delivery complicated by umbilical cord complications,http://purl.obolibrary.org/obo/HP_0001787,efo,26/04/2019 00:00
+,ukbiobank_1406,phenotype,"Other complications of labour and delivery, not elsewhere classified",http://purl.obolibrary.org/obo/HP_0001787,efo,26/04/2019 00:00
+,ukbiobank_1407,factor,Single spontaneous delivery,http://www.ebi.ac.uk/efo/EFO_0009638,efo,26/04/2019 00:00
+,ukbiobank_1408,experimental process,Single delivery by Caesarean section,http://www.ebi.ac.uk/efo/EFO_0009636,efo,26/04/2019 00:00
+,ukbiobank_1409,disease,"Complications of the puerperium, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009683,efo,26/04/2019 00:00
+,ukbiobank_1410,disease,"Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium",http://www.ebi.ac.uk/efo/EFO_0009682,efo,26/04/2019 00:00
+,ukbiobank_1411,phenotype,Recurrent and persistent haematuria,http://purl.obolibrary.org/obo/HP_0000790,efo,26/04/2019 00:00
+,ukbiobank_1412,disease,Acute tubulo-interstitial nephritis,http://www.ebi.ac.uk/efo/EFO_1002050,efo,26/04/2019 00:00
+,ukbiobank_1413,disease,"Tubulo-interstitial nephritis, not specified as acute or chronic",http://www.ebi.ac.uk/efo/EFO_1002050,efo,26/04/2019 00:00
+,ukbiobank_1414,disease,Calculus of lower urinary tract,http://www.ebi.ac.uk/efo/EFO_1001228,efo,26/04/2019 00:00
+,ukbiobank_1415,disease,"Other disorders of kidney and ureter, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009690,efo,26/04/2019 00:00
+,ukbiobank_1416,phenotype,"Neuromuscular dysfunction of bladder, not elsewhere classified",http://purl.obolibrary.org/obo/HP_0000011,efo,26/04/2019 00:00
+,ukbiobank_1417,disease,Other disorders of urethra,http://www.ebi.ac.uk/efo/EFO_0009689,efo,26/04/2019 00:00
+,ukbiobank_1418,disease,Other disorders of urinary system,http://www.ebi.ac.uk/efo/EFO_0009690,efo,26/04/2019 00:00
+,ukbiobank_1419,disease,Hyperplasia of prostate,http://www.ebi.ac.uk/efo/EFO_0000284,efo,26/04/2019 00:00
+,ukbiobank_1420,disease,Other disorders of prostate,http://www.ebi.ac.uk/efo/EFO_0009602,efo,26/04/2019 00:00
+,ukbiobank_1421,disease,Other disorders of penis,http://www.ebi.ac.uk/efo/EFO_0009555,efo,26/04/2019 00:00
+,ukbiobank_1422,disease,"Inflammatory disorders of male genital organs, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009555,efo,26/04/2019 00:00
+,ukbiobank_1423,disease,Other disorders of male genital organs,http://www.ebi.ac.uk/efo/EFO_0009555,efo,26/04/2019 00:00
+,ukbiobank_1424,disease,Inflammatory disorders of breast,http://www.ebi.ac.uk/efo/EFO_1001034,efo,26/04/2019 00:00
+,ukbiobank_1425,disease,Other disorders of breast,http://www.ebi.ac.uk/efo/EFO_0009483,efo,26/04/2019 00:00
+,ukbiobank_1426,disease,Other female pelvic inflammatory diseases,http://www.ebi.ac.uk/efo/EFO_1001388,efo,26/04/2019 00:00
+,ukbiobank_1427,disease,"Other noninflammatory disorders of uterus, except cervix",http://www.ebi.ac.uk/efo/EFO_0009549,efo,26/04/2019 00:00
+,ukbiobank_1428,disease,Erosion and ectropion of cervix uteri,http://www.ebi.ac.uk/efo/EFO_1000862,efo,26/04/2019 00:00
+,ukbiobank_1429,disease,Other noninflammatory disorders of cervix uteri,http://www.ebi.ac.uk/efo/EFO_0009549,efo,26/04/2019 00:00
+,ukbiobank_1430,disease,Other noninflammatory disorders of vagina,http://www.ebi.ac.uk/efo/EFO_0009549,efo,26/04/2019 00:00
+,ukbiobank_1431,disease,Other noninflammatory disorders of vulva and perineum,http://www.ebi.ac.uk/efo/EFO_0009549,efo,26/04/2019 00:00
+,ukbiobank_1432,phenotype,"Excessive, frequent and irregular menstruation",http://purl.obolibrary.org/obo/HP_0000132,efo,26/04/2019 00:00
+,ukbiobank_1433,phenotype,Other abnormal uterine and vaginal bleeding,http://purl.obolibrary.org/obo/HP_0100608,efo,26/04/2019 00:00
+,ukbiobank_1434,phenotype,Menopausal and other perimenopausal disorders,http://www.ebi.ac.uk/efo/EFO_0003922,efo,26/04/2019 00:00
+,ukbiobank_1435,disease,"Postprocedural disorders of genito-urinary system, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009663,efo,26/04/2019 00:00
+,ukbiobank_1436,disease,Other arthrosis,http://www.ebi.ac.uk/efo/EFO_0002506,efo,26/04/2019 00:00
+,ukbiobank_1437,disease,Acquired deformities of fingers and toes,http://www.orpha.net/ORDO/Orphanet_294947,efo,26/04/2019 00:00
+,ukbiobank_1438,disease,Other acquired deformities of limbs,http://www.orpha.net/ORDO/Orphanet_294944,efo,26/04/2019 00:00
+,ukbiobank_1439,disease,Disorders of patella,http://www.ebi.ac.uk/efo/EFO_0009665,efo,26/04/2019 00:00
+,ukbiobank_1440,disease,Other specific joint derangements,http://www.ebi.ac.uk/efo/EFO_1000999,efo,26/04/2019 00:00
+,ukbiobank_1441,disease,Other systemic involvement of connective tissue,http://www.ebi.ac.uk/efo/EFO_1001986,efo,26/04/2019 00:00
+,ukbiobank_1442,disease,Other spondylopathies,http://www.ebi.ac.uk/efo/EFO_0004260,efo,26/04/2019 00:00
+,ukbiobank_1443,disease,"Other dorsopathies, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009676,efo,26/04/2019 00:00
+,ukbiobank_1444,disease,Other spondylopathies,http://www.ebi.ac.uk/efo/EFO_0004260,efo,26/04/2019 00:00
+,ukbiobank_1445,disease,Other intervertebral disk disorders,http://www.ebi.ac.uk/efo/EFO_1000900,efo,26/04/2019 00:00
+,ukbiobank_1446,disease,"Other dorsopathies, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009676,efo,26/04/2019 00:00
+,ukbiobank_1447,disease,Other disorders of muscle,http://www.ebi.ac.uk/efo/EFO_0002970,efo,26/04/2019 00:00
+,ukbiobank_1448,phenotype,Spontaneous rupture of synovium and tendon,http://purl.obolibrary.org/obo/HP_0100550,efo,26/04/2019 00:00
+,ukbiobank_1449,disease,Other disorders of synovium and tendon,http://www.ebi.ac.uk/efo/EFO_1001435,efo,26/04/2019 00:00
+,ukbiobank_1450,disease,Other bursopathies,http://www.ebi.ac.uk/efo/EFO_1000999,efo,26/04/2019 00:00
+,ukbiobank_1451,disease,"Enthesopathies of lower limb, excluding foot",http://www.ebi.ac.uk/efo/EFO_0009666,efo,26/04/2019 00:00
+,ukbiobank_1452,disease,Other enthesopathies,http://www.ebi.ac.uk/efo/EFO_0009666,efo,26/04/2019 00:00
+,ukbiobank_1453,disease,"Other soft tissue disorders, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009470,efo,26/04/2019 00:00
+,ukbiobank_1454,disease,Osteoporosis with pathological fracture,http://www.ebi.ac.uk/efo/EFO_0003882,efo,26/04/2019 00:00
+,ukbiobank_1455,disease,Disorders of continuity of bone,http://www.ebi.ac.uk/efo/EFO_0004260,efo,26/04/2019 00:00
+,ukbiobank_1456,disease,Other disorders of bone density and structure,http://www.ebi.ac.uk/efo/EFO_0003923,efo,26/04/2019 00:00
+,ukbiobank_1457,disease,Other disorders of bone,http://www.ebi.ac.uk/efo/EFO_0004260,efo,26/04/2019 00:00
+,ukbiobank_1458,disease,Other disorders of cartilage,http://www.ebi.ac.uk/efo/EFO_0005802,efo,26/04/2019 00:00
+,ukbiobank_1459,disease,Other acquired deformities of musculoskeletal system and connective tissue,http://www.ebi.ac.uk/efo/EFO_0009676,efo,26/04/2019 00:00
+,ukbiobank_1459,disease,Other acquired deformities of musculoskeletal system and connective tissue,http://www.ebi.ac.uk/efo/EFO_1001986,efo,26/04/2019 00:00
+,ukbiobank_1460,disease,"Postprocedural musculoskeletal disorders, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009676,efo,26/04/2019 00:00
+,ukbiobank_1461,phenotype,Dermatitis due to substances taken internally,http://purl.obolibrary.org/obo/HP_0000964,efo,26/04/2019 00:00
+,ukbiobank_1462,disease,Other dermatitis,http://www.ebi.ac.uk/efo/EFO_0000701,efo,26/04/2019 00:00
+,ukbiobank_1463,disease,Other erythematous conditions,http://www.ebi.ac.uk/efo/EFO_0000701,efo,26/04/2019 00:00
+,ukbiobank_1464,disease,Nail disorders,http://www.orpha.net/ORDO/Orphanet_183454,efo,26/04/2019 00:00
+,ukbiobank_1465,disease,Other follicular disorders,http://www.ebi.ac.uk/efo/EFO_1000702,efo,26/04/2019 00:00
+,ukbiobank_1466,phenotype,Other epidermal thickening,http://purl.obolibrary.org/obo/HP_0011368,efo,26/04/2019 00:00
+,ukbiobank_1467,phenotype,Embedded and impacted teeth,http://purl.obolibrary.org/obo/HP_0011079,efo,26/04/2019 00:00
+,ukbiobank_1468,disease,Gingivitis and periodontal diseases,http://www.ebi.ac.uk/efo/EFO_0000649,efo,26/04/2019 00:00
+,ukbiobank_1469,disease,Other disorders of gingiva and edentulous alveolar ridge,http://www.ebi.ac.uk/efo/EFO_0009670,efo,26/04/2019 00:00
+,ukbiobank_1470,disease,Other disorders of teeth and supporting structures,http://www.ebi.ac.uk/efo/EFO_1001216,efo,26/04/2019 00:00
+,ukbiobank_1471,disease,"Cysts of oral region, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0003868,efo,26/04/2019 00:00
+,ukbiobank_1472,disease,Stomatitis and related lesions,http://www.ebi.ac.uk/efo/EFO_0009688,efo,26/04/2019 00:00
+,ukbiobank_1473,disease,Other diseases of lip and oral mucosa,http://www.ebi.ac.uk/efo/EFO_1001047,efo,26/04/2019 00:00
+,ukbiobank_1474,disease,Diseases of tongue,http://www.ebi.ac.uk/efo/EFO_1001047,efo,26/04/2019 00:00
+,ukbiobank_1475,disease,Other diseases of stomach and duodenum,http://www.ebi.ac.uk/efo/EFO_0000405,efo,26/04/2019 00:00
+,ukbiobank_1476,disease,Other non-infective gastro-enteritis and colitis,http://www.ebi.ac.uk/efo/EFO_1001463,efo,26/04/2019 00:00
+,ukbiobank_1477,phenotype,Paralytic ileus and intestinal obstruction without hernia,http://purl.obolibrary.org/obo/HP_0004796,efo,26/04/2019 00:00
+,ukbiobank_1478,phenotype,Fissure and fistula of anal and rectal regions,http://purl.obolibrary.org/obo/HP_0012390,efo,26/04/2019 00:00
+,ukbiobank_1479,disease,Other diseases of anus and rectum,http://www.ebi.ac.uk/efo/EFO_0009660,efo,26/04/2019 00:00
+,ukbiobank_1479,disease,Other diseases of anus and rectum,http://www.ebi.ac.uk/efo/EFO_0009685,efo,26/04/2019 00:00
+,ukbiobank_1480,disease,Other inflammatory liver diseases,http://www.ebi.ac.uk/efo/EFO_0001421,efo,26/04/2019 00:00
+,ukbiobank_1481,disease,Other diseases of pancreas,http://www.ebi.ac.uk/efo/EFO_0009605,efo,26/04/2019 00:00
+,ukbiobank_1482,disease,"Postprocedural disorders of digestive system, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0000405,efo,26/04/2019 00:00
+,ukbiobank_1483,disease,Other diseases of digestive system,http://www.ebi.ac.uk/efo/EFO_0000405,efo,26/04/2019 00:00
+,ukbiobank_1484,disease,Acute pharyngitis,http://www.ebi.ac.uk/efo/EFO_0009657,efo,26/04/2019 00:00
+,ukbiobank_1485,phenotype,Acute tonsillitis,http://purl.obolibrary.org/obo/HP_0011110,efo,26/04/2019 00:00
+,ukbiobank_1486,disease,Acute upper respiratory infections of multiple and unspecified sites,http://www.ebi.ac.uk/efo/EFO_0000684,efo,26/04/2019 00:00
+,ukbiobank_1487,disease,"Chronic rhinitis, nasopharyngitis and pharyngitis",http://www.ebi.ac.uk/efo/EFO_0008521,efo,26/04/2019 00:00
+,ukbiobank_1488,disease,Other disorders of nose and nasal sinuses,http://www.ebi.ac.uk/efo/EFO_0000684,efo,26/04/2019 00:00
+,ukbiobank_1489,disease,Chronic diseases of tonsils and adenoids,http://www.ebi.ac.uk/efo/EFO_0007352,efo,26/04/2019 00:00
+,ukbiobank_1490,disease,"Diseases of vocal cords and larynx, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009673,efo,26/04/2019 00:00
+,ukbiobank_1491,disease,Other diseases of upper respiratory tract,http://www.ebi.ac.uk/efo/EFO_0000684,efo,26/04/2019 00:00
+,ukbiobank_1492,disease,"Bronchitis, not specified as acute or chronic",http://www.ebi.ac.uk/efo/EFO_0009661,efo,26/04/2019 00:00
+,ukbiobank_1493,disease,Pyothorax,http://www.ebi.ac.uk/efo/EFO_0009680,efo,26/04/2019 00:00
+,ukbiobank_1494,phenotype,"Pleural effusion, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009637,efo,26/04/2019 00:00
+,ukbiobank_1495,disease,"Respiratory failure, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009686,efo,26/04/2019 00:00
+,ukbiobank_1496,disease,Rheumatic mitral valve diseases,http://www.ebi.ac.uk/efo/EFO_0009557,efo,26/04/2019 00:00
+,ukbiobank_1497,disease,Other diseases of pericardium,http://www.ebi.ac.uk/efo/EFO_0007427,efo,26/04/2019 00:00
+,ukbiobank_1498,disease,Acute and subacute endocarditis,http://www.ebi.ac.uk/efo/EFO_0000465,efo,26/04/2019 00:00
+,ukbiobank_1499,disease,Atrioventricular and left bundle-branch block,http://www.ebi.ac.uk/efo/EFO_0004138,efo,26/04/2019 00:00
+,ukbiobank_1500,disease,Other conduction disorders,http://www.ebi.ac.uk/efo/EFO_0005137,efo,26/04/2019 00:00
+,ukbiobank_1501,disease,Other cardiac arrhythmias,http://www.ebi.ac.uk/efo/EFO_0004269,efo,26/04/2019 00:00
+,ukbiobank_1502,disease,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",http://www.ebi.ac.uk/efo/EFO_0009677,efo,26/04/2019 00:00
+,ukbiobank_1503,disease,Other disorders of arteries and arterioles,http://www.ebi.ac.uk/efo/EFO_0004264,efo,26/04/2019 00:00
+,ukbiobank_1504,disease,Diseases of capillaries,http://www.ebi.ac.uk/efo/EFO_0004264,efo,26/04/2019 00:00
+,ukbiobank_1505,disease,Other venous embolism and thrombosis,http://www.ebi.ac.uk/efo/EFO_0004286,efo,26/04/2019 00:00
+,ukbiobank_1506,disease,Other disorders of veins,http://www.ebi.ac.uk/efo/EFO_0004264,efo,26/04/2019 00:00
+,ukbiobank_1507,disease,Other non-infective disorders of lymphatic vessels and lymph nodes,http://www.ebi.ac.uk/efo/EFO_0007352,efo,26/04/2019 00:00
+,ukbiobank_1508,disease,Other disorders of eyelid,http://www.ebi.ac.uk/efo/EFO_0009547,efo,26/04/2019 00:00
+,ukbiobank_1509,disease,Disorders of orbit,http://www.ebi.ac.uk/efo/EFO_0009664,efo,26/04/2019 00:00
+,ukbiobank_1510,disease,Other disorders of conjunctiva,http://www.ebi.ac.uk/efo/EFO_1000203,efo,26/04/2019 00:00
+,ukbiobank_1511,disease,Other disorders of lens,http://www.ebi.ac.uk/efo/EFO_0009674,efo,26/04/2019 00:00
+,ukbiobank_1512,disease,Paralytic strabismus,http://www.ebi.ac.uk/efo/EFO_0009678,efo,26/04/2019 00:00
+,ukbiobank_1513,phenotype,Other strabismus,http://purl.obolibrary.org/obo/HP_0000486,efo,26/04/2019 00:00
+,ukbiobank_1514,disease,Other disorders of eye and adnexa,http://www.ebi.ac.uk/efo/EFO_0009546,efo,26/04/2019 00:00
+,ukbiobank_1515,disease,"Postprocedural disorders of eye and adnexa, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0009546,efo,26/04/2019 00:00
+,ukbiobank_1516,disease,Other disorders of external ear,http://www.ebi.ac.uk/efo/EFO_0009668,efo,26/04/2019 00:00
+,ukbiobank_1517,disease,Nonsuppurative otitis media,http://www.ebi.ac.uk/efo/EFO_0007415,efo,26/04/2019 00:00
+,ukbiobank_1518,disease,Other disorders of Eustachian tube,http://www.ebi.ac.uk/efo/EFO_0009667,efo,26/04/2019 00:00
+,ukbiobank_1519,disease,Disorders of vestibular function,http://www.ebi.ac.uk/efo/EFO_0009691,efo,26/04/2019 00:00
+,ukbiobank_1520,disease,Other diseases of inner ear,http://www.ebi.ac.uk/efo/EFO_0009672,efo,26/04/2019 00:00
+,ukbiobank_1521,phenotype,Otalgia and effusion of ear,http://purl.obolibrary.org/obo/HP_0030766,efo,26/04/2019 00:00
+,ukbiobank_1521,disease,Otalgia and effusion of ear,http://www.ebi.ac.uk/efo/EFO_0007415,efo,26/04/2019 00:00
+,ukbiobank_1522,disease,"Other disorders of ear, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_1001455,efo,26/04/2019 00:00
+,ukbiobank_1523,disease,Other demyelinating diseases of central nervous system,http://www.ebi.ac.uk/efo/EFO_1000870,efo,26/04/2019 00:00
+,ukbiobank_1524,disease,Other mononeuropathies,http://www.ebi.ac.uk/efo/EFO_0009558,efo,26/04/2019 00:00
+,ukbiobank_1525,disease,Other polyneuropathies,http://www.ebi.ac.uk/efo/EFO_0009562,efo,26/04/2019 00:00
+,ukbiobank_1526,disease,Paraplegia and tetraplegia,http://www.ebi.ac.uk/efo/EFO_0009679,efo,26/04/2019 00:00
+,ukbiobank_1526,disease,Paraplegia and tetraplegia,http://www.ebi.ac.uk/efo/EFO_0009684,efo,26/04/2019 00:00
+,ukbiobank_1527,disease,Other disorders of brain,http://www.ebi.ac.uk/efo/EFO_0005774,efo,26/04/2019 00:00
+,ukbiobank_1528,disease,Other diseases of spinal cord,http://www.ebi.ac.uk/efo/EFO_0009488,efo,26/04/2019 00:00
+,ukbiobank_1529,disease,Somatoform disorders,http://www.ebi.ac.uk/efo/EFO_0009687,efo,26/04/2019 00:00
+,ukbiobank_1530,disease,Other non-toxic goitre,http://www.ebi.ac.uk/efo/EFO_0004283,efo,26/04/2019 00:00
+,ukbiobank_1531,disease,Thyrotoxicosis [hyperthyroidism],http://www.ebi.ac.uk/efo/EFO_0009189,efo,26/04/2019 00:00
+,ukbiobank_1532,disease,Other disorders of pancreatic internal secretion,http://www.ebi.ac.uk/efo/EFO_0009605,efo,26/04/2019 00:00
+,ukbiobank_1533,phenotype,"Other disorders of fluid, electrolyte and acid-base balance",http://purl.obolibrary.org/obo/HP_0001939,efo,26/04/2019 00:00
+,ukbiobank_1534,disease,Carcinoma in situ of other and unspecified genital organs,http://www.ebi.ac.uk/efo/EFO_0003863,efo,26/04/2019 00:00
+,ukbiobank_1535,disease,Carcinoma in situ of other and unspecified sites,http://www.ebi.ac.uk/efo/EFO_0000313,efo,26/04/2019 00:00
+,ukbiobank_1536,disease,Benign neoplasm of other and ill-defined parts of digestive system,http://www.ebi.ac.uk/efo/EFO_0008549,efo,26/04/2019 00:00
+,ukbiobank_1537,disease,Benign neoplasm of middle ear and respiratory system,http://www.ebi.ac.uk/efo/EFO_0003853,efo,26/04/2019 00:00
+,ukbiobank_1538,disease,Benign neoplasm of bone and articular cartilage,http://www.ebi.ac.uk/efo/EFO_0003820,efo,26/04/2019 00:00
+,ukbiobank_1539,disease,Benign lipomatous neoplasm,http://www.ebi.ac.uk/efo/EFO_0000759,efo,26/04/2019 00:00
+,ukbiobank_1540,disease,Other benign neoplasms of connective and other soft tissue,http://www.ebi.ac.uk/efo/EFO_1000541,efo,26/04/2019 00:00
+,ukbiobank_1541,disease,Melanocytic naevi,http://www.ebi.ac.uk/efo/EFO_0009675,efo,26/04/2019 00:00
+,ukbiobank_1542,disease,Other benign neoplasms of skin,http://www.ebi.ac.uk/efo/EFO_0004198,efo,26/04/2019 00:00
+,ukbiobank_1543,disease,Benign neoplasm of urinary organs,http://www.ebi.ac.uk/efo/EFO_0003863,efo,26/04/2019 00:00
+,ukbiobank_1544,disease,Benign neoplasm of meninges,http://www.ebi.ac.uk/efo/EFO_1000107,efo,26/04/2019 00:00
+,ukbiobank_1545,disease,Benign neoplasm of other and unspecified endocrine glands,http://www.ebi.ac.uk/efo/EFO_0003769,efo,26/04/2019 00:00
+,ukbiobank_1546,disease,Benign neoplasm of other and unspecified sites,http://www.ebi.ac.uk/efo/EFO_0002422,efo,26/04/2019 00:00
+,ukbiobank_1547,disease,Neoplasm of uncertain or unknown behaviour of oral cavity and digestive organs,http://www.ebi.ac.uk/efo/EFO_0008549,efo,26/04/2019 00:00
+,ukbiobank_1548,disease,Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs,http://www.ebi.ac.uk/efo/EFO_0003853,efo,26/04/2019 00:00
+,ukbiobank_1549,disease,Neoplasm of uncertain or unknown behaviour of urinary organs,http://www.ebi.ac.uk/efo/EFO_0003863,efo,26/04/2019 00:00
+,ukbiobank_1550,disease,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",http://www.ebi.ac.uk/efo/EFO_0001642,efo,26/04/2019 00:00
+,ukbiobank_1550,disease,"Other neoplasms of uncertain or unknown behaviour of lymphoid, haematopoietic and related tissue",http://www.ebi.ac.uk/efo/EFO_1000201,efo,26/04/2019 00:00
+,ukbiobank_1551,disease,Neoplasm of uncertain or unknown behaviour of other and unspecified sites,http://www.ebi.ac.uk/efo/EFO_0000616,efo,26/04/2019 00:00
+,ukbiobank_1552,phenotype,Other aplastic anaemias,http://purl.obolibrary.org/obo/HP_0001915,efo,26/04/2019 00:00
+,ukbiobank_1553,disease,Other diseases of blood and blood-forming organs,http://www.ebi.ac.uk/efo/EFO_0005803,efo,26/04/2019 00:00
+,ukbiobank_1554,disease,"Other disorders involving the immune mechanism, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0000540,efo,26/04/2019 00:00
+,ukbiobank_1555,disease,Other malignant neoplasms of skin,http://www.ebi.ac.uk/efo/EFO_0004198,efo,26/04/2019 00:00
+,ukbiobank_1556,disease,Malignant neoplasm of other connective and soft tissue,http://www.ebi.ac.uk/efo/EFO_1000541,efo,26/04/2019 00:00
+,ukbiobank_1557,disease,Secondary malignant neoplasm of respiratory and digestive organs,http://www.ebi.ac.uk/efo/EFO_0009812,efo,26/04/2019 00:00
+,ukbiobank_1558,disease,Secondary malignant neoplasm of other sites,http://www.ebi.ac.uk/efo/EFO_0009812,efo,26/04/2019 00:00
+,ukbiobank_1559,disease,Malignant neoplasm without specification of site,http://www.ebi.ac.uk/efo/EFO_0000311,efo,26/04/2019 00:00
+,ukbiobank_1560,disease,Other and unspecified types of non-Hodgkin's lymphoma,http://www.ebi.ac.uk/efo/EFO_0005952,efo,26/04/2019 00:00
+,ukbiobank_1561,disease,Candidiasis,http://www.ebi.ac.uk/efo/EFO_1001283,efo,26/04/2019 00:00
+,ukbiobank_1562,disease,Other bacterial intestinal infections,http://www.ebi.ac.uk/efo/EFO_0009431,efo,26/04/2019 00:00
+,ukbiobank_1562,disease,Other bacterial intestinal infections,http://www.ebi.ac.uk/efo/EFO_0000771,efo,26/04/2019 00:00
+,ukbiobank_1563,disease,Viral and other specified intestinal infections,http://www.ebi.ac.uk/efo/EFO_0009431,efo,26/04/2019 00:00
+,ukbiobank_1563,disease,Viral and other specified intestinal infections,http://www.ebi.ac.uk/efo/EFO_0000763,efo,26/04/2019 00:00
+,ukbiobank_1564,disease,"Other predominantly sexually transmitted diseases, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0003955,efo,26/04/2019 00:00
+,ukbiobank_1565,disease,Other disorders of adrenal gland,http://www.ebi.ac.uk/efo/EFO_0005539,efo,26/04/2019 00:00
