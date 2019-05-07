@@ -1132,10 +1132,10 @@ Other_obstetric_trauma	obstetric labor complications	EFO_0009682	Broad	O71	DONE
 Complications_of_anaesthesia_during_the_puerperium	complication of the puerperium	EFO_0009683	Broad	O89	DONE	
 Intrauterine_hypoxia	hypoxia	EFO_1001793	Exact	P20	DONE	
 Abnormal_serum_enzyme_levels	liver enzyme measurement	EFO_0009826	Exact	R74	DONE	
-Injury_of_blood_vessels_at_neck_level	injury	EFO_0000546	?	S15	Too broad. Could go by anatomical region, but may be worth a new term "injury of blood vessels"?	Consult group
-Injury_of_other_intrathoracic_organs	injury	EFO_0000546	?	S27	Too broad. Could go by anatomical region, but may be worth a new term "injury of blood vessels"?	Consult group
-Injury_of_blood_vessels_at_abdomen_lower_back_and_pelvis_level	injury	EFO_0000546	?	S35	Too broad. Could go by anatomical region, but may be worth a new term "injury of blood vessels"?	Consult group
-Injury_of_blood_vessels_at_shoulder_and_upper_arm_level	injury	EFO_0000546	?	S45	Too broad. Could go by anatomical region, but may be worth a new term "injury of blood vessels"?	Consult group
+Injury_of_blood_vessels_at_neck_level	injury	EFO_0009886	Broad	S15	DONE
+Injury_of_other_intrathoracic_organs	injury	EFO_0009887	Exact	S27	DONE
+Injury_of_blood_vessels_at_abdomen_lower_back_and_pelvis_level	injury	EFO_0009886	Broad	S35	DONE
+Injury_of_blood_vessels_at_shoulder_and_upper_arm_level	injury	EFO_0009886	Broad	S45	DONE
 Other_fluke_infections	infectious disease	EFO_1001342	Exact	B66	DONE	
 Other_postsurgical_states	NA	EFO_0009789	Broad	Z98	DONE	
 Acquired_haemolytic_anaemia	hemolytic anemia	EFO_0005558	Broad	D59	DONE	
@@ -1310,7 +1310,7 @@ Other surgical follow-up care	follow-up	EFO:0009642	Broad	Z48	DONE
 Attention to artificial openings	?	EFO_0009786	Broad	Z43	DONE	
 Postpartum care and examination	patient care? follow-up care?	EFO_0009787	Broad	Z39	DONE	
 Antenatal screening	screening	EFO_0009787	Broad	Z36	DONE	
-Certain early complications of trauma, not elsewhere classified	complication	EFO_0009518	?	T79	Seems too broad, but can not find adequate term anywhere. Might need a new term?	Consult group
+Certain early complications of trauma, not elsewhere classified	complication	EFO_0009888	Broad	T79	DONE
 Follow-up care involving plastic surgery	follow-up	EFO:0009642	Broad	Z42	DONE	
 Procedures for purposes other than remedying health state	medical procedure	EFO_0002571	Broad	Z41	DONE	
 Abnormal findings on diagnostic imaging of other body structures	abnormal finding	EFO_0009827	Exact	R93	DONE	
