@@ -1614,3 +1614,8 @@ STUDY,BIOENTITY,PROPERTY_TYPE,PROPERTY_VALUE,SEMANTIC_TAG,ANNOTATOR,ANNOTATION_D
 ,ukbiobank_1563,disease,Viral and other specified intestinal infections,http://www.ebi.ac.uk/efo/EFO_0000763,efo,26/04/2019 00:00
 ,ukbiobank_1564,disease,"Other predominantly sexually transmitted diseases, not elsewhere classified",http://www.ebi.ac.uk/efo/EFO_0003955,efo,26/04/2019 00:00
 ,ukbiobank_1565,disease,Other disorders of adrenal gland,http://www.ebi.ac.uk/efo/EFO_0005539,efo,26/04/2019 00:00
+,ukbiobank_1566,disease,Injury_of_blood_vessels_at_neck_level,http://www.ebi.ac.uk/efo/EFO_0009886,efo,07/05/2019 00:00
+,ukbiobank_1567,disease,Injury_of_other_intrathoracic_organs,http://www.ebi.ac.uk/efo/EFO_0009887,efo,07/05/2019 00:00
+,ukbiobank_1568,disease,Injury_of_blood_vessels_at_abdomen_lower_back_and_pelvis_level,http://www.ebi.ac.uk/efo/EFO_0009886,efo,07/05/2019 00:00
+,ukbiobank_1569,disease,Injury_of_blood_vessels_at_shoulder_and_upper_arm_level,http://www.ebi.ac.uk/efo/EFO_0009886,efo,07/05/2019 00:00
+,ukbiobank_1570,disease,Certain early complications of trauma, not elsewhere classified,http://www.ebi.ac.uk/efo/EFO_0009888,efo,07/05/2019 00:00
