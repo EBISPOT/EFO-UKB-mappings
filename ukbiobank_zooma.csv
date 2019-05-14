@@ -599,8 +599,8 @@ STUDY,BIOENTITY,PROPERTY_TYPE,PROPERTY_VALUE,SEMANTIC_TAG,ANNOTATOR,ANNOTATION_D
 ,ukbiobank_591,disease,Headaches for 3+ months,http://www.ebi.ac.uk/efo/EFO_0009550,efo,26/04/2019 00:00
 ,ukbiobank_591,phenotype,Headaches for 3+ months,http://purl.obolibrary.org/obo/HP_0002315,efo,26/04/2019 00:00
 ,ukbiobank_592,disease,Gestational diabetes only,http://www.ebi.ac.uk/efo/EFO_0004593,efo,26/04/2019 00:00
-,ukbiobank_593,measurement,"Diastolic blood pressure, automated reading",http://www.ebi.ac.uk/efo/EFO_0006336,efo,26/04/2019 00:00
-,ukbiobank_594,measurement,"Systolic blood pressure, automated reading",http://www.ebi.ac.uk/efo/EFO_0006335,efo,26/04/2019 00:00
+,ukbiobank_593,measurement,"Systolic blood pressure, automated reading",http://www.ebi.ac.uk/efo/EFO_0006335,efo,26/04/2019 00:00
+,ukbiobank_594,measurement,"Diastolic blood pressure, automated reading",http://www.ebi.ac.uk/efo/EFO_0006336,efo,26/04/2019 00:00
 ,ukbiobank_595,measurement,Pulse rate,http://www.ebi.ac.uk/efo/EFO_0004326,efo,26/04/2019 00:00
 ,ukbiobank_596,phenotype,Leg pain on walking,http://purl.obolibrary.org/obo/HP_0012514,efo,26/04/2019 00:00
 ,ukbiobank_597,phenotype,Leg pain when standing still or sitting,http://purl.obolibrary.org/obo/HP_0012514,efo,26/04/2019 00:00
