@@ -1132,7 +1132,7 @@ Other_obstetric_trauma	obstetric labor complications	EFO_0009682	Broad	O71	DONE
 Complications_of_anaesthesia_during_the_puerperium	complication of the puerperium	EFO_0009683	Broad	O89	DONE	
 Intrauterine_hypoxia	hypoxia	EFO_1001793	Exact	P20	DONE	
 Abnormal_serum_enzyme_levels	liver enzyme measurement	EFO_0009826	Exact	R74	DONE	
-Injury_of_blood_vessels_at_neck_level	injury	EFO_0009886	Broad	S15	DONE
+Injury_of_blood_vessels_at_neck_level injury  EFO_0009886 Broad S15 DONE
 Injury_of_other_intrathoracic_organs	injury	EFO_0009887	Exact	S27	DONE
 Injury_of_blood_vessels_at_abdomen_lower_back_and_pelvis_level	injury	EFO_0009886	Broad	S35	DONE
 Injury_of_blood_vessels_at_shoulder_and_upper_arm_level	injury	EFO_0009886	Broad	S45	DONE
